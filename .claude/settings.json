@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(done)",
+      "Bash(python3:*)"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\Axel\\Desktop\\documentation"
+    ]
+  }
+}
