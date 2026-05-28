@@ -5,7 +5,7 @@ export default defineConfig({
   site: 'https://docs.cocolotravel.com',
   integrations: [
     starlight({
-      title: 'Cocolo Travel — Guide',
+      title: 'Cocolo',
       logo: {
         src: './src/assets/logo.svg',
       },
