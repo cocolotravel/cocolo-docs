@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "Bash(done)",
-      "Bash(python3:*)"
+      "Bash(python3:*)",
+      "WebFetch(domain:zeroheight.com)"
     ],
     "additionalDirectories": [
       "C:\\Users\\Axel\\Desktop\\documentation"

@@ -1,0 +1,89 @@
+/* =============================================
+   Fonts
+   ============================================= */
+
+/* Inter — Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+/* Roslindale Display — self-hosted */
+@font-face {
+  font-family: 'Roslindale';
+  src: url('/fonts/RoslindaleDisplay-Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Roslindale';
+  src: url('/fonts/RoslindaleDisplay-Italic.otf') format('opentype');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Roslindale';
+  src: url('/fonts/RoslindaleDisplay-Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Roslindale';
+  src: url('/fonts/RoslindaleDisplay-BoldItalic.otf') format('opentype');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* =============================================
+   Colors — dark mode (default)
+   ============================================= */
+:root {
+  --sl-font: 'Inter', sans-serif;
+
+  --sl-color-accent-low: hsl(47, 60%, 18%);
+  --sl-color-accent: #ffc916;
+  --sl-color-accent-high: hsl(47, 100%, 80%);
+
+  /* Nav bar */
+  --sl-color-bg-nav: #1b3848;
+
+  /* Page & sidebar background */
+  --sl-color-bg: #1b3848;
+  --sl-color-bg-sidebar: #152e3d;
+}
+
+/* =============================================
+   Colors — light mode
+   ============================================= */
+:root[data-theme='light'] {
+  --sl-color-accent-low: #fff3c4;
+  --sl-color-accent: #ffc916;
+  --sl-color-accent-high: #7a5e00;
+
+  /* Improve contrast: use dark golden for accent text/links */
+  --sl-color-text-accent: #7a5e00;
+
+  /* Brand backgrounds */
+  --sl-color-bg: #fffef5;
+  --sl-color-bg-sidebar: #f7f5da;
+
+  /* Brand text */
+  --sl-color-text: #1b3848;
+
+  /* Reset nav bar to Starlight's default light value */
+  --sl-color-bg-nav: var(--sl-color-gray-7);
+}
+
+/* =============================================
+   Headings — Roslindale
+   ============================================= */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.sl-markdown-content :is(h1, h2, h3, h4, h5, h6) {
+  font-family: 'Roslindale', Georgia, serif;
+}

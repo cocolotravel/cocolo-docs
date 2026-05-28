@@ -6,6 +6,14 @@ export default defineConfig({
   integrations: [
     starlight({
       title: 'Cocolo Travel — Guide',
+      logo: {
+        src: './src/assets/logo.svg',
+      },
+      customCss: ['./src/styles/custom.css'],
+      favicon: '/favicon.ico',
+      components: {
+        SiteTitle: './src/components/SiteTitle.astro',
+      },
       defaultLocale: 'fr',
       locales: {
         fr: {
@@ -22,22 +30,22 @@ export default defineConfig({
         {
           label: 'Préparation',
           translations: { en: 'Preparation' },
-          autogenerate: { directory: 'preparation' },
+          items: [{ autogenerate: { directory: 'preparation' } }],
         },
         {
           label: 'Transports',
           translations: { en: 'Transportation' },
-          autogenerate: { directory: 'transportation' },
+          items: [{ autogenerate: { directory: 'transportation' } }],
         },
         {
           label: 'Sur place',
           translations: { en: 'In Japan' },
-          autogenerate: { directory: 'injapan' },
+          items: [{ autogenerate: { directory: 'injapan' } }],
         },
         {
           label: 'Guide des villes',
           translations: { en: 'City guide' },
-          autogenerate: { directory: 'cities' },
+          items: [{ autogenerate: { directory: 'cities' } }],
         },
       ],
       social: [
