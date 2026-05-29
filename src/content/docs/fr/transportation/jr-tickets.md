@@ -1,13 +1,15 @@
 ---
-title: "Tikets de train JR"
-description: "Tout ce qu'il faut savoir sur le réseau ferroviaire Japan Rail (JR)"
+title: "Tickets de train JR"
+description: "Tout ce qu'il faut savoir sur le réseau ferroviaire Japan Rail (JR) et ses tickets"
+sidebar:
+  order: 1
 ---
 
 Le réseau JR est l'épine dorsale de votre voyage au Japon. Que vous preniez le Shinkansen entre deux grandes villes ou un train express pour rejoindre une destination plus isolée, vous aurez à manipuler des tickets dont le fonctionnement est différent de ce que vous connaissez en Europe. Ce guide vous explique exactement ce que vous devez savoir pour monter dans votre train, valider vos tickets et gérer les imprévus sans stress.
 
 ## À retenir (lire en priorité !)
 
-- **Deux types de tickets :** le Fare Ticket (乗車券), obligatoire pour tout trajet, et l'Express Ticket (特急券), supplément pour les trains rapides. → [Comprendre vos tickets en détail](../fare-ticket)
+- **Deux types de tickets :** le Fare Ticket (乗車券), obligatoire pour tout trajet, et l'Express Ticket (特急券), supplément pour les trains rapides.
 - **Plusieurs tickets par trajet :** pour un voyage avec correspondance, vous pouvez avoir jusqu'à 3 tickets. Insérez-les toujours ensemble dans les portiques.
 - **Ne perdez jamais vos tickets** avant la fin du trajet — les portiques les réclameront à la sortie.
 - **Les trains JR partent à l'heure exacte.** Soyez sur le quai 10 minutes avant le départ.
@@ -31,22 +33,77 @@ Dans le cadre de votre voyage, vous pouvez être amenés à utiliser trois caté
 
 ### Comprendre les deux types de tickets
 
-| | Fare Ticket (乗車券 - jōshaken) | Express Ticket (特急券 - tokkyūken) |
+Quand vous prenez un train rapide ou le Shinkansen, vous avez **toujours au moins deux tickets** — les deux vont ensemble, l'un sans l'autre ne fonctionne pas.
+
+#### Le Fare Ticket — votre ticket de base
+
+Le **Fare Ticket** (乗車券 — *jōshaken*) est le ticket fondamental. Il représente le droit de voyager entre votre gare de départ et votre gare d'arrivée.
+
+**Ce qu'il indique :**
+
+- Gare de départ
+- Gare d'arrivée
+- Date de validité
+
+**Ce qu'il permet :**
+
+- Franchir les portiques d'entrée et de sortie
+- Voyager entre les deux gares indiquées
+
+**Ce qu'il ne permet pas :**
+
+- Monter dans un train express ou le Shinkansen — pour cela, il faut l'Express Ticket en plus
+
+> Un Fare Ticket seul suffit uniquement pour les trains locaux (qui s'arrêtent à toutes les gares).
+
+Voici à quoi ressemble un Fare Ticket :
+
+![Fare Ticket de base pour le trajet Nagiso - Kyoto](https://res.cloudinary.com/dzltvayos/image/upload/v1750916697/base-fare-nagiso-to-kyoto_tat2st.png)
+
+#### L'Express Ticket — le supplément train rapide
+
+L'**Express Ticket** (特急券 — *tokkyūken*) est le supplément qui vous donne accès aux trains rapides et au Shinkansen.
+
+**Ce qu'il indique :**
+
+- Le nom du train
+- L'heure de départ et d'arrivée
+- Le numéro de voiture et de siège
+
+**Ce qu'il permet :**
+
+- Monter dans le train express ou le Shinkansen indiqué
+- Occuper le siège réservé mentionné
+
+**Ce qu'il ne permet pas :**
+
+- Être utilisé seul — il doit toujours être accompagné du Fare Ticket
+
+Voici deux exemples d'Express Tickets selon le type de train :
+
+![Express Ticket pour un train local réservé](https://res.cloudinary.com/dzltvayos/image/upload/v1750916904/reserved-local_hsol2p.png)
+
+![Express Ticket pour le Shinkansen](https://res.cloudinary.com/dzltvayos/image/upload/v1750916942/shinkansen-reserved_ah8ugf.png)
+
+#### En résumé
+
+| | Fare Ticket (乗車券) | Express Ticket (特急券) |
 | --- | --- | --- |
 | **Rôle** | Ticket de base, obligatoire pour tout trajet | Supplément pour accéder aux trains rapides et au Shinkansen |
-| **Utilisable seul ?** | Oui | Non — toujours accompagné d'un Fare Ticket |
-| **Ce qu'il couvre** | Le droit de voyager entre deux gares en train local | L'accès aux trains express et la réservation de siège |
+| **Utilisable seul ?** | Oui (trains locaux uniquement) | Non — toujours accompagné d'un Fare Ticket |
+| **Ce qu'il couvre** | Le droit de voyager entre deux gares | L'accès aux trains express et la réservation de siège |
 | **Ce qu'il ne couvre pas** | L'accès aux trains rapides et au Shinkansen | Le tarif de base du trajet |
 | **Comment le reconnaître ?** | Inscription "Fare Ticket" ou "乗車券" | Inscription "Limited Express", "Super Express" ou "特急券" |
 | **Informations affichées** | Gare de départ, gare d'arrivée, date | Nom du train, horaires, numéro de voiture, numéro de siège |
-
-**Règle essentielle :** Un Express Ticket ne peut jamais être utilisé seul — il doit toujours être accompagné d'un Fare Ticket.
+| **Obligatoire ?** | Toujours | Seulement pour les trains rapides |
 
 ### Ticket combiné Fare + Express
 
-Pour certains trajets, notamment en Shinkansen, vous recevrez un ticket unique qui combine le Fare Ticket et l'Express Ticket.
+Pour certains trajets, notamment en Shinkansen, vous recevrez un **ticket unique qui combine le Fare Ticket et l'Express Ticket**.
 
 **Avantage :** Un seul ticket à insérer aux portiques, manipulation simplifiée.
+
+Si vous avez ce type de ticket, vous n'avez rien de plus à faire — il remplace les deux tickets habituels.
 
 ### Sièges réservés vs non-réservés
 
@@ -149,6 +206,8 @@ Les tickets pour enfants (6-11 ans) comportent le kanji **小** (petit) en haut 
 1. Insérez **tous** vos tickets dans le portique.
 2. La machine les avalera automatiquement — ils ne ressortiront pas.
 3. Si vous n'insérez pas tous les tickets nécessaires, le portique restera bloqué.
+
+> Ne jetez jamais vos tickets avant d'avoir franchi le portique de sortie.
 
 **Note :** Si le portique ne s'ouvre pas ou si une alarme retentit, présentez-vous au guichet du personnel (有人改札 - yūjin kaisatsu).
 

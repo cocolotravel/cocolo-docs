@@ -1,6 +1,8 @@
 ---
 title: "Navette Kyoto - Aéroport Kansai"
 description: ""
+sidebar:
+  order: 10
 ---
 
 Le Haruka est le train express de la compagnie JR qui relie l'aéroport international du Kansai à Kyoto en environ 75 minutes. C'est le moyen le plus direct pour rejoindre Kyoto depuis l'aéroport. Vos billets vous ont été envoyés par nos soins à votre premier hôtel au Japon — vous n'avez rien à acheter ni à échanger.

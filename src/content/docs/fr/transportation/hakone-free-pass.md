@@ -1,6 +1,8 @@
 ---
 title: "Hakone Free Pass"
 description: ""
+sidebar:
+  order: 2
 ---
 
 ![Hakone Free Pass](https://res.cloudinary.com/dzltvayos/image/upload/v1738212737/hakone-free-pass_xjtw0d.jpg)

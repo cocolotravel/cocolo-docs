@@ -1,6 +1,8 @@
 ---
 title: "Pass Kōyasan"
 description: ""
+sidebar:
+  order: 4
 ---
 
 Le billet Kōyasan regroupe en un seul lien votre train aller-retour Nankai et votre pass bus 2 jours — tout est accessible depuis votre carnet de route.

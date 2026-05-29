@@ -1,6 +1,8 @@
 ---
 title: "Navette Osaka - Aéroport Kansai"
 description: ""
+sidebar:
+  order: 11
 ---
 
 Le Rapi:t est le train express de la compagnie Nankai Electric Railway qui relie la gare de Namba, au cœur d'Osaka, à l'aéroport international du Kansai. C'est le moyen le plus direct pour rejoindre l'aéroport depuis Osaka. Un voucher est inclus dans votre carnet de route — il vous suffit de réserver votre place en ligne avant le départ.
