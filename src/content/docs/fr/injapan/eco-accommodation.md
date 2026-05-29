@@ -1,5 +1,5 @@
 ---
-title: "Dormir juste au Japon — Hébergements durables"
+title: "Hébergements durables"
 description: ""
 ---
 

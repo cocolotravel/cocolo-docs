@@ -30,21 +30,25 @@ export default defineConfig({
         {
           label: 'Préparation',
           translations: { en: 'Preparation' },
+          collapsed: true,
           items: [{ autogenerate: { directory: 'preparation' } }],
         },
         {
           label: 'Transports',
           translations: { en: 'Transportation' },
+          collapsed: true,
           items: [{ autogenerate: { directory: 'transportation' } }],
         },
         {
           label: 'Sur place',
           translations: { en: 'In Japan' },
+          collapsed: true,
           items: [{ autogenerate: { directory: 'injapan' } }],
         },
         {
           label: 'Guide des villes',
           translations: { en: 'City guide' },
+          collapsed: true,
           items: [{ autogenerate: { directory: 'cities' } }],
         },
       ],

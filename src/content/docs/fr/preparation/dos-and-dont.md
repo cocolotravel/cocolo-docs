@@ -1,6 +1,6 @@
 ---
-title: "Ce qu'il faut faire et ne pas faire au Japon"
-description: ""
+title: "Les bons réflexes"
+description: "Ce qu'il faut faire et ne pas faire au Japon"
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 title: "Osaka Kansai Expo"
 description: ""
+draft: true
 ---
 Pour visiter l'exposition universelle d'Osaka vous devez vous inscrire sur leur site officiel muni du numéro de voucher que nous vous avons fourni. Lors de cette inscription en ligne, vous pourrez choisir la date et l'heure d'entrée de votre visite.
 

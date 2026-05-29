@@ -1,6 +1,6 @@
 ---
-title: "Tout ce qu'il faut savoir sur le réseau ferroviaire Japan Rail (JR)"
-description: ""
+title: "Tikets de train JR"
+description: "Tout ce qu'il faut savoir sur le réseau ferroviaire Japan Rail (JR)"
 ---
 
 Le réseau JR est l'épine dorsale de votre voyage au Japon. Que vous preniez le Shinkansen entre deux grandes villes ou un train express pour rejoindre une destination plus isolée, vous aurez à manipuler des tickets dont le fonctionnement est différent de ce que vous connaissez en Europe. Ce guide vous explique exactement ce que vous devez savoir pour monter dans votre train, valider vos tickets et gérer les imprévus sans stress.
