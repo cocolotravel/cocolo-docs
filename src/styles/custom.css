@@ -5,35 +5,8 @@
 /* Inter — Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
 
-/* Roslindale Display — self-hosted */
-@font-face {
-  font-family: 'Roslindale';
-  src: url('/fonts/RoslindaleDisplay-Regular.otf') format('opentype');
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'Roslindale';
-  src: url('/fonts/RoslindaleDisplay-Italic.otf') format('opentype');
-  font-weight: 400;
-  font-style: italic;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'Roslindale';
-  src: url('/fonts/RoslindaleDisplay-Bold.otf') format('opentype');
-  font-weight: 700;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'Roslindale';
-  src: url('/fonts/RoslindaleDisplay-BoldItalic.otf') format('opentype');
-  font-weight: 700;
-  font-style: italic;
-  font-display: swap;
-}
+/* Roslindale — CDN (WOFF2) */
+@import url('https://assets.cocolotravel.com/fonts/fonts.css');
 
 /* =============================================
    Colors — dark mode (default)
@@ -85,7 +58,7 @@ h4,
 h5,
 h6,
 .sl-markdown-content :is(h1, h2, h3, h4, h5, h6) {
-  font-family: 'Roslindale', Georgia, serif;
+  font-family: 'RoslindaleDisplay', Georgia, serif;
 }
 
 /* =============================================

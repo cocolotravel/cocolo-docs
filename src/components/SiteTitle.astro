@@ -1,38 +1,27 @@
 ---
-import { logos } from 'virtual:starlight/user-images';
-import config from 'virtual:starlight/user-config';
 const { siteTitle, siteTitleHref } = Astro.locals.starlightRoute;
 
-// Split title so the first word uses Roslindale
 const spaceIndex = siteTitle.indexOf(' ');
 const firstWord = spaceIndex !== -1 ? siteTitle.slice(0, spaceIndex) : siteTitle;
 const rest = spaceIndex !== -1 ? siteTitle.slice(spaceIndex) : '';
+
+const CDN = 'https://assets.cocolotravel.com/logos/svg';
 ---
 
 <a href={siteTitleHref} class="site-title sl-flex">
-  {
-    config.logo && logos.dark && (
-      <>
-        <img
-          class:list={{ 'light:sl-hidden print:hidden': !('src' in config.logo) }}
-          alt={config.logo.alt}
-          src={logos.dark.src}
-          width={logos.dark.width}
-          height={logos.dark.height}
-        />
-        {!('src' in config.logo) && (
-          <img
-            class="dark:sl-hidden print:block"
-            alt={config.logo.alt}
-            src={logos.light?.src}
-            width={logos.light?.width}
-            height={logos.light?.height}
-          />
-        )}
-      </>
-    )
-  }
-  <span class:list={{ 'sr-only': config.logo?.replacesTitle }} translate="no">
+  <!-- Washi (cream) logo — shown in dark mode -->
+  <img
+    class="light:sl-hidden"
+    src={`${CDN}/logo_cloud_logo_full_washi.svg`}
+    alt="Cocolo"
+  />
+  <!-- Sumi (dark ink) logo — shown in light mode -->
+  <img
+    class="dark:sl-hidden"
+    src={`${CDN}/logo_cloud_logo_full_sumi.svg`}
+    alt="Cocolo"
+  />
+  <span translate="no">
     <span class="title-serif">{firstWord}</span>{rest}
   </span>
 </a>
@@ -62,6 +51,6 @@ const rest = spaceIndex !== -1 ? siteTitle.slice(spaceIndex) : '';
   }
 
   .title-serif {
-    font-family: 'Roslindale', Georgia, serif;
+    font-family: 'RoslindaleDisplay', Georgia, serif;
   }
 </style>

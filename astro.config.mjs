@@ -6,13 +6,11 @@ export default defineConfig({
   integrations: [
     starlight({
       title: 'Cocolo',
-      logo: {
-        src: './src/assets/logo.svg',
-      },
       customCss: ['./src/styles/custom.css'],
       favicon: '/favicon.ico',
       components: {
         SiteTitle: './src/components/SiteTitle.astro',
+        Head: './src/components/Head.astro',
       },
       defaultLocale: 'fr',
       locales: {
