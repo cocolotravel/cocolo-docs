@@ -6,6 +6,6 @@ hero:
   tagline: "Préparez votre voyage au Japon avec Cocolo Travel."
   actions:
     - text: Commencer
-      link: /fr/transportation/fare-ticket/
+      link: /fr/preparation/before-departure/
       icon: right-arrow
 ---
