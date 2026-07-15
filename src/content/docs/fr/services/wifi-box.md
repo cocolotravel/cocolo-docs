@@ -16,9 +16,9 @@ Avec le boîtier Wi-Fi vous restez connecté à internet dans tout le Japon pour
 
 ## Récupérer le boîtier
 
-{{< callout type="warning" >}}
+:::caution
 Le voucher pour récupérer le boîtier ne s'affiche que 24 heures avant votre arrivée.
-{{< /callout >}}
+:::
 
 ![](https://res.cloudinary.com/dzltvayos/image/upload/v1739498722/img_3481_bopz9m.jpg)
 
@@ -56,9 +56,9 @@ Retrouvez ci-dessous la marche à suivre pour récupérer votre boîtier mais au
 
 ### Se connecter
 
-{{< callout type="info" >}}
+:::tip
 Assurez-vous d'avoir la réception wifi de votre téléphone activée
-{{< /callout >}}
+:::
 
 1. Allumez le boîtier en appuyant sur bouton du milieu en forme d'éclair
 

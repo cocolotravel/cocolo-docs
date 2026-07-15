@@ -16,7 +16,9 @@ Avec le boîtier Wi-Fi vous restez connecté à internet dans tout le Japon pour
 
 ## Récupérer le boîtier
 
-{{< callout type="warning" >}} Le numéro de retrait du Wi-Fi sera affiché sur votre roadbook. Il vous faudra présenter votre passeport au moment du retrait de la commande.  {{< /callout >}}
+:::caution
+Le numéro de retrait du Wi-Fi sera affiché sur votre roadbook. Il vous faudra présenter votre passeport au moment du retrait de la commande.
+:::
 
 Le boîtier se récupère à une des bornes de la marque NinjaWi-Fi by Global Wi-Fi.
 
@@ -39,7 +41,9 @@ Dirigez-vous au comptoir et indiquez votre numéro de commande. On vous demander
 
 ### Se connecter
 
-{{< callout type="info" >}} Assurez-vous d'avoir la réception Wi-Fi de votre téléphone activée {{< /callout >}}
+:::tip
+Assurez-vous d'avoir la réception Wi-Fi de votre téléphone activée
+:::
 
 1. Allumez le boîtier en appuyant sur le bouton du milieu en forme d'éclair
 1. Notez le nom (SSID) et mot de passe du boîtier. Vous pouvez également cliquer sur le QR code pour l'afficher et vous connectez plus rapidement grâce à celui-ci. 
