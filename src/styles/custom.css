@@ -8,6 +8,10 @@
 /* Roslindale — CDN (WOFF2) */
 @import url('https://assets.cocolotravel.com/fonts/fonts.css');
 
+/* Cocolo brand tokens — canonical source of truth for color/type values.
+   Never hard-code a brand hex below; reference --color-brand-* / its aliases instead. */
+@import url('https://assets.cocolotravel.com/brand/tokens.css');
+
 /* =============================================
    Colors — dark mode (default)
    ============================================= */
@@ -15,15 +19,20 @@
   --sl-font: 'Inter', sans-serif;
 
   --sl-color-accent-low: hsl(47, 60%, 18%);
-  --sl-color-accent: #ffc916;
+  --sl-color-accent: var(--color-brand-kin);
   --sl-color-accent-high: hsl(47, 100%, 80%);
 
   /* Nav bar */
-  --sl-color-bg-nav: #1b3848;
+  --sl-color-bg-nav: var(--color-background-dark-mode);
 
-  /* Page & sidebar background */
-  --sl-color-bg: #1b3848;
-  --sl-color-bg-sidebar: #152e3d;
+  /* Page background */
+  --sl-color-bg: var(--color-background-dark-mode);
+
+  /* No canonical "dark secondary surface" token exists yet — keep the sidebar
+     on the same Sumi field as the page and separate it with a hairline instead
+     of inventing an unsanctioned darker shade. */
+  --sl-color-bg-sidebar: var(--color-background-dark-mode);
+  --sl-color-hairline: var(--color-brand-kodama);
 }
 
 /* =============================================
@@ -31,18 +40,20 @@
    ============================================= */
 :root[data-theme='light'] {
   --sl-color-accent-low: #fff3c4;
-  --sl-color-accent: #ffc916;
+  --sl-color-accent: var(--color-brand-kin);
   --sl-color-accent-high: #7a5e00;
 
-  /* Improve contrast: use dark golden for accent text/links */
+  /* Kin fails WCAG AA on Washi (see tokens.md) — this darkened value is a
+     pragmatic, pre-existing exception for accent text/links, not a brand token. */
   --sl-color-text-accent: #7a5e00;
 
-  /* Brand backgrounds */
-  --sl-color-bg: #fffef5;
-  --sl-color-bg-sidebar: #fffef5;
+  /* Brand backgrounds — Washi for the primary surface, Millennium Washi for
+     the sidebar as the documented secondary surface */
+  --sl-color-bg: var(--color-background-primary);
+  --sl-color-bg-sidebar: var(--color-background-secondary);
 
   /* Brand text */
-  --sl-color-text: #1b3848;
+  --sl-color-text: var(--color-text-primary);
 
   /* Reset nav bar to Starlight's default light value */
   --sl-color-bg-nav: var(--sl-color-gray-7);
@@ -58,7 +69,7 @@ h4,
 h5,
 h6,
 .sl-markdown-content :is(h1, h2, h3, h4, h5, h6) {
-  font-family: 'RoslindaleDisplay', Georgia, serif;
+  font-family: var(--font-style-roslindale), 'RoslindaleDisplay', Georgia, serif;
 }
 
 /* =============================================
