@@ -44,10 +44,22 @@ export default defineConfig({
           items: [{ autogenerate: { directory: 'transportation' } }],
         },
         {
-          label: 'Sur place',
-          translations: { en: 'In Japan' },
+          label: 'Services',
+          translations: { en: 'Services' },
           collapsed: true,
-          items: [{ autogenerate: { directory: 'injapan' } }],
+          items: [{ autogenerate: { directory: 'services' } }],
+        },
+        {
+          label: 'Pratique',
+          translations: { en: 'Practical Info' },
+          collapsed: true,
+          items: [{ autogenerate: { directory: 'pratique' } }],
+        },
+        {
+          label: 'Culture',
+          translations: { en: 'Culture' },
+          collapsed: true,
+          items: [{ autogenerate: { directory: 'culture' } }],
         },
         {
           label: 'Guide des villes',
