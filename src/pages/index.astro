@@ -1,0 +1,28 @@
+---
+---
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <title>Cocolo</title>
+    <!-- JS-disabled / crawler fallback — the default locale -->
+    <noscript>
+      <meta http-equiv="refresh" content="0; url=/fr/" />
+    </noscript>
+    <script is:inline>
+      (function () {
+        var langs = navigator.languages || [navigator.language || 'fr'];
+        var isEnglish = langs.some(function (l) {
+          return typeof l === 'string' && l.toLowerCase().indexOf('en') === 0;
+        });
+        window.location.replace(isEnglish ? '/en/' : '/fr/');
+      })();
+    </script>
+  </head>
+  <body>
+    <p>
+      Redirection… If you are not redirected automatically,
+      <a href="/fr/">continuer en français</a> / <a href="/en/">continue in English</a>.
+    </p>
+  </body>
+</html>
