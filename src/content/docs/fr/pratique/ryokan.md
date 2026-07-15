@@ -53,4 +53,4 @@ Dans votre chambre, il y aura aussi une table basse avec des coussins autour. C�
 
 Dans les toilettes, utilisez les pantoufles spéciaux pour les toilettes qui sont mis à votre disposition.
 
-Pour ce qui est de l'onsen, le bain public japonais, consultez notre [article dédié](/fr/culture/onsen/).
+Pour ce qui est de l'onsen, le bain public japonais, consultez notre [article dédié](/fr/pratique/onsen/).
