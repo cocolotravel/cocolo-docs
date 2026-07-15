@@ -12,6 +12,12 @@ export default defineConfig({
         SiteTitle: './src/components/SiteTitle.astro',
         Head: './src/components/Head.astro',
       },
+      head: [
+        {
+          tag: 'meta',
+          attrs: { name: 'robots', content: 'noindex, nofollow' },
+        },
+      ],
       defaultLocale: 'fr',
       locales: {
         fr: {
