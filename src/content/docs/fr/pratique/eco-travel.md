@@ -26,7 +26,7 @@ Vous trouverez ici nos conseils pour limiter votre empreinte écologique lors de
 Certaines villes du Japon comme Kyoto, Tokyo ou Hakone sont impactées par le sur-tourisme.
 Pour réduire l'impact de votre voyage, choisissez de voyager hors saison en venant par exemple en décembre ou en février !
 
-Plus d'infos : [Les périodes touristiques au Japon.](/fr/home/preparation/periodestouristiques)
+Plus d'infos : Les périodes touristiques au Japon.
 
 ### Voyager hors des sentiers battus
 

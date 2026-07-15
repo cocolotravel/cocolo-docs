@@ -1,7 +1,14 @@
 ---
 import Default from '@astrojs/starlight/components/Head.astro';
+
+const { entry } = Astro.locals.starlightRoute;
+const ogImageUrl = new URL(`/open-graph/${entry.id}.png`, Astro.site ?? Astro.url).href;
 ---
 <Default {...Astro.props} />
+
+<!-- Per-page social preview image, generated at build time -->
+<meta property="og:image" content={ogImageUrl} />
+<meta name="twitter:image" content={ogImageUrl} />
 
 <!-- Favicons — served from CDN -->
 <link rel="icon" type="image/svg+xml" href="https://assets.cocolotravel.com/favicon/favicon.svg" />

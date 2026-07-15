@@ -1,6 +1,7 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 import rehypeExternalLinks from 'rehype-external-links';
+import starlightLinksValidator from 'starlight-links-validator';
 
 export default defineConfig({
   site: 'https://docs.cocolotravel.com',
@@ -23,6 +24,12 @@ export default defineConfig({
           tag: 'meta',
           attrs: { name: 'robots', content: 'noindex, nofollow' },
         },
+      ],
+      plugins: [
+        // errorOnRelativeLinks disabled: this project's existing convention is
+        // relative links (e.g. `../../transportation/suica`), and they resolve
+        // correctly — only flag links that are actually broken.
+        starlightLinksValidator({ errorOnRelativeLinks: false }),
       ],
       defaultLocale: 'fr',
       locales: {
