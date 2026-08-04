@@ -1,0 +1,164 @@
+backend:
+  name: git-gateway
+  repo: axelder/documentation
+  branch: master
+  identity_url: https://auth.decapbridge.com/sites/89dd3605-63be-4f5f-850d-6e741ddf9c92
+  gateway_url: https://gateway.decapbridge.com
+
+local_backend: true
+
+media_folder: "public/uploads"
+public_folder: "/uploads"
+
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: dzltvayos
+    api_key: 965132264385342
+
+site_url: https://docs.cocolotravel.com
+logo_url: /favicon.ico
+
+collections:
+  - name: "home"
+    label: "Page d'accueil"
+    files:
+      - name: "home"
+        label: "Accueil"
+        file: "src/content/docs/fr/index.md"
+        fields:
+          - { label: "Titre", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "string", required: false }
+          - { label: "Modèle", name: "template", widget: "hidden", default: "splash" }
+          - label: "Hero"
+            name: "hero"
+            widget: "object"
+            fields:
+              - { label: "Accroche", name: "tagline", widget: "string" }
+              - label: "Actions"
+                name: "actions"
+                widget: "list"
+                fields:
+                  - { label: "Texte", name: "text", widget: "string" }
+                  - { label: "Lien", name: "link", widget: "string" }
+                  - { label: "Icône", name: "icon", widget: "string", required: false }
+          - { label: "Contenu", name: "body", widget: "markdown", required: false }
+
+  - name: "brochures"
+    label: "Brochures"
+    files:
+      - name: "brochures"
+        label: "Brochures"
+        file: "src/content/docs/fr/brochures.md"
+        fields:
+          - { label: "Titre", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "string", required: false }
+          - { label: "Contenu", name: "body", widget: "markdown" }
+
+  - name: "preparation"
+    label: "Préparation"
+    folder: "src/content/docs/fr/preparation"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Titre", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string", required: false }
+      - { label: "Brouillon", name: "draft", widget: "boolean", required: false }
+      - label: "Barre latérale"
+        name: "sidebar"
+        widget: "object"
+        required: false
+        collapsed: true
+        fields:
+          - { label: "Ordre", name: "order", widget: "number", required: false }
+      - { label: "Contenu", name: "body", widget: "markdown" }
+
+  - name: "transportation"
+    label: "Transports"
+    folder: "src/content/docs/fr/transportation"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Titre", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string", required: false }
+      - { label: "Brouillon", name: "draft", widget: "boolean", required: false }
+      - label: "Barre latérale"
+        name: "sidebar"
+        widget: "object"
+        required: false
+        collapsed: true
+        fields:
+          - { label: "Ordre", name: "order", widget: "number", required: false }
+      - { label: "Contenu", name: "body", widget: "markdown" }
+
+  - name: "services"
+    label: "Services"
+    folder: "src/content/docs/fr/services"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Titre", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string", required: false }
+      - { label: "Brouillon", name: "draft", widget: "boolean", required: false }
+      - label: "Barre latérale"
+        name: "sidebar"
+        widget: "object"
+        required: false
+        collapsed: true
+        fields:
+          - { label: "Ordre", name: "order", widget: "number", required: false }
+      - { label: "Contenu", name: "body", widget: "markdown" }
+
+  - name: "pratique"
+    label: "Pratique"
+    folder: "src/content/docs/fr/pratique"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Titre", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string", required: false }
+      - { label: "Brouillon", name: "draft", widget: "boolean", required: false }
+      - label: "Barre latérale"
+        name: "sidebar"
+        widget: "object"
+        required: false
+        collapsed: true
+        fields:
+          - { label: "Ordre", name: "order", widget: "number", required: false }
+      - { label: "Contenu", name: "body", widget: "markdown" }
+
+  - name: "culture"
+    label: "Culture"
+    folder: "src/content/docs/fr/culture"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Titre", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string", required: false }
+      - { label: "Brouillon", name: "draft", widget: "boolean", required: false }
+      - label: "Barre latérale"
+        name: "sidebar"
+        widget: "object"
+        required: false
+        collapsed: true
+        fields:
+          - { label: "Ordre", name: "order", widget: "number", required: false }
+      - { label: "Contenu", name: "body", widget: "markdown" }
+
+  - name: "cities"
+    label: "Guide des villes"
+    folder: "src/content/docs/fr/cities"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Titre", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string", required: false }
+      - { label: "Brouillon", name: "draft", widget: "boolean", required: false }
+      - label: "Barre latérale"
+        name: "sidebar"
+        widget: "object"
+        required: false
+        collapsed: true
+        fields:
+          - { label: "Ordre", name: "order", widget: "number", required: false }
+      - { label: "Contenu", name: "body", widget: "markdown" }
