@@ -83,9 +83,6 @@ export default defineConfig({
           items: [{ autogenerate: { directory: 'cities' } }],
         },
       ],
-      social: [
-        { icon: 'x.com', label: 'X', href: 'https://x.com/cocolotravel' },
-      ],
     }),
     sitemap(),
     astroBrokenLinksChecker({ checkExternalLinks: true }),
