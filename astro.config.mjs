@@ -2,6 +2,8 @@ import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 import rehypeExternalLinks from 'rehype-external-links';
 import starlightLinksValidator from 'starlight-links-validator';
+import sitemap from '@astrojs/sitemap';
+import astroBrokenLinksChecker from 'astro-broken-links-checker';
 
 export default defineConfig({
   site: 'https://docs.cocolotravel.com',
@@ -85,5 +87,7 @@ export default defineConfig({
         { icon: 'x.com', label: 'X', href: 'https://x.com/cocolotravel' },
       ],
     }),
+    sitemap(),
+    astroBrokenLinksChecker({ checkExternalLinks: true }),
   ],
 });
