@@ -98,7 +98,7 @@ Adresse :
 * Tokyo : Musubi, 2-31-8, Jingumae, Shibuya-ku, Tokyo 150-0001
 * Kyoto : 67 Masuyacho , Nagagyo-ku Kyoto-shi, Kyoto, 604-8111, Japon
 
-Plus d'info sur [leur site internet](https://www.musubi-furoshiki.com/fr/collections/ukiyoe).![musubi_ukioye_furoshiki.webp](/musubi_ukioye_furoshiki.webp)
+Plus d'info sur [leur site internet](https://www.musubi-furoshiki.com/fr/collections/ukiyoe).
 
 ## Le thé
 
