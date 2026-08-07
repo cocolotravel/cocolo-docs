@@ -1,21 +1,21 @@
 ---
-title: "Tickets de train JR"
-description: "Tout ce qu'il faut savoir sur le réseau ferroviaire Japan Rail (JR) et ses tickets"
+title: Tickets de train JR
+description: Tout ce qu'il faut savoir sur le réseau ferroviaire Japan Rail (JR)
+  et ses tickets
 sidebar:
   order: 1
 ---
-
 Le réseau JR est l'épine dorsale de votre voyage au Japon. Que vous preniez le Shinkansen entre deux grandes villes ou un train express pour rejoindre une destination plus isolée, vous aurez à manipuler des tickets dont le fonctionnement est différent de ce que vous connaissez en Europe. Ce guide vous explique exactement ce que vous devez savoir pour monter dans votre train, valider vos tickets et gérer les imprévus sans stress.
 
 ## À retenir (lire en priorité !)
 
-- **Deux types de tickets :** le Fare Ticket (乗車券), obligatoire pour tout trajet, et l'Express Ticket (特急券), supplément pour les trains rapides.
-- **Plusieurs tickets par trajet :** pour un voyage avec correspondance, vous pouvez avoir jusqu'à 3 tickets. Insérez-les toujours ensemble dans les portiques.
-- **Ne perdez jamais vos tickets** avant la fin du trajet — les portiques les réclameront à la sortie.
-- **Les trains JR partent à l'heure exacte.** Soyez sur le quai 10 minutes avant le départ.
-- **En cas de doute**, le personnel JR est formé pour aider les touristes étrangers — montrez votre ticket et demandez de l'aide sans hésiter.
+* **Deux types de tickets :** le Fare Ticket (乗車券), obligatoire pour tout trajet, et l'Express Ticket (特急券), supplément pour les trains rapides.
+* **Plusieurs tickets par trajet :** pour un voyage avec correspondance, vous pouvez avoir jusqu'à 3 tickets. Insérez-les toujours ensemble dans les portiques.
+* **Ne perdez jamais vos tickets** avant la fin du trajet — les portiques les réclameront à la sortie.
+* **Les trains JR partent à l'heure exacte.** Soyez sur le quai 10 minutes avant le départ.
+* **En cas de doute**, le personnel JR est formé pour aider les touristes étrangers — montrez votre ticket et demandez de l'aide sans hésiter.
 
----
+- - -
 
 ## 1. Le réseau JR
 
@@ -33,7 +33,7 @@ Dans le cadre de votre voyage, vous pouvez être amenés à utiliser trois caté
 
 ### Comprendre les deux types de tickets
 
-Quand vous prenez un train rapide ou le Shinkansen, vous avez **toujours au moins deux tickets** — les deux vont ensemble, l'un sans l'autre ne fonctionne pas.
+Quand vous prenez un train rapide ou le Shinkansen, vous avez **souvent deux tickets (voire plus)** — les deux vont ensemble, l'un sans l'autre ne fonctionne pas.
 
 #### Le Fare Ticket — votre ticket de base
 
@@ -41,18 +41,18 @@ Le **Fare Ticket** (乗車券 — *jōshaken*) est le ticket fondamental. Il rep
 
 **Ce qu'il indique :**
 
-- Gare de départ
-- Gare d'arrivée
-- Date de validité
+* Gare de départ
+* Gare d'arrivée
+* Date de validité
 
 **Ce qu'il permet :**
 
-- Franchir les portiques d'entrée et de sortie
-- Voyager entre les deux gares indiquées
+* Franchir les portiques d'entrée et de sortie
+* Voyager entre les deux gares indiquées
 
 **Ce qu'il ne permet pas :**
 
-- Monter dans un train express ou le Shinkansen — pour cela, il faut l'Express Ticket en plus
+* Monter dans un train express ou le Shinkansen — pour cela, il faut l'Express Ticket en plus
 
 > Un Fare Ticket seul suffit uniquement pour les trains locaux (qui s'arrêtent à toutes les gares).
 
@@ -66,18 +66,18 @@ L'**Express Ticket** (特急券 — *tokkyūken*) est le supplément qui vous do
 
 **Ce qu'il indique :**
 
-- Le nom du train
-- L'heure de départ et d'arrivée
-- Le numéro de voiture et de siège
+* Le nom du train
+* L'heure de départ et d'arrivée
+* Le numéro de voiture et de siège
 
 **Ce qu'il permet :**
 
-- Monter dans le train express ou le Shinkansen indiqué
-- Occuper le siège réservé mentionné
+* Monter dans le train express ou le Shinkansen indiqué
+* Occuper le siège réservé mentionné
 
 **Ce qu'il ne permet pas :**
 
-- Être utilisé seul — il doit toujours être accompagné du Fare Ticket
+* Être utilisé seul — il doit toujours être accompagné du Fare Ticket
 
 Voici deux exemples d'Express Tickets selon le type de train :
 
@@ -87,15 +87,15 @@ Voici deux exemples d'Express Tickets selon le type de train :
 
 #### En résumé
 
-| | Fare Ticket (乗車券) | Express Ticket (特急券) |
-| --- | --- | --- |
-| **Rôle** | Ticket de base, obligatoire pour tout trajet | Supplément pour accéder aux trains rapides et au Shinkansen |
-| **Utilisable seul ?** | Oui (trains locaux uniquement) | Non — toujours accompagné d'un Fare Ticket |
-| **Ce qu'il couvre** | Le droit de voyager entre deux gares | L'accès aux trains express et la réservation de siège |
-| **Ce qu'il ne couvre pas** | L'accès aux trains rapides et au Shinkansen | Le tarif de base du trajet |
-| **Comment le reconnaître ?** | Inscription "Fare Ticket" ou "乗車券" | Inscription "Limited Express", "Super Express" ou "特急券" |
-| **Informations affichées** | Gare de départ, gare d'arrivée, date | Nom du train, horaires, numéro de voiture, numéro de siège |
-| **Obligatoire ?** | Toujours | Seulement pour les trains rapides |
+|                              | Fare Ticket (乗車券)                            | Express Ticket (特急券)                                        |
+| ---------------------------- | -------------------------------------------- | ----------------------------------------------------------- |
+| **Rôle**                     | Ticket de base, obligatoire pour tout trajet | Supplément pour accéder aux trains rapides et au Shinkansen |
+| **Utilisable seul ?**        | Oui (trains locaux uniquement)               | Non — toujours accompagné d'un Fare Ticket                  |
+| **Ce qu'il couvre**          | Le droit de voyager entre deux gares         | L'accès aux trains express et la réservation de siège       |
+| **Ce qu'il ne couvre pas**   | L'accès aux trains rapides et au Shinkansen  | Le tarif de base du trajet                                  |
+| **Comment le reconnaître ?** | Inscription "Fare Ticket" ou "乗車券"           | Inscription "Limited Express", "Super Express" ou "特急券"     |
+| **Informations affichées**   | Gare de départ, gare d'arrivée, date         | Nom du train, horaires, numéro de voiture, numéro de siège  |
+| **Obligatoire ?**            | Toujours                                     | Seulement pour les trains rapides                           |
 
 ### Ticket combiné Fare + Express
 
@@ -109,16 +109,16 @@ Si vous avez ce type de ticket, vous n'avez rien de plus à faire — il remplac
 
 #### Voitures à sièges réservés (指定席 - shiteiseki)
 
-- Numéro de voiture et de siège indiqués sur le ticket.
-- Siège garanti.
-- Supplément tarifaire.
+* Numéro de voiture et de siège indiqués sur le ticket.
+* Siège garanti.
+* Supplément tarifaire.
 
 #### Voitures à sièges non-réservés (自由席 - jiyūseki)
 
-- Pas de numéro de siège.
-- Places selon disponibilité (premier arrivé, premier servi).
-- Légèrement moins cher.
-- Généralement situées dans les voitures 1 à 3 du train.
+* Pas de numéro de siège.
+* Places selon disponibilité (premier arrivé, premier servi).
+* Légèrement moins cher.
+* Généralement situées dans les voitures 1 à 3 du train.
 
 **Conseil :** En haute saison ou sur les trajets populaires, les sièges non-réservés peuvent être complets. Si vous devez les emprunter, arrivez tôt sur le quai.
 
@@ -126,12 +126,12 @@ Si vous avez ce type de ticket, vous n'avez rien de plus à faire — il remplac
 
 Sur les Shinkansen, deux classes supérieures existent au-delà de la classe ordinaire :
 
-- **Green Car** (グリーン車) : équivalent de la classe affaires. Sièges plus larges et plus espacés (configuration 2+2 au lieu de 3+2), plus calme.
-- **Gran Class** (グランクラス) : équivalent de la première classe, disponible sur certaines lignes uniquement. Sièges inclinables individuels (configuration 2+1), service de restauration et boissons inclus.
+* **Green Car** (グリーン車) : équivalent de la classe affaires. Sièges plus larges et plus espacés (configuration 2+2 au lieu de 3+2), plus calme.
+* **Gran Class** (グランクラス) : équivalent de la première classe, disponible sur certaines lignes uniquement. Sièges inclinables individuels (configuration 2+1), service de restauration et boissons inclus.
 
 Si votre itinéraire inclut un voyage en Green Car ou Gran Class, votre ticket le mentionnera explicitement.
 
----
+- - -
 
 ## 2. Utiliser vos tickets
 
@@ -141,9 +141,9 @@ Certaines destinations au Japon ne sont accessibles qu'en train local (équivale
 
 Dans ce cas :
 
-- Vous n'aurez qu'un **Fare Ticket** — aucun Express Ticket n'est nécessaire.
-- Aucune réservation de siège n'est possible ; les places sont attribuées selon l'ordre d'arrivée.
-- Si vous avez raté votre train, vous pourrez monter dans le suivant le jour même en places non-réservées.
+* Vous n'aurez qu'un **Fare Ticket** — aucun Express Ticket n'est nécessaire.
+* Aucune réservation de siège n'est possible ; les places sont attribuées selon l'ordre d'arrivée.
+* Si vous avez raté votre train, vous pourrez monter dans le suivant le jour même en places non-réservées.
 
 **Attention aux trajets mixtes :** Sur certains itinéraires, vous emprunterez des trains locaux ET des trains express. Dans ce cas, votre Fare Ticket couvre les portions locales, et des Express Tickets seront nécessaires pour les portions en trains rapides.
 
@@ -185,9 +185,9 @@ Les tickets pour enfants (6-11 ans) comportent le kanji **小** (petit) en haut 
 
 **Tarification :**
 
-- Enfants de moins de 6 ans : gratuit (sans siège réservé).
-- Enfants de 6 à 11 ans : tarif réduit (environ 50 %).
-- 12 ans et plus : tarif adulte.
+* Enfants de moins de 6 ans : gratuit (sans siège réservé).
+* Enfants de 6 à 11 ans : tarif réduit (environ 50 %).
+* 12 ans et plus : tarif adulte.
 
 ### Comment valider vos tickets ?
 
@@ -223,7 +223,7 @@ Le portique de sortie réclamera le ticket que vous avez perdu. Vous devrez alor
 
 Dans les deux cas, en cas de difficulté, dirigez-vous vers le guichet JR (みどりの窓口 - Midori no Madoguchi) où le personnel pourra vous assister.
 
----
+- - -
 
 ## 3. Le jour du départ
 
@@ -237,23 +237,23 @@ Consultez notre [guide dédié à la carte Suica](../suica) pour en savoir plus.
 
 #### Avant de partir
 
-- Vérifiez que vous avez tous vos tickets et repérez le numéro de votre voiture (Car) et de votre siège.
-- Arrivez au quai **10 à 15 minutes avant le départ** — les trains JR sont à la minute près, et un Shinkansen raté avec siège réservé signifie un ticket perdu.
+* Vérifiez que vous avez tous vos tickets et repérez le numéro de votre voiture (Car) et de votre siège.
+* Arrivez au quai **10 à 15 minutes avant le départ** — les trains JR sont à la minute près, et un Shinkansen raté avec siège réservé signifie un ticket perdu.
 
 #### Sur le quai
 
-- Des **marquages au sol** indiquent l'emplacement exact de chaque voiture — positionnez-vous en avance devant le bon marquage.
-- Les panneaux d'affichage au-dessus du quai indiquent l'ordre des voitures et les positions d'arrêt.
+* Des **marquages au sol** indiquent l'emplacement exact de chaque voiture — positionnez-vous en avance devant le bon marquage.
+* Les panneaux d'affichage au-dessus du quai indiquent l'ordre des voitures et les positions d'arrêt.
 
 #### Dans le train
 
-- Les numéros de sièges sont indiqués au-dessus des sièges et dans les allées.
-- Rangez vos bagages dans les espaces prévus (au-dessus des sièges ou aux extrémités des voitures).
-- Les annonces sont faites en japonais et en anglais.
-- Le Wi-Fi gratuit est disponible dans la plupart des Shinkansen, qui disposent également de toilettes.
-- Il est interdit de téléphoner dans les trains — passez en mode silencieux.
+* Les numéros de sièges sont indiqués au-dessus des sièges et dans les allées.
+* Rangez vos bagages dans les espaces prévus (au-dessus des sièges ou aux extrémités des voitures).
+* Les annonces sont faites en japonais et en anglais.
+* Le Wi-Fi gratuit est disponible dans la plupart des Shinkansen, qui disposent également de toilettes.
+* Il est interdit de téléphoner dans les trains — passez en mode silencieux.
 
----
+- - -
 
 ## 4. Questions fréquentes
 
@@ -281,6 +281,6 @@ Signalez-vous immédiatement au contrôleur à bord. Il régularisera votre situ
 
 L'Express Ticket est valable uniquement pour le train et l'horaire indiqués. Le Fare Ticket a une validité qui dépend de la distance — en général plusieurs jours pour les longs trajets, mais il est préférable de l'utiliser le jour prévu.
 
----
+- - -
 
 En cas de doute sur le quai ou en gare, le personnel JR est formé pour aider les touristes étrangers. N'hésitez jamais à leur montrer votre ticket et à demander de l'aide — ils sont habitués à cette situation et feront leur possible pour vous assister.
