@@ -1,5 +1,5 @@
 ---
-title: "Ninja Wi-Fi"
+title: Ninja Wi-Fi
 description: ""
 ---
 
@@ -57,6 +57,8 @@ Assurez-vous d'avoir la réception Wi-Fi de votre téléphone activée
 Faites cela pour tous les appareils que vous souhaitez connecter !
 
 ### Charger le boîtier
+
+ATTENTION: si le boîtier peine à se recharger : essayer le laisser allumer plutôt que de l'éteindre lorsque vous le recharger toute la nuit. 
 
 Le boîtier est chargé à 100 pour cent lors du retrait.
 
