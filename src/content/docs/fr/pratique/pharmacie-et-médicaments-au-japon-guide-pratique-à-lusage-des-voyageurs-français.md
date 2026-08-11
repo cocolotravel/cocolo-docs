@@ -1,10 +1,8 @@
 ---
-title: "Pharmacie et médicaments au Japon : guide pratique à l'usage des
-  voyageurs français"
+title: "Pharmacie et médicaments au Japon "
 sidebar:
   order: -1
 ---
-![](https://res.cloudinary.com/dzltvayos/image/upload/v1786331941/blacksmith_sanjo__dy8pv0.jpg)
 
 **Le système pharmaceutique japonais : quelques repères utiles**
 
