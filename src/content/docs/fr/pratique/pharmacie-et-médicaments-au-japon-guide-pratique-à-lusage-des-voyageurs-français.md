@@ -1,8 +1,9 @@
 ---
 title: "Pharmacie et médicaments au Japon "
 sidebar:
-  order: -1
+  order: ""
 ---
+![](https://res.cloudinary.com/dzltvayos/image/upload/v1786430144/istockphoto-947766650-612x612_aregol.jpg)
 
 **Le système pharmaceutique japonais : quelques repères utiles**
 
