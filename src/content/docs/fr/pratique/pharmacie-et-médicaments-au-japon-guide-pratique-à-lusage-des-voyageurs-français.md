@@ -1,7 +1,11 @@
 ---
 title: "Pharmacie et médicaments au Japon : guide pratique à l'usage des
   voyageurs français"
+sidebar:
+  order: -1
 ---
+![](https://res.cloudinary.com/dzltvayos/image/upload/v1786331941/blacksmith_sanjo__dy8pv0.jpg)
+
 **Le système pharmaceutique japonais : quelques repères utiles**
 
 Avant d'aborder la question spécifique du Doliprane, il est utile de comprendre comment s'organise l'offre de médicaments au Japon, une information précieuse pour tout voyageur. Sur place, on distingue deux types d'établissements, aux fonctions bien distinctes :
@@ -11,7 +15,7 @@ Avant d'aborder la question spécifique du Doliprane, il est utile de comprendre
 
 Une précision utile : certains médicaments plus puissants relèvent de la « Classe 1 » et sont conservés derrière le comptoir. Leur vente requiert alors un entretien obligatoire avec le pharmacien, qui vous en expliquera les précautions d'emploi, même si cet échange se déroule en langue japonaise. N'hésitez pas à solliciter son aide en montrant la boîte ou en mimant votre symptôme ; les pharmaciens japonais sont généralement très attentifs et professionnels.
 
-**Le Doliprane est-il disponible au Japon ?**
+## **Le Doliprane est-il disponible au Japon ?**
 
 C'est la première question que se pose tout voyageur français arrivant dans l'archipel. La réponse est non : la marque Doliprane, si familière dans nos armoires à pharmacie, n'est pas commercialisée au Japon. Cette absence peut surprendre, mais elle n'a rien d'inquiétant.
 
