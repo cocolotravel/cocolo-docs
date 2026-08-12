@@ -6,13 +6,13 @@ On vous fait découvrir une région du Japon encore relativement peu fréquenté
 
 La randonnée se déroule sur 5 jours et commence à Kii-Tanabe, accessible en environ deux heures de train depuis Shin-Osaka Station.
 
-## Arret à Kii Tanabe
+## Arrêt à Kii Tanabe
 
-La première étape de la randonnée est la charmante petite ville de Tanabe. Elle raconte une grande partie de l'histoire de la région et abrite plusieurs monuments commémorant des personnages historiques liés au territoire, notamment le guerrier moine Benkei, célèbre pour être mort debout lors d'une bataille.
+La première étape de la randonnée est la charmante petite ville de Tanabe. Elle raconte une grande partie de l'histoire de la région et abrite plusieurs monuments commémorant des personnages historiques liés au territoire, notamment le moine guerrier Benkei, célèbre pour être mort debout lors d'une bataille.
 
-La ville est également connue pour être le **berceau de l'aïkido**. Son fondateur, Morihei Ueshiba, est originaire de Tanabe et y a développé cet art martial. Le musée qui lui est consacré permet de découvrir gratuitement son histoire et propose une expérience digitale autour de l'aïkido. Juste à côté, la Tanabe Beach offre une belle vue sur la mer et constitue un endroit agréable pour se promener.
+La ville est également connue pour être le **berceau de l'aïkido**. Son fondateur, Morihei Ueshiba, est originaire de Tanabe et y a développé cet art martial. Le musée qui lui est consacré permet de découvrir gratuitement son histoire et propose une expérience numérique autour de l'aïkido. Juste à côté, la Tanabe Beach offre une belle vue sur la mer et constitue un endroit agréable pour se promener.
 
-Côté spiritualité, le **Tokei Shrine** est inscrit sur la liste des Sacred Sites and Pilgrimage Routes in the Kii Mountain Range de l'UNESCO. C'est un lieu paisible et propice à la contemplation, où l'on peut tirer différents omikuji (papiers de bonne fortune), notamment à l'effigie du corbeau à trois pattes Yatagarasu, créature mythique qui aurait guidé Emperor Jimmu à travers les montagnes de Kumano jusqu'à Yamato, ou encore ceux représentant les sept divinités chanceuses, encore appelés *shichifukushin*.
+Côté spiritualité, le **Tokei Jinja** est inscrit sur la liste des Sacred Sites and Pilgrimage Routes in the Kii Mountain Range de l'UNESCO. C'est un lieu paisible et propice à la contemplation, où l'on peut tirer différents omikuji (papiers de bonne fortune), notamment à l'effigie du corbeau à trois pattes Yatagarasu, créature mythique qui aurait guidé l'empereur Jimmu à travers les montagnes de Kumano jusqu'à Yamato, ou encore ceux représentant les sept divinités chanceuses, encore appelés *shichifukushin*.
 
 Un autre temple recommandé est **Kōzan-ji Temple**, qui possède une jolie pagode ainsi qu'un grand cimetière où repose Morihei Ueshiba.
 
@@ -42,13 +42,13 @@ Sur le plan religieux, le Tokei Jinja jouait un rôle d'allègement pour les pè
 
 Le sanctuaire est intimement lié à Musashibō Benkei, le célèbre moine-guerrier à la force herculéenne, connu pour être le plus fidèle compagnon d'armes du général Minamoto no Yoshitsune. Selon la tradition locale, Benkei serait né à Tanabe et serait le propre fils de Tanzou. Vous trouverez d'ailleurs dans l'enceinte du sanctuaire une impressionnante statue en bronze représentant Tanzou et Benkei.
 
-Points d'intérêts sur le site
+Points d'intérêt sur le site
 
-\* L'architecture : Les pavillons principaux sont construits dans le style architectural Kumano-zukuri, avec des toits d'écorce de cyprès très similaires à ceux du grand sanctuaire de Kumano Hongu Taisha.
+* L'architecture : Les pavillons principaux sont construits dans le style architectural Kumano-zukuri, avec des toits d'écorce de cyprès très similaires à ceux du grand sanctuaire de Kumano Hongu Taisha.
 
-\* Les sanctuaires annexes : C'est ici que se trouve le Togan Jinja (dédié à Ando Naotsugu) dont nous avons parlé, ainsi que d'autres petits sanctuaires secondaires.
+* Les sanctuaires annexes : C'est ici que se trouve le Togan Jinja (dédié à Ando Naotsugu) dont nous avons parlé, ainsi que d'autres petits sanctuaires secondaires.
 
-\* Le trésor : Le sanctuaire conserve des objets précieux liés à Yoshitsune et à la marine de Kumano (flûtes, armes).
+* Le trésor : Le sanctuaire conserve des objets précieux liés à Yoshitsune et à la marine de Kumano (flûtes, armes).
 
 ### Togan Jinja
 
@@ -68,9 +68,9 @@ L'impact le plus durable d'Ando Naotsugu, célébré par ce sanctuaire, est son 
 
 1. Histoire et célébrations
 
-\* Création : Le Togan Jinja a été érigé bien après sa mort, en 1886 (durant l'ère Meiji), par d'anciens vassaux du domaine de Tanabe qui souhaitaient honorer ses immenses contributions au développement de la région.
+* Création : Le Togan Jinja a été érigé bien après sa mort, en 1886 (durant l'ère Meiji), par d'anciens vassaux du domaine de Tanabe qui souhaitaient honorer ses immenses contributions au développement de la région.
 
-\* Festivités : Chaque année, lors du "Jour de l'Ume" (le 6 juin), une cérémonie solennelle d'offrande de prunes y est organisée pour le remercier des récoltes. Le festival annuel du sanctuaire, quant à lui, a lieu le 13 mai, date anniversaire de son décès.
+* Festivités : Chaque année, lors du "Jour de l'Ume" (le 6 juin), une cérémonie solennelle d'offrande de prunes y est organisée pour le remercier des récoltes. Le festival annuel du sanctuaire, quant à lui, a lieu le 13 mai, date anniversaire de son décès.
 
 ### Musée Mémorial Ueshiba Morihei
 
@@ -101,11 +101,11 @@ Osakamoto-oji, où l'on peut obtenir le troisième tampon, marque aussi l'endroi
 
 Le quatrième tampon se trouve à Gyuba-doji, un monument représentant l'empereur Kazan. À l'âge de 19 ans, il fut contraint par les nobles d'abdiquer. Il entreprit alors un pèlerinage en voyageant à la fois à cheval et à dos de bœuf, d'où le nom de ce lieu (gyu = bœuf, ba = cheval).
 
-Pour une pause déjeuner agréable, il est possible de manger près de Jujo-oji, où se trouve un belvédère, ou encore à côté de Osakamoto-oji, où quelques bancs ensoleillés permettent de profiter tranquillement du paysage.
+Pour une pause déjeuner agréable, il est possible de manger près de Jujo-oji, où se trouve un belvédère, ou encore à côté d'Osakamoto-oji, où quelques bancs ensoleillés permettent de profiter tranquillement du paysage.
 
 Une fois arrivés à Chikatsuyu, il est préférable de dîner assez tôt, car la plupart des restaurants ferment vers 18 h.
 
-Si vous devez diner en dehors du logement, nous recomandons le Tororoya qui est la seul possibilité "sûre" en restaurant. Ce restaurant propose du Teishoku, et le last order est à 18h. (A noté qu'ils font du cerf !)
+Si vous devez dîner en dehors du logement, nous recommandons le Tororoya qui est la seule possibilité "sûre" en restaurant. Ce restaurant propose du Teishoku, et la dernière commande est à 18h. (À noter qu'ils font du cerf !)
 
 Sinon la seconde possibilité est de prendre de quoi manger au A Coop, le seul supermarché de la ville.
 
@@ -113,46 +113,47 @@ Nous déconseillons le Beer Garden pour manger car il est très limité.
 
 ### De Chikatsuyu à Hongu
 
-Aujourd'hui nous faisons attention de bien nous lever tôt le matin car seul un bus passe dans la matinée pour se rendre à l'endroit du début de la randonné ! Nous recommandons même de faire un tour à l'arret de bus la veille pour s'assurer de l'heure de passage du bus. Dans notre cas le bus partait à 7h22 depuis l'arrêt du musée d'art de Chikatsuyu.
+Aujourd'hui nous faisons attention de bien nous lever tôt le matin car seul un bus passe dans la matinée pour se rendre à l'endroit du début de la randonnée ! Nous recommandons même de faire un tour à l'arrêt de bus la veille pour s'assurer de l'heure de passage du bus. Dans notre cas le bus partait à 7h22 depuis l'arrêt du musée d'art de Chikatsuyu.
 
-Cela nous fait arriver vers 8h40 à Hosshimon pour un cout de 1330 yen. En arrivant ne pas hésiter à faire une pose toilette car il n'y en aura pas beaucoup pour sur le trajet. Avant de prendre la Kumanokodo, il est sympathique de faire faire un détour au Hosshimon-oji qui est a 100 mètre de l'arrêt du bus.
+Cela nous fait arriver vers 8h40 à Hosshimon pour un coût de 1330 yen. En arrivant, n'hésitez pas à faire une pause toilettes, car il n'y en aura pas beaucoup sur le trajet. Avant de prendre la Kumano Kodo, il est sympathique de faire un détour au Hosshimon-oji qui est à 100 mètres de l'arrêt du bus.
 
-Une fois le tampon fait et le lieu observé, on peut partir à rebrousse chemin vers la suite de la Kumanokodo. Le chemin d'aujourd'hui est assez tranquille comparer à la veille. On passe par beaucoup plus de Oji différent donc nous conseillons de rester bien attentif pour ne pas rater les occasion de prendre faire les tampons.
+Une fois le tampon fait et le lieu observé, on peut partir à rebrousse-chemin vers la suite de la Kumano Kodo. Le chemin d'aujourd'hui est assez tranquille comparé à la veille. On passe par beaucoup plus d'Oji différents donc nous conseillons de rester bien attentif pour ne pas rater les occasions de faire les tampons.
 
-Il faudra compter en 2h et 3h jusqu'à l'arrivé. Pour notre part nous sommes arrivés vers 11h30 en prenant notre temps sur la route. A un moment petit détour est recommandé par un panneau sur la route, et nous le recommandons vivement ! Un superbe point de vue sur le Torii du Hongu taisha est disponible à cet endroit.
+Il faudra compter entre 2h et 3h jusqu'à l'arrivée. Pour notre part nous sommes arrivés vers 11h30 en prenant notre temps sur la route. À un moment, un petit détour est recommandé par un panneau sur la route, et nous le recommandons vivement ! Un superbe point de vue sur le Torii du Hongu taisha est disponible à cet endroit.
 
-En arrivant, n'hésitez pas à faire une prière au Hongu Taisha et y acheter un omamori. Ici vous pouvez prendre un omamori spécial avec le l'emblème du Yatagarasu que vous ne trouverez pas forcément facilement en dehors de la région.
+En arrivant, n'hésitez pas à faire une prière au Hongu Taisha et y acheter un omamori. Ici vous pouvez prendre un omamori spécial avec l'emblème du Yatagarasu que vous ne trouverez pas forcément facilement en dehors de la région.
 
-Ensuite descendez les escalier et profiter de l'ambiance typique des sanctuaire shinto. En bas vous pourrez vous assoir sur des pierres et manger facilement votre bento ou profiter des quelques restaurants disponibles.
+Ensuite descendez les escaliers et profitez de l'ambiance typique des sanctuaires shinto. En bas vous pourrez vous assoir sur des pierres et manger facilement votre bento ou profiter des quelques restaurants disponibles.
 
-Après avoir mangé nous vous recommandons d'aller faire un tour au célèbre Torii du Hongu taisha. C'est le plus grands Torii de tout le japon, donc il vaut vraiment le détour !
+Après avoir mangé, nous vous recommandons d'aller faire un tour au célèbre Torii du Hongu taisha. C'est le plus grand Torii de tout le Japon, donc il vaut vraiment le détour !
 
-A partir de la 2 possibilités pour la suite de la journée. soit prendre le bus jusqu'à votre logement du soir à Yunomine Onsen, soit faire la marche jusqu'à la bas !
+À partir de là, 2 possibilités pour la suite de la journée. Soit prendre le bus jusqu'à votre logement du soir à Yunomine Onsen, soit faire la marche jusque là-bas !
 
-Pour prendre le bus, celui ci est proche de l'entré du temple et il y en a environ un qui passe par heure. Avant de monter dans le bus, n'hésitez pas à passer à l'office de tourisme juste à coté, il pourrait y avoir des informations interessantes !
+Pour prendre le bus, celui-ci est proche de l'entrée du temple et il y en a environ un qui passe par heure. Avant de monter dans le bus, n'hésitez pas à passer à l'office de tourisme juste à côté, il pourrait y avoir des informations intéressantes !
 
-Pour les plus courageux et sportif une seconde randonnée est disponible. Celle ci fait 2km pour 250m de dénivelé positif. Nous la recommandons uniquement si celle de Takahara n'a pas été compliqué pour vous et si vous arrivez  avant 12h30 à Hongu taisha.
+Pour les plus courageux et sportifs, une seconde randonnée est disponible. Celle-ci fait 2km pour 250m de dénivelé positif. Nous la recommandons uniquement si celle de Takahara n'a pas été compliquée pour vous et si vous arrivez avant 12h30 à Hongu taisha.
 
-Pour commencer traversé le grand Torii, puis la petite forêt qui se trouve à coté. Quand le chemin se sépare en deux, aller a droite jusqu'a arriver sur une route. A coté de la route vous devirez voir un panneau en bois de la kumanokodo, ici suivez la direction de Yunomine à gauche.
+Pour commencer, traversez le grand Torii, puis la petite forêt qui se trouve à côté. Quand le chemin se sépare en deux, allez à droite jusqu'à arriver sur une route. À côté de la route, vous devriez voir un panneau en bois de la Kumano Kodo, ici suivez la direction de Yunomine à gauche.
 
-Suivez la route jusqu'à arriver à une panneau indiquant dainichigoe, ca sera à votre droite. Suite à ce virage en épingue vous devriez voir un deuxième panneau dainichigoe/yunomine onsen à gauche. Montez les petites marche et vous serez sur le sentier !
+Suivez la route jusqu'à arriver à un panneau indiquant Dainichigoe, ça sera à votre droite. Suite à ce virage en épingle, vous devriez voir un deuxième panneau Dainichigoe/Yunomine Onsen à gauche. Montez les petites marches et vous serez sur le sentier !
 
-La route est assez pentu au début donc soyez sur vos gardes ! Les 250 mètres d'élévation sur sur le premier kilomètre donc ce sera un effort conséquent. C'est une route pavé, un peu escarpé et avec beaucoup de racine donc il faut rester vigilant sur la ou vous posez vos pieds !
+La route est assez pentue au début donc soyez sur vos gardes ! Les 250 mètres d'élévation sur le premier kilomètre, donc ce sera un effort conséquent. C'est une route pavée, un peu escarpée et avec beaucoup de racines donc il faut rester vigilant sur là où vous posez vos pieds !
 
-A mi-chemin de la monté se trouve un petit sanctuaire shinto, n'hésitez pas à faire une pose ici pour reprendre vos forces. Après le premier kilomètre de la randonné le reste est très très simple ce ne sera que du plat et de la descente. En arrivant vous serez accueilli par une légère odeur de souffre caractéristique des Onsen. Avant de vous rendre à votre logement n'hésitez pas à vous balader dans sources chaudes naturelles, le lieu est magnifique !
+À mi-chemin de la montée se trouve un petit sanctuaire shinto, n'hésitez pas à faire une pause ici pour reprendre vos forces. Après le premier kilomètre de la randonnée, le reste est très très simple : ce ne sera que du plat et de la descente. En arrivant, vous serez accueilli par une légère odeur de soufre caractéristique des onsen. Avant de vous rendre à votre logement, n'hésitez pas à vous balader dans les sources chaudes naturelles, le lieu est magnifique !
 
-On continue de marcher pendant 5 minutes environ sur la route en suivant les indications de la Kumano Kodo. Cette route s'appelle aussi Dainichigoe. 
+On continue de marcher pendant 5 minutes environ sur la route en suivant les indications de la Kumano Kodo. Cette route s'appelle aussi Dainichigoe.
 
-Il faut suivre le panneau Yunomine et traverser la route avant de rejoindre la colline où les signes boisés de la Kumano Kodo reprennent. Le début de la route est plus intense avec une inclinaison positive importante, mais une fois arrivés à Dainichigoe, le sanctuaire qui donne son nom à toute la route, il ne reste que très peu de montée. Après la descente on se retrouve au village yunomine et depuis là on a une courte promenade pour rejoindre l'hôtel du soir.
+Il faut suivre le panneau Yunomine et traverser la route avant de rejoindre la colline où les signes boisés de la Kumano Kodo reprennent. Le début de la route est plus intense avec une inclinaison positive importante, mais une fois arrivés à Dainichigoe, le sanctuaire qui donne son nom à toute la route, il ne reste que très peu de montée. Après la descente on se retrouve au village de Yunomine et depuis là on a une courte promenade pour rejoindre l'hôtel du soir.
 
-De Yunomine à Kii Katsuura
-Aujourd’hui on prend le bus directement vers Hayatama Taisha. C’est le 2e sanctuaire important de la Kumano Kodo qui est associé à la divinité enmusubi, patron des relations, notamment amoureuses mais qui peuvent être de tout type. En descendant du bus, il ne nous reste que deux minutes de marche pour rejoindre le sanctuaire avec ses jolis omamori et omikuji. On y trouve les plus grands omikuji du Japon, ainsi que des bonnes fortunes originales avec la divinité enmusubi ou encore une fois des yatagarasu. 
+### De Yunomine à Kii Katsuura
 
-Dans ce sanctuaire on retrouve aussi une pierre dont fait mention l'hymne japonais Kimigayo. 
+Aujourd’hui on prend le bus directement vers Hayatama Taisha. C’est le 2e sanctuaire important de la Kumano Kodo qui est associé à la divinité enmusubi, patron des relations, notamment amoureuses, mais qui peuvent être de tout type. En descendant du bus, il ne nous reste que deux minutes de marche pour rejoindre le sanctuaire avec ses jolis omamori et omikuji. On y trouve les plus grands omikuji du Japon, ainsi que des bonnes fortunes originales avec la divinité enmusubi ou encore une fois des yatagarasu.
 
-Ensuite, on se dirige vers le dernier sanctuaire, le Nachi Taisha, en passant par un endroit où on peut assurer le repas de midi. Il y a peu de restaurants mais on peut recommander un magasin de bento sur le chemin vers la gare qui s’appelle Kicchin Mama. Sinon, il y a aussi le Lawson à la gare.
+Dans ce sanctuaire on retrouve aussi une pierre dont fait mention l'hymne japonais Kimigayo.
 
-A la gare de Shingu, prenez le train local en direction de Kii Tanabe. Vous allez utiliser la carte Suica pour entrer en gare. Une fois dedans, il se peut que le train est déjà arrivé et attend le départ vu que c’est le terminus. Vous pouvez entrer dedans en appuyant sur le bouton “open” à côté de la porte et vous y installer tranquillement. 
-Descendez à Nachi. La station de Nachi est toute petite, et donc on est amené à sortir depuis la porte de la première voiture. Retapez la carte pour sortir. L’arrêt du bus est devant la gare. 
+Ensuite, on se dirige vers le dernier sanctuaire, le Nachi Taisha, en passant par un endroit où on peut prendre le repas de midi. Il y a peu de restaurants mais on peut recommander un magasin de bento sur le chemin vers la gare qui s’appelle Kicchin Mama. Sinon, il y a aussi le Lawson à la gare.
 
-bus 31 jusqu’à Nachi no taki mae pour voir cascade et sanctuaire hiro. prendre escaliers pour monter jusqu’à Nachi taisha. pagode coûte 500 yen et offre vue sur cascade et montagne + opportunité exclusive de faire le tour d’une pagode. dernier sanctuaire et petite promenade dans la ville pour descendre à l’arrêt de bus. 30 minutes jusqu’à kii katsuura. dernier bateau à 15h20 ou 16h20 pour un cours raccourci et bateau qui opère pas les mercredis. possibilité de prendre le matin. ville du thon, spécialités de thon
+À la gare de Shingu, prenez le train local en direction de Kii Tanabe. Vous allez utiliser la carte Suica pour entrer en gare. Une fois dedans, il se peut que le train soit déjà arrivé et attende le départ vu que c’est le terminus. Vous pouvez entrer dedans en appuyant sur le bouton “open” à côté de la porte et vous y installer tranquillement.
+Descendez à Nachi. La station de Nachi est toute petite, et donc on est amené à sortir depuis la porte de la première voiture. Repassez la carte pour sortir. L’arrêt du bus est devant la gare.
+
+Bus 31 jusqu’à Nachi no taki mae pour voir cascade et sanctuaire Hiro. Prendre escaliers pour monter jusqu’à Nachi Taisha. Pagode coûte 500 yen et offre vue sur cascade et montagne + opportunité exclusive de faire le tour d’une pagode. Dernier sanctuaire et petite promenade dans la ville pour descendre à l’arrêt de bus. 30 minutes jusqu’à Kii Katsuura. Dernier bateau à 15h20 ou 16h20 pour un cours raccourci et le bateau n’opère pas les mercredis. Possibilité de prendre le matin. Ville du thon, spécialités de thon

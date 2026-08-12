@@ -6,7 +6,7 @@ Les lieux de culte au Japon peuvent être séparés en deux catégories principa
 
 ## Sanctuaires
 
-Les sanctuaires sont des bâtiments construits en hommage aux divinités du shinto, la religion du Japon. On en compte plus de 80 000 au Japon. Les gens y viennent lors de grandes occasions, comme le nouvel an ou une naissance, et pour célébrer Shichigosan.
+Les sanctuaires sont des bâtiments construits en hommage aux divinités du shintô, la religion du Japon. On en compte plus de 80 000 au Japon. Les gens y viennent lors de grandes occasions, comme le nouvel an ou une naissance, et pour célébrer Shichigosan.
 
 ### Dans le sanctuaire
 

@@ -4,7 +4,7 @@ description: ""
 ---
 ## Washitsu : la chambre japonaise
 
-Au Japon on trouve souvent des ryôkans (hôtel japonais) qui montrent le mode de vie traditionnel des Japonais : sols vêtus de tatami, futons au lieu de lits, des tables basses, etc. Comment devrait-on alors se comporter dans un ryôkan ? Nous avons mis un guide en quelques étapes à votre disposition !
+Au Japon, on trouve souvent des ryôkans (hôtel japonais) qui montrent le mode de vie traditionnel des Japonais : sols vêtus de tatami, futons au lieu de lits, des tables basses, etc. Comment devrait-on alors se comporter dans un ryôkan ? Nous avons mis un guide en quelques étapes à votre disposition !
 
 ### Étape 1 : débarrassez-vous de vos chaussures au genkan (entrée)
 
@@ -34,7 +34,7 @@ Un yukata, un kimono léger, vous est fourni pour vos déplacements dans le ryô
 
 1. Garder votre lingerie ou des sous-vêtements.
 2. Plier le côté droit sous le côté gauche (jamais l'inverse, réservé aux cérémonies funéraires).
-3. Attacher la ceinture (obi) autour des hanches (hommes) ou de la taille (femmes), puis nouer-la sur le côté droit.
+3. Attacher la ceinture (obi) autour des hanches (hommes) ou de la taille (femmes), puis la nouer sur le côté droit.
 4. Par temps frais, vous pouvez porter une petite veste par-dessus.
 
 ### Étape 4 : le futon
@@ -51,6 +51,6 @@ Dans certains ryôkans, le personnel s’occupera de préparer le futon pendant 
 
 Dans votre chambre, il y aura aussi une table basse avec des coussins autour. C’est la salle de séjour japonaise et le coussin s’appelle zabuton.
 
-Dans les toilettes, utilisez les pantoufles spéciaux pour les toilettes qui sont mis à votre disposition.
+Dans les toilettes, utilisez les pantoufles spéciales pour les toilettes qui sont mises à votre disposition.
 
 Pour ce qui est de l'onsen, le bain public japonais, consultez notre [article dédié](/fr/pratique/onsen/).

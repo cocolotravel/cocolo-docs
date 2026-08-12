@@ -8,7 +8,7 @@ Le sumo est le sport national japonais. Il s'agit d'un match entre deux lutteurs
 
 ### Ôzumô
 
-La Nihon Sumô Kyôkai (Association japonaise de sumo) organise six tournois par an à Tôkyô (janvier, mai, septembre), à Osaka (mars), à Nagoya (juillet) et à Fukuoka (novembre). Durant la compétition, on peut assister à des rites traditionnels, tels que la cérémonie d'entrée sur le ring des lutteurs de la catégorie des makuuchi (première division de lutteurs) et des yokozuna (grands champions), ou la cérémonie du yumitori (manipulation d'un arc sans corde).
+La Nihon Sumô Kyôkai (Association japonaise de sumo) organise six tournois par an à Tôkyô (janvier, mai, septembre), à Ôsaka (mars), à Nagoya (juillet) et à Fukuoka (novembre). Durant la compétition, on peut assister à des rites traditionnels, tels que la cérémonie d'entrée sur le ring des lutteurs de la catégorie des makuuchi (première division de lutteurs) et des yokozuna (grands champions), ou la cérémonie du yumitori (manipulation d'un arc sans corde).
 
 ### Dohyo (le ring des lutteurs de sumo)
 

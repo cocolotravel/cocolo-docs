@@ -3,7 +3,6 @@ title: "Les bons réflexes"
 description: "Ce qu'il faut faire et ne pas faire au Japon"
 ---
 
-
 Vous arrivez dans un pays où les codes sociaux sont différents de ceux que vous connaissez en Europe — parfois à l'opposé. Contrairement à la France, où la politesse est souvent perçue comme une question de personnalité, au Japon elle relève d'un ensemble de pratiques partagées que tout le monde connaît et applique. Un comportement qui vous semblerait naturel chez vous peut être perçu comme impoli ici, non par malveillance, mais parce qu'il sort du cadre attendu. Cette page vous donne les clés pour naviguer sereinement dans les situations du quotidien : repas, transports, lieux de culte, échanges avec les habitants.
 
 ---

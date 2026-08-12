@@ -6,7 +6,7 @@ description: ""
 
 Le thé vert est fait avec des feuilles de thé cuites à la vapeur. Les thés varient selon le processus de préparation.
 
-* Sencha
+* Sencha :
 
   ![Sencha, thé vert japonais](https://res.cloudinary.com/dzltvayos/image/upload/v1746766656/sencha_pednyx.jpg)
 
@@ -18,7 +18,7 @@ Le thé vert est fait avec des feuilles de thé cuites à la vapeur. Les thés v
 
   Des feuilles de thé plus fermes, cueillies après la récolte des jeunes feuilles tendres destinées au sencha.
 
-* Gemmaicha :
+* Genmaicha :
 
   ![Genmaicha, thé vert au riz brun grillé](https://res.cloudinary.com/dzltvayos/image/upload/v1746766537/genmaicha_fpj6cy.jpg)
 
@@ -32,7 +32,7 @@ Le thé vert est fait avec des feuilles de thé cuites à la vapeur. Les thés v
 
 * Hôjicha :
 
-  ![Houjicha, thé grillé](https://res.cloudinary.com/dzltvayos/image/upload/v1746766546/houjicha_zey4ig.jpg)
+  ![Hôjicha, thé grillé](https://res.cloudinary.com/dzltvayos/image/upload/v1746766546/houjicha_zey4ig.jpg)
 
   Du bancha grillé, ce qui en fait un thé très parfumé et fumé.
 

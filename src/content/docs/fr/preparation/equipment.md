@@ -8,8 +8,8 @@ Pour le Japon, rien de mieux que le bagage à roulettes. Vous n'aurez quasiment 
 
 Depuis le 20 mai 2020, les passagers qui circulent avec des valises dont les dimensions totales sont comprises entre 160 et 250 centimètres ont l'obligation de faire les démarches suivantes :
 
-1. Réserver (gratuitement pour les porteurs de JR Pass) à l'avance un siège spécial « gros bagage » qui se situe sur la dernière rangée (à l'entrée dans le wagon).
-2. À l'embarquement, placer sa valise derrière sa rangée, dans l'espace prévu initialement pour pouvoir baisser le dos du siège.
+1. Réserver (gratuitement pour les porteurs de JR Pass) à l'avance un siège spécial « gros bagage » qui se situe sur la dernière rangée (à l'entrée du wagon).
+2. À l'embarquement, placer sa valise derrière sa rangée, dans l'espace prévu initialement pour pouvoir incliner le dossier du siège.
 
 ![Espace bagage dans le shinkansen](https://res.cloudinary.com/dzltvayos/image/upload/v1739498604/transport-gros-bagage-shinkansen_wpiz5g.jpg)
 
@@ -21,7 +21,7 @@ Il vous faudra un adaptateur électrique de type A, avec deux barres parallèles
 
 Vous pouvez vous le procurer aux aéroports ou dans des magasins d'électroménager.
 
-Vous n'avez en revanche pas besoin d'un transformateur, nos appareils traditionnels supportant très bien le voltage japonais (sauf appareils spécifiques tels que les anciens rasoirs électriques).
+Vous n'avez en revanche pas besoin d'un transformateur, nos appareils électriques habituels supportant très bien le voltage japonais (sauf appareils spécifiques tels que les anciens rasoirs électriques).
 
 Les détails sont :
 

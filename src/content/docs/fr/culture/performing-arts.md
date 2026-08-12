@@ -95,7 +95,7 @@ Dans certaines pièces de nô, on verra apparaître le tsure (compagnon du shite
 
 ## Kyôgen
 
-Il existe deux types de kyôgen : honkyogen, un spectacle à part entière, et l'ai-kyôgen qui sert d'intermède entre les scènes de nô du programme. Le personnage principal est le shite, le personnage secondaire l'ado.
+Il existe deux types de kyôgen : honkyôgen, un spectacle à part entière, et l'ai-kyôgen qui sert d'intermède entre les scènes de nô du programme. Le personnage principal est le shite, le personnage secondaire l'ado.
 
 ### Men (les masques)
 

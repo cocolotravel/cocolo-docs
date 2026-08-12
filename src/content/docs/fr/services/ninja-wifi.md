@@ -3,15 +3,15 @@ title: Ninja Wi-Fi
 description: ""
 ---
 
-Avec le boîtier Wi-Fi vous restez connecté à internet dans tout le Japon pour accéder aux cartes, aux horaires de transport et à d'autres informations importantes. Le niveau de connectivité est similaire à une connexion à 4G.
+Avec le boîtier Wi-Fi vous restez connecté à internet dans tout le Japon pour accéder aux cartes, aux horaires de transport et à d'autres informations importantes. Le niveau de connectivité est similaire à une connexion 4G.
 
 ## À retenir
 
 * Les données sont illimitées.
 * Vous pouvez utiliser toutes les applications qui utilisent internet en vous connectant au boîtier.
-* Vous pouvez vous connecter plusieurs appareils au boîtier mais vous devez rester à proximité du boîtier.
+* Vous pouvez connecter plusieurs appareils au boîtier mais vous devez rester à proximité du boîtier.
 * Il faut une nuit complète pour recharger le boîtier à 100%.
-* Les bornes de retrait et de retour aux aéroports ont des horaires d'ouvertures et de fermetures qui changent en fonction des endroits: [Consultez la liste complète des bornes.](https://ninjaWi-Fi.com/en/receive/airport)
+* Les bornes de retrait et de retour aux aéroports ont des horaires d'ouverture et de fermeture qui changent en fonction des endroits: [Consultez la liste complète des bornes.](https://ninjaWi-Fi.com/en/receive/airport)
 * Le boîtier est livré avec une pochette et un chargeur.
 
 ## Récupérer le boîtier
@@ -46,19 +46,18 @@ Assurez-vous d'avoir la réception Wi-Fi de votre téléphone activée
 :::
 
 1. Allumez le boîtier en appuyant sur le bouton du milieu en forme d'éclair
-1. Notez le nom (SSID) et mot de passe du boîtier. Vous pouvez également cliquer sur le QR code pour l'afficher et vous connectez plus rapidement grâce à celui-ci. 
+1. Notez le nom (SSID) et mot de passe du boîtier. Vous pouvez également cliquer sur le QR code pour l'afficher et vous connecter plus rapidement grâce à celui-ci.
 1. Sur votre téléphone, dans la liste des réseaux Wi-Fi disponibles, cliquez sur le nom de votre boîtier puis entrez le mot de passe.
 
 <video width="100%" controls>
   <source src="https://res.cloudinary.com/dzltvayos/video/upload/v1778655033/VID-20260512-WA0003_ednblj.mp4" type="video/mp4">
 </video>
 
-
 Faites cela pour tous les appareils que vous souhaitez connecter !
 
 ### Charger le boîtier
 
-ATTENTION: si le boîtier peine à se recharger : essayer le laisser allumer plutôt que de l'éteindre lorsque vous le recharger toute la nuit. 
+ATTENTION: si le boîtier peine à se recharger, essayez de le laisser allumé plutôt que de l'éteindre lorsque vous le rechargez toute la nuit.
 
 Le boîtier est chargé à 100 pour cent lors du retrait.
 
@@ -70,7 +69,7 @@ Le boîtier contient un chargeur, qui vous permet de le recharger directement à
 
 Il suffit d'apporter votre boîtier au comptoir de votre aéroport de retour. Il est possible de déposer le boîtier à un aéroport différent de celui dans lequel vous l'avez récupéré.
 
-Dans le cas où vous ne repartez pas via un aéroport il est également possible de rendre le boîtier dans certaines boutiques de grandes villes. Consultez la liste complète des bornes.
+Dans le cas où vous ne repartez pas via un aéroport, il est également possible de rendre le boîtier dans certaines boutiques de grandes villes. Consultez la liste complète des bornes.
 
 * Haneda Airport Terminal 3 : 3F Departures Lobby
 * Narita Airport Terminal 1 : 4F Departure Lobby South Wing

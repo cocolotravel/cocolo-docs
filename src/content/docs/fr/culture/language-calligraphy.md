@@ -8,17 +8,17 @@ Le japonais est une langue qui s'écrit en utilisant aussi bien les kanji (des i
 
 Les phrases écrites verticalement doivent se lire de haut en bas et de droite à gauche. 
 
-![](https://res.cloudinary.com/dzltvayos/image/upload/v1746766623/reading-order_n3gbit.png)
+![Sens de lecture des phrases écrites verticalement](https://res.cloudinary.com/dzltvayos/image/upload/v1746766623/reading-order_n3gbit.png)
 
 
 Les pages se lisent de droite à gauche. 
 Les phrases écrites horizontalement se lisent de gauche à droite. 
 
-![](https://res.cloudinary.com/dzltvayos/image/upload/v1746766556/je-bois-du-caf%C3%A9_yhzvqw.png)
+![Exemple de phrase japonaise écrite horizontalement](https://res.cloudinary.com/dzltvayos/image/upload/v1746766556/je-bois-du-caf%C3%A9_yhzvqw.png)
 
-### Origines des kanjis
+### Origines des kanji
 
-![](https://res.cloudinary.com/dzltvayos/image/upload/v1746766614/origines-des-kanji_b8w9tf.png)
+![Exemples de kanji nés de hiéroglyphes](https://res.cloudinary.com/dzltvayos/image/upload/v1746766614/origines-des-kanji_b8w9tf.png)
 
 Exemples d'idéogrammes nés de hiéroglyphes 
 
@@ -28,21 +28,21 @@ Les katakana sont nés d'idéogrammes en partie simplifiés. Les hiragana vienne
 
 Kanji kaisho > kanji sôsho > hiragana
 
-![](https://res.cloudinary.com/dzltvayos/image/upload/v1746766562/kanji-sosho-hiragana_bk0sf3.jpg)
+![Évolution du kanji cursif vers le hiragana](https://res.cloudinary.com/dzltvayos/image/upload/v1746766562/kanji-sosho-hiragana_bk0sf3.jpg)
 
 kanji kaisho > katakana
 
-![](https://res.cloudinary.com/dzltvayos/image/upload/v1746766565/katakana-origine_dhhqw6.jpg)
+![Évolution du kanji simplifié vers le katakana](https://res.cloudinary.com/dzltvayos/image/upload/v1746766565/katakana-origine_dhhqw6.jpg)
 
 Kanji : Idéogrammes. Tous ont un sens. 
 
 Katakana : Utilisés pour écrire les mots provenant de langues étrangères ou les onomatopées. 
 
-![](https://res.cloudinary.com/dzltvayos/image/upload/v1746766563/katakana-01_lqieh5.png)
+![Syllabaire katakana](https://res.cloudinary.com/dzltvayos/image/upload/v1746766563/katakana-01_lqieh5.png)
 
 Hiragana : Symboles phonétiques, comme les katakana. 
 
-![](https://res.cloudinary.com/dzltvayos/image/upload/v1746766546/hiragana-01_chnvox.png)
+![Syllabaire hiragana](https://res.cloudinary.com/dzltvayos/image/upload/v1746766546/hiragana-01_chnvox.png)
 
 Apprenons le japonais ensemble ! 
 
@@ -50,12 +50,12 @@ Apprenons le japonais ensemble !
 
 La calligraphie est un art né en Chine, qui consiste à dessiner des signes pictographiques à l'aide d'un pinceau chargé d'encre. Elle requiert une grande concentration d'esprit. Cet art, enseigné à l'école primaire et au collège, est intégré aux cours de japonais. De nos jours, il est peu fréquent d'écrire au pinceau, à l'exception des cartes de vœux, ou lorsque l'on doit écrire son nom sur des enveloppes données lors d'événements particuliers tels que les mariages ou les funérailles. 
 
-![](https://res.cloudinary.com/dzltvayos/image/upload/v1746766506/calligraphie-ustensils_k9igpl.jpg)
+![Ustensiles de calligraphie japonaise](https://res.cloudinary.com/dzltvayos/image/upload/v1746766506/calligraphie-ustensils_k9igpl.jpg)
 
 * Fude (le pinceau) : Le manche est en bambou, l'extrémité en poils de cheval ou de vache. (1)
 * Appui de pinceau (2)
 * Encre (3)
-* Sumi (bâtonnet d'encre) On verse de l'eau sur la pierre à encre sur laquelle on frotte le bâtonnet d'encre (4)
+* Sumi (bâtonnet d'encre) : on verse de l'eau sur la pierre à encre sur laquelle on frotte le bâtonnet d'encre (4)
 * Suzuri (pierre à encre) (5)
 * Shitajiki (sous-main) (6)
 * Hanshi (papier japonais) (7)
@@ -64,7 +64,7 @@ La calligraphie est un art né en Chine, qui consiste à dessiner des signes pic
 
 S'asseoir le dos bien droit, appuyé contre le dos de la chaise. 
 Placer la main qui ne tient pas le pinceau au bas du hanshi pour le maintenir. 
-Tenir le pinceau légèrement, comme si une balle de pingpong était placée dans la paume de la main.
+Tenir le pinceau légèrement, comme si une balle de ping-pong était placée dans la paume de la main.
 Écrivons les caractères du mot "ami" 
 
 1. Préparation : Hanshi, Pinceau, Vieux journal (en guise de sous-main), Encre liquide, ou suzuri et bâtonnet d'encre
@@ -73,6 +73,6 @@ Tenir le pinceau légèrement, comme si une balle de pingpong était placée dan
 4. S'entraîner à tracer les traits dans le bon ordre. 
    Sur le papier, tracer du doigt le caractère avant de l'écrire. C'est parti ! 
    Placer son nom en bas du papier, à gauche.
-   La calligraphie est de l'écriture artistique pas de la peinture. 
+   La calligraphie est de l'écriture artistique, pas de la peinture. 
 
-   ![](https://res.cloudinary.com/dzltvayos/image/upload/v1746766708/tomo-dachi-kanji_jdygsu.png)
+   ![Calligraphie du caractère "ami" (tomodachi)](https://res.cloudinary.com/dzltvayos/image/upload/v1746766708/tomo-dachi-kanji_jdygsu.png)

@@ -23,7 +23,7 @@ L'anguille grillée sur des braises, laquée à la sauce tare, servie en tranche
 
 ### Le kishimen
 
-Des nouilles plates et larges, servies dans un bouillon clair à base de sauce soja et garni de bonite séchée, d'épinards et de kamaboko. Une cuisine simple, populaire, que l'on mange debout dans les stands de la gare de Nagoya.
+Des nouilles plates et larges, servies dans un bouillon clair à base de sauce soja et garnies de bonite séchée, d'épinards et de kamaboko. Une cuisine simple, populaire, que l'on mange debout dans les stands de la gare de Nagoya.
 
 ### Le "morning" nagoyais
 

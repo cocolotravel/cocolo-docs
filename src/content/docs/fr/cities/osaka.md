@@ -5,7 +5,7 @@ description: ""
 
 Troisième ville du Japon avec près de 19 millions d'habitants dans son aire métropolitaine, Osaka est à l'opposé de Tokyo dans l'imaginaire japonais — plus directe, plus chaleureuse, tournée vers la nourriture et l'humour. Pendant des siècles, elle a été le principal centre économique et commercial du pays, une réputation qui a forgé une culture populaire forte, un dialecte bien à elle, et un rapport à la table qui n'existe nulle part ailleurs au Japon. Les Tokyoïtes se moquent parfois d'Osaka. Les Osakans s'en moquent davantage.
 
-La ville sera l'hôte de l'Exposition universelle 2025, comme la ville voisine de Suita le fut en 1970. En 1780, Osaka avait cultivé une vie artistique exceptionnelle, incarnée notamment par les théâtres de kabuki et de bunraku — et elle est toujours considérée comme un haut lieu du savoir et de la médecine.
+La ville sera l'hôte de l'Exposition universelle 2025, comme la ville voisine de Suita le fut en 1970. En 1780, Osaka cultivait une vie artistique exceptionnelle, incarnée notamment par les théâtres de kabuki et de bunraku — et elle est toujours considérée comme un haut lieu du savoir et de la médecine.
 
 ## Se déplacer
 

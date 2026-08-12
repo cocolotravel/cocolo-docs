@@ -23,11 +23,11 @@ La région de Yamanashi est aussi connue pour son saké et ses vins — le vigno
 
 ## Restaurants
 
-- [Hotou Fudo Kawaguchiko Station](https://maps.app.goo.gl/Fk3SP3hhzH14SEpNA) hotou nouilles, $
+- [Hotou Fudo Kawaguchiko Station](https://maps.app.goo.gl/Fk3SP3hhzH14SEpNA) hoto nouilles, $
 
 ## En cas de pluie
 
-### Le Musée Kubota Ichiku
+### Le Musée Kubota Itchiku
 
 Un musée unique consacré aux kimonos de l'artiste Kubota Itchiku, qui a consacré sa vie à raviver l'art oublié de la teinture Tsujigahana. Ses 80 œuvres, inspirées par la nature et le cosmos, forment notamment "Symphonie de la Lumière", une fresque textile monumentale représentant le Mont Fuji à travers les saisons. Un lieu qui surprend et émeut.
 

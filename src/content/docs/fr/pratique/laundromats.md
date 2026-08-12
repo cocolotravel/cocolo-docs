@@ -13,11 +13,11 @@ Une fois sur place, vous pouvez trouver tous les renseignements à ce sujet en d
 
 Le fonctionnement des laveries dépend des hôtels. Demandez à la réception de vous expliquer leur fonctionnement.
 
-Les prix pour une machine de plusieurs kilos, est d'approximativement 500/600 yens : lessive et séchage inclus.
+Les prix pour une machine de plusieurs kilos sont d'approximativement 500/600 yens : lessive et séchage inclus.
 
 ## Les laveries en ville
 
-Voici également une sélection de laverie au cas où votre hôtel n'en proposerait pas :
+Voici également une sélection de laveries au cas où votre hôtel n'en proposerait pas :
 
 ### Tokyo
 

@@ -10,7 +10,7 @@ Si vous êtes de nationalité française, cela passe par l'inscription au [Fil d
 
 ## Les numéros à avoir sur soi
 
-Bien que la probabilité d'un accident lors de votre séjour soit très faible, il est important de noter, et de garder sur soi, les numéros d'urgences japonais :
+Bien que la probabilité d'un accident lors de votre séjour soit très faible, il est important de noter, et de garder sur soi, les numéros d'urgence japonais :
 
 * Celui de votre contact sur place, qui vous sera envoyé à votre arrivée.
 * La police : 110
@@ -19,9 +19,9 @@ Bien que la probabilité d'un accident lors de votre séjour soit très faible, 
 
 ## Les tremblements de terre
 
-La plupart des tremblements de terre au Japon sont de faibles intensités : le danger le plus immédiat est la chute. Il est ainsi important de rester assis / coucher afin d'éviter de tomber.
+La plupart des tremblements de terre au Japon sont de faible intensité : le danger le plus immédiat est la chute. Il est ainsi important de rester assis ou couché afin d'éviter de tomber.
 
-Pour les tremblements de terre plus intenses, il est recommandé de se mettre à l'abri sous des bureaux / tables (ou assimilés) pour se protéger de chutes d'objets.
+Pour les tremblements de terre plus intenses, il est recommandé de se mettre à l'abri sous des bureaux / tables (ou assimilés) pour se protéger des chutes d'objets.
 
 Il est également conseillé de toujours avoir de l'eau potable dans son logement lors de son séjour au Japon ainsi que de la nourriture qui ne nécessite pas de cuisson, en cas de gros tremblement de terre.
 
@@ -48,8 +48,8 @@ Des cliniques parlant anglais sont aussi disponibles dans les grandes villes. No
 
 Certains hôpitaux ou cliniques peuvent aussi vous proposer le service d'un interprète en ligne. À noter que ce service vous sera facturé.
 
-Pensez à bien garder tous les papiers concernant le payement, afin de pouvoir vous faire éventuellement rembourser une fois votre retour en France.
-Voici des organismes qui peuvent, proposer le remboursement. Nous vous conseillons de les contacter pour connaitre vos droits, avant le début du voyage :
+Pensez à bien garder tous les papiers concernant le paiement, afin de pouvoir vous faire éventuellement rembourser une fois votre retour en France.
+Voici des organismes qui peuvent proposer le remboursement. Nous vous conseillons de les contacter pour connaitre vos droits, avant le début du voyage :
 
 * Assurance de voyage
 * Assurance de cartes bancaires

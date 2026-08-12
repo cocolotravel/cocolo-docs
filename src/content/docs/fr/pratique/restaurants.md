@@ -3,7 +3,7 @@ title: "Restaurants"
 description: ""
 ---
 
-Vous trouverez ici nos recommandations de restaurants dans les diverses villes du Japon ou vous serez amené à voyager.
+Vous trouverez ici nos recommandations de restaurants dans les diverses villes du Japon où vous serez amené à voyager.
 
 Ils seront triés en 5 grandes catégories :
 
@@ -17,7 +17,7 @@ Pour trouver facilement tous les restaurants liés à une catégorie particuliè
 
 En cliquant sur le nom du restaurant, vous accéderez directement à sa page Google Map : pour vous y rendre facilement.
 
-Ces restaurants sont également disponible sur notre [carte des restaurants](https://www.google.com/maps/d/viewer?mid=1aIoiKY0PjbiB5-P-VvhIc4yOxQiW5wk&ll=35.66839459999999%2C139.7520473&z=8).
+Ces restaurants sont également disponibles sur notre [carte des restaurants](https://www.google.com/maps/d/viewer?mid=1aIoiKY0PjbiB5-P-VvhIc4yOxQiW5wk&ll=35.66839459999999%2C139.7520473&z=8).
 
 ## Fukuoka
 
@@ -47,7 +47,7 @@ Ces restaurants sont également disponible sur notre [carte des restaurants](htt
 ## Kamakura
 
 - [GYUKATSU KYOTO KATSUGYU Kamakura Station West Exit Store](https://maps.app.goo.gl/iE3JXybhXbdTNKcS9) - Japonais
-- [Kamameshi Kama Kama](https://maps.app.goo.gl/mHS4Z9uSYfTcUuML7) - sushi
+- [Kamameshi Kama Kama](https://maps.app.goo.gl/mHS4Z9uSYfTcUuML7) - Sushi
 - [Kamakura Wasen](https://maps.app.goo.gl/Gqn8WdYVGSp8Ssfu7) - Japonais
 - [Onari Yokocho Kamakura Vegetarian & Vegan](https://maps.app.goo.gl/hpw2ZEuA6dT31E6D7) - Végétarien
 - [Magokoro](https://maps.app.goo.gl/jjfT1P4NdsXH8uiJA) - Végétarien
@@ -70,7 +70,7 @@ Ces restaurants sont également disponible sur notre [carte des restaurants](htt
 
 ## Kobe
 
-- [Mouriya](https://maps.app.goo.gl/u6bMH153agBheAYR6) - japonais (boeuf de Kobe)
+- [Mouriya](https://maps.app.goo.gl/u6bMH153agBheAYR6) - Japonais (boeuf de Kobe)
 
 ## Kyoto
 

@@ -19,7 +19,7 @@ Fukuoka est le berceau du ramen au bouillon de porc — un bouillon riche, crém
 
 ### Le motsunabe
 
-Une fondue japonaise à base d'abats de porc ou de bœuf, cuite dans un bouillon de miso ou de sauce soja avec du chou, de la ciboulette et du tofu. Un plat populaire, généreux, typiquement hiver, profondément ancré dans la culture culinaire de Kyushu.
+Une fondue japonaise à base d'abats de porc ou de bœuf, cuite dans un bouillon de miso ou de sauce soja avec du chou, de la ciboulette et du tofu. Un plat populaire, généreux, typiquement hivernal, profondément ancré dans la culture culinaire de Kyushu.
 
 ### Le mentaiko
 

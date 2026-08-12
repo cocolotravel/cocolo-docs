@@ -39,7 +39,7 @@ description: ""
 | Où est la gare ? | eki wa doko desu ka ? |
 | Où sont les toilettes ? | toire wa doko desu ka ? |
 | Comment fait-on pour se rendre à… ? | … made dō yatte ikimasu ka ? |
-| Je voudrais un / deux / trois / quatre billets pour … s’il-vous-plaît. | … made no kippu wo hitotsu / futatsu / mittsu / yottsu kudasai |
+| Je voudrais un / deux / trois / quatre billets pour … s’il vous plaît. | … made no kippu wo hitotsu / futatsu / mittsu / yottsu kudasai |
 | J’ai un pass JR | JR-Pass wo motte imasu |
 | Je voudrais acheter une carte Suika | suika-kādo wo kaitai desu |
 | À quelle heure passe le dernier train ? | shūden wa nan ji ni mairimasu ka |
@@ -67,7 +67,7 @@ description: ""
 | Combien ça coûte ? | kore wa ikura desu ka ? |
 | Je voudrais acheter ça | kore wo kaitai desu |
 | Nous sommes deux (pour demander une table) | futari desu |
-| Une bière/un verre d’eau s’il-vous-plaît | bīru/mizu wo hitotsu kudasai |
-| L’addition s’il-vous-plaît | o kaikei kudasai |
+| Une bière/un verre d’eau s’il vous plaît | bīru/mizu wo hitotsu kudasai |
+| L’addition s’il vous plaît | o kaikei kudasai |
 | Acceptez-vous la carte de crédit ? | kurejitto kādo wo tsukaemasu ka ? |
 | Y a-t-il un distributeur de billets ? | ATM wa arimasu ka ? |

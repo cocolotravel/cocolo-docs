@@ -9,7 +9,7 @@ Ce mélange entre l'agitation urbaine et la sérénité des jardins zen est part
 
 ## Se déplacer
 
-Kyoto dispose d'un réseau de bus étendu et de deux lignes de métro (une axe Nord-Sud, une axe Est-Ouest). Un trajet en bus coûte environ 230 yens quelle que soit la distance. Le métro est tarifé à la distance, à partir de 160 yens.
+Kyoto dispose d'un réseau de bus étendu et de deux lignes de métro (un axe Nord-Sud, un axe Est-Ouest). Un trajet en bus coûte environ 230 yens quelle que soit la distance. Le métro est tarifé à la distance, à partir de 160 yens.
 
 Pour les bus, payez avec votre [carte Suica](../../transportation/suica) — c'est la solution la plus pratique. Vous pouvez aussi régler en espèces en montant dans le bus.
 

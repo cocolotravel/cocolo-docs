@@ -2,15 +2,15 @@
 title: "Brochures"
 description: ""
 ---
-Au fil du temps nous avons collecté les meilleures brochures touristiques sur Japon. Cliquez sur les liens suivants pour les découvrir.
+Au fil du temps, nous avons collecté les meilleures brochures touristiques sur le Japon. Cliquez sur les liens suivants pour les découvrir.
 
 ## Généralités
 
 * [Le plan du Japon](https://brochures.jp-osa-1.linodeobjects.com/carte_du_japon.pdf)
-* [Le savoir vivre au Japon](https://brochures.jp-osa-1.linodeobjects.com/savoir_vivre_au_japon.pdf)
+* [Le savoir-vivre au Japon](https://brochures.jp-osa-1.linodeobjects.com/savoir_vivre_au_japon.pdf)
 * [La cuisine japonaise 1](https://brochures.jp-osa-1.linodeobjects.com/la_cuisine_japonaise.pdf)
 * [La cuisine japonaise 2](https://brochures.jp-osa-1.linodeobjects.com/cuisine_japonaise_2.pdf)
-* [Le toursime durable au Japon](https://brochures.jp-osa-1.linodeobjects.com/tourisme_durable.pdf)
+* [Le tourisme durable au Japon](https://brochures.jp-osa-1.linodeobjects.com/tourisme_durable.pdf)
 * [Le sumo 1](https://brochures.jp-osa-1.linodeobjects.com/sumo_1.pdf)
 * [Le sumo 2](https://brochures.jp-osa-1.linodeobjects.com/sumo_2.pdf)
 * [Les geisha](https://brochures.jp-osa-1.linodeobjects.com/geisha_1.pdf)
@@ -23,26 +23,26 @@ Au fil du temps nous avons collecté les meilleures brochures touristiques sur J
 
 * [La carte de Tokyo](https://brochures.jp-osa-1.linodeobjects.com/tourist_map_japan_tokyo_1.pdf)
 * [Le plan des quartiers de Tokyo](https://brochures.jp-osa-1.linodeobjects.com/tokyomap.pdf)
-* [Le guide toursitique de Tokyo](https://brochures.jp-osa-1.linodeobjects.com/tokyo_guide_toursitique.pdf)
+* [Le guide touristique de Tokyo](https://brochures.jp-osa-1.linodeobjects.com/tokyo_guide_toursitique.pdf)
 * [Le plan du métro de Tokyo](https://brochures.jp-osa-1.linodeobjects.com/tokyo_metro_plan.pdf)
 * [Les quartiers de Shitamachi à Tokyo](https://brochures.jp-osa-1.linodeobjects.com/shitamachi.pdf)
-* [Le quartier de Asakusa Bashi](https://brochures.jp-osa-1.linodeobjects.com/asakusabashi_1.pdf)
-* [Le quartier de Ueno à Tokyo 1](https://brochures.jp-osa-1.linodeobjects.com/ueno_1.pdf)
-* [Le quartier de Asakusa](https://brochures.jp-osa-1.linodeobjects.com/asakusa_1.pdf)
+* [Le quartier d'Asakusa Bashi](https://brochures.jp-osa-1.linodeobjects.com/asakusabashi_1.pdf)
+* [Le quartier d'Ueno à Tokyo 1](https://brochures.jp-osa-1.linodeobjects.com/ueno_1.pdf)
+* [Le quartier d'Asakusa](https://brochures.jp-osa-1.linodeobjects.com/asakusa_1.pdf)
 * [Le quartier de Yanaka à Tokyo 1](https://brochures.jp-osa-1.linodeobjects.com/yanaka_1.pdf)
 * [Les jardins de Tokyo](https://brochures.jp-osa-1.linodeobjects.com/tokyo_metropolitan_garden_1.pdf)
 * [Le palais impérial de Tokyo](https://brochures.jp-osa-1.linodeobjects.com/imperial_palace_tokyo_1.pdf)
 * [Le jardin du palais impérial](https://brochures.jp-osa-1.linodeobjects.com/imperial_palace_east_gardens.pdf)
 * [Le monorail depuis l'aéroport de Haneda](https://brochures.jp-osa-1.linodeobjects.com/haneda_monorail.pdf)
 * [Les sentos à Shibuya](https://brochures.jp-osa-1.linodeobjects.com/shibuya_sento_1.pdf)
-* [La carte de Tokyo pour les musulmans, végétariens et véganes](https://brochures.jp-osa-1.linodeobjects.com/tokyo_map_muslims_vegans_taito.pdf)
+* [La carte de Tokyo pour les musulmans, végétariens et végans](https://brochures.jp-osa-1.linodeobjects.com/tokyo_map_muslims_vegans_taito.pdf)
 * [Tokyo végétarien et végan 2](https://brochures.jp-osa-1.linodeobjects.com/tokyo_vegan_vetetarian_1.pdf)
 * [Le guide des musulmans de Tokyo](https://brochures.jp-osa-1.linodeobjects.com/tokyo_muslim_guide.pdf)
 
 ## Hakone
 
 * [La région de Hakone et le Free Pass](https://brochures.jp-osa-1.linodeobjects.com/hakone_1.pdf)
-* [Le services de bagageries de Hakone](https://brochures.jp-osa-1.linodeobjects.com/hakone_baggage.pdf)
+* [Les services de bagageries de Hakone](https://brochures.jp-osa-1.linodeobjects.com/hakone_baggage.pdf)
 * [Une randonnée à Hakone 1](https://brochures.jp-osa-1.linodeobjects.com/hakone_rando.pdf)
 * [Une randonnée à Hakone 2](https://brochures.jp-osa-1.linodeobjects.com/hakone_hiking_map_1.pdf)
 
@@ -63,7 +63,7 @@ Au fil du temps nous avons collecté les meilleures brochures touristiques sur J
 * [La ville de Kanazawa 2](https://brochures.jp-osa-1.linodeobjects.com/kanazawa_2.pdf)
 * [Une randonnée à Shirakawago](https://brochures.jp-osa-1.linodeobjects.com/shirakawago_2.pdf)
 
-## Les Alpes Japonaises
+## Les Alpes japonaises
 
 * [La ville de Takayama 1](https://brochures.jp-osa-1.linodeobjects.com/takayama_1.pdf)
 * [La ville de Takayama 2](https://brochures.jp-osa-1.linodeobjects.com/takayama_2.pdf)
@@ -90,8 +90,8 @@ Au fil du temps nous avons collecté les meilleures brochures touristiques sur J
 
 ## Ine
 
-* [La ville de Ine 1](https://www.ine-kankou.jp/wp/wp-content/uploads/2023/10/inemap_back_en_231019.pdf)
-* [La ville de Ine 2](https://www.ine-kankou.jp/wp/wp-content/uploads/2023/10/inemap_front_en_231019.pdf)
+* [La ville d'Ine 1](https://www.ine-kankou.jp/wp/wp-content/uploads/2023/10/inemap_back_en_231019.pdf)
+* [La ville d'Ine 2](https://www.ine-kankou.jp/wp/wp-content/uploads/2023/10/inemap_front_en_231019.pdf)
 
 ## Kyoto
 
@@ -144,8 +144,8 @@ Au fil du temps nous avons collecté les meilleures brochures touristiques sur J
 
 ## Ise
 
-* [La ville de Ise 1](https://brochures.jp-osa-1.linodeobjects.com/ise_1.pdf)
-* [La ville de Ise 2](https://brochures.jp-osa-1.linodeobjects.com/ise_2.pdf)
+* [La ville d'Ise 1](https://brochures.jp-osa-1.linodeobjects.com/ise_1.pdf)
+* [La ville d'Ise 2](https://brochures.jp-osa-1.linodeobjects.com/ise_2.pdf)
 
 ## Le Kyushu
 

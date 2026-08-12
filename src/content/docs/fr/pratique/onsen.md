@@ -2,15 +2,15 @@
 title: "Onsen : bain thermal"
 description: ""
 ---
-![](https://res.cloudinary.com/dzltvayos/image/upload/v1747019789/onsen-01_mcept0.jpg)
+![Bain onsen extérieur dans un ryokan japonais](https://res.cloudinary.com/dzltvayos/image/upload/v1747019789/onsen-01_mcept0.jpg)
 
 Dans votre ryôkan ou hôtel, vous trouverez des bains publics appelés onsen (littéralement “source chaude”). Ils sont disponibles pour tous les clients. Les espaces pour les hommes et les femmes sont séparés. De nombreux ryôkans changent le sexe des bains à certains moments de la journée afin que les clients aient accès à toutes les installations. 
 
-Il faut bien noter que la piscine de l'onsen est commune et qu'il y aura d'autres personnes qui s'y baigneront après vous. Il est donc essentiel de le garder aussi propre que possible, en respectant les règles d’hygiène avant et après la baignade. 
+Il faut bien noter que la piscine de l'onsen est commune et qu'il y aura d'autres personnes qui s'y baigneront après vous. Il est donc essentiel de la garder aussi propre que possible, en respectant les règles d’hygiène avant et après la baignade. 
 
 Généralement, un rideau bleu pour les hommes ou rouge pour les femmes désigne l’entrée de l’onsen. 
 
-![](https://res.cloudinary.com/dzltvayos/image/upload/v1747019812/noren-otoko-onna_ag0yeu.jpg)
+![Rideau noren bleu et rouge marquant l'entrée des bains onsen pour hommes et femmes](https://res.cloudinary.com/dzltvayos/image/upload/v1747019812/noren-otoko-onna_ag0yeu.jpg)
 
 Lorsque vous utilisez l’onsen, vous avez besoin de deux serviettes : une petite et une grande. On laisse la grande dans le vestiaire pour s’en servir à la sortie de l’onsen. Quant à la petite, on l’amène dans l’onsen pour l’utiliser. 
 
@@ -22,7 +22,7 @@ Voici comment en profiter :
 4. Dans le bain, ne faites pas flotter votre serviette et attachez vos cheveux pour éviter qu’ils ne trempent dans l’eau.
 5. À la sortie, rincez-vous de nouveau, séchez-vous rapidement avec la petite serviette, puis utilisez la grande dans le vestiaire.
 
-![](https://res.cloudinary.com/dzltvayos/image/upload/v1747019822/onsen-02_fej32d.jpg)
+![Étapes du rituel avant d'entrer dans l'onsen](https://res.cloudinary.com/dzltvayos/image/upload/v1747019822/onsen-02_fej32d.jpg)
 
 En termes simples :
 

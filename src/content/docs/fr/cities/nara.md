@@ -68,7 +68,7 @@ Le temple Todai-ji abrite le plus grand bouddha de bronze du Japon — quinze m�
 
 [Google Maps](https://maps.app.goo.gl/oyHX7zXe3XjeUvAu6)
 
-Le sanctuaire Kasuga Taisha est l'un des plus anciens et des plus importants du Japon — fondé en 768 pour protéger la capitale. Ce qui le rend unique, c'est ses milliers de lanternes de bronze et de pierre qui bordent les allées de cryptomères centenaires. Le sanctuaire organise deux fois par an la cérémonie Mantoro, pendant laquelle toutes les lanternes sont allumées simultanément — un spectacle rarissime. En dehors de ces dates, l'atmosphère de la forêt de cryptomères au coucher du soleil est déjà remarquable.
+Le sanctuaire Kasuga Taisha est l'un des plus anciens et des plus importants du Japon — fondé en 768 pour protéger la capitale. Ce qui le rend unique, ce sont ses milliers de lanternes de bronze et de pierre qui bordent les allées de cryptomères centenaires. Le sanctuaire organise deux fois par an la cérémonie Mantoro, pendant laquelle toutes les lanternes sont allumées simultanément — un spectacle rarissime. En dehors de ces dates, l'atmosphère de la forêt de cryptomères au coucher du soleil est déjà remarquable.
 
 ### Horyuji — les plus vieux bâtiments en bois du monde
 

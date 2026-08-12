@@ -21,7 +21,7 @@ Plusieurs musées de Naoshima exigent une réservation à l'avance — en partic
 
 [Google Maps](https://maps.app.goo.gl/srw8ps3t6KW3wFJs9)
 
-Conçu par Tadao Ando, le Chichu Art Museum est entièrement enterré dans la colline — "chichu" signifie "dans la terre". L'architecture en béton brut, percée de patios ouverts sur le ciel, est pensée pour que la lumière naturelle évolue avec les heures de la journée. La collection permanente est volontairement réduite à quelques œuvres — dont les grandes Nymphéas de Monet et des installations de Walter De Maria et James Turrell — pour que chacune soit vécue pleinement.
+Conçu par Tadao Ando, le Chichu Art Museum est entièrement enterré dans la colline — "chichu" signifie "dans la terre". L'architecture en béton brut, percée de patios ouverts sur le ciel, est pensée pour que la lumière naturelle évolue avec les heures de la journée. La collection permanente est volontairement réduite à quelques œuvres — dont les grands Nymphéas de Monet et des installations de Walter De Maria et James Turrell — pour que chacune soit vécue pleinement.
 
 Horaires : 10h-18h (mars-sept) / 10h-17h (oct-fév) — fermé le lundi.
 Entrée : 2 100 JPY (gratuit pour les moins de 15 ans).

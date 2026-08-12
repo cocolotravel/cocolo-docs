@@ -3,7 +3,7 @@ title: "Hakone"
 description: ""
 ---
 
-Hakone est une station thermale nichée dans les montagnes volcaniques du parc national d'Hakone-Fuji, à deux heures de Tokyo. C'est l'une des excursions les plus populaires du Japon — et pour cause : le lac Ashi, le téléphérique survol du cratère d'Owakudani, les sources chaudes et, quand le temps le permet, la vue sur le Mont Fuji qui se dresse au-dessus du lac, forment une combinaison rare.
+Hakone est une station thermale nichée dans les montagnes volcaniques du parc national d'Hakone-Fuji, à deux heures de Tokyo. C'est l'une des excursions les plus populaires du Japon — et pour cause : le lac Ashi, le téléphérique qui survole le cratère d'Owakudani, les sources chaudes et, quand le temps le permet, la vue sur le Mont Fuji qui se dresse au-dessus du lac, forment une combinaison rare.
 
 Hakone s'explore dans la journée depuis Tokyo, ou en une nuit sur place dans un ryokan avec onsen — une expérience en elle-même.
 

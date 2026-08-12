@@ -15,7 +15,7 @@ La façon la plus juste de vivre Koyasan est de pratiquer le shukubo : séjourne
 
 Quelques repères pour bien vivre ce séjour :
 
-Le yukata (kimono léger) et le tanzen (veste molletonnée portée par-dessus le yukata) fournis par le temple sont pour l'usage détendu dans les couloirs et dans votre chambre, ils ne sont pas portés pendant les cérémonies religieuses du matin. Si vous souhaitez assister aux offices, habillez-vous normalement.
+Le yukata (kimono léger) et le tanzen (veste molletonnée portée par-dessus le yukata) fournis par le temple sont destinés à un usage détendu dans les couloirs et dans votre chambre ; ils ne sont pas portés pendant les cérémonies religieuses du matin. Si vous souhaitez assister aux offices, habillez-vous normalement.
 
 Pendant les cérémonies, le silence est essentiel. Ce sont de véritables offices religieux, pas des spectacles pour touristes : les moines prient, chantent et font brûler l'encens devant leurs fidèles. Être présent avec discrétion est une marque de respect appréciée.
 

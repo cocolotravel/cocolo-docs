@@ -19,7 +19,7 @@ La réponse à cette question change évidemment en fonction des banques.
 
 Si vous possédez une Visa ou une Mastercard, il est très facile de retirer de l'argent au Japon. C'est en général cette option qui est la plus intéressante car vous retirez au taux de change du moment.
 
-Avant de partir, contactez votre banque pour confirmer les modalités d'utilisation de votre carte bancaire à l'étranger, pour éviter les mauvaises surprises sur place. Vous pourrez ainsi retirer de l'argent un peu partout (selon votre carte), dans les ATM des conveniences stores (7/11, Family Mart, Lawson,...) ou dans les postes. Vérifiez auprès de votre banque le **plafond de retrait autorisé sur votre carte bancaire**, il pourrait être intéressant de l'augmenter durant votre voyage.
+Avant de partir, contactez votre banque pour confirmer les modalités d'utilisation de votre carte bancaire à l'étranger, pour éviter les mauvaises surprises sur place. Vous pourrez ainsi retirer de l'argent un peu partout (selon votre carte), dans les ATM des convenience stores (7/11, Family Mart, Lawson,...) ou dans les bureaux de poste. Vérifiez auprès de votre banque le **plafond de retrait autorisé sur votre carte bancaire**, il pourrait être intéressant de l'augmenter durant votre voyage.
 
 À savoir que tous les ATM japonais chargent entre 1 et 2 euros par transaction : il peut ainsi être plus judicieux de retirer des grosses sommes si vous êtes certains de les utiliser.
 
@@ -27,7 +27,7 @@ Attention, de nombreux lieux (que ce soit restaurants, bars, lieux de visite, bo
 
 ### Vous avez de gros frais lors de l'utilisation de votre CB à l'étranger
 
-Si votre banque vous charge des frais importants lors de l'utilisation de votre CB à l'étranger, alors il peut être judicieux de plutôt échanger de l'euro.
+Si votre banque vous charge des frais importants lors de l'utilisation de votre CB à l'étranger, alors il peut être judicieux de plutôt échanger des euros.
 
 Si vous préférez, vous pouvez échanger directement en France pour avoir l'esprit tranquille.
 

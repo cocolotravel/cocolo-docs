@@ -2,7 +2,7 @@
 title: "Magasins de luxe"
 description: ""
 ---
-Les Japonais apprécient les marques de luxe, y compris les marques phare françaises. La mode européenne et occidentale est en vogue chez les Japonais, qui ont souvent une image idéalisée du style vestimentaire des étrangers.
+Les Japonais apprécient les marques de luxe, y compris les marques phares françaises. La mode européenne et occidentale est en vogue chez les Japonais, qui ont souvent une image idéalisée du style vestimentaire des étrangers.
 
 On trouve aussi des marques japonaises, comme Issey Miyake ou Comme des Garçons.
 
@@ -12,7 +12,7 @@ On peut trouver des endroits qui proposent des produits de marque dans toutes le
 
 ### Ginza
 
-C'est le quartier classique de la mode de Tokyo. Ici on peut trouver des boutiques de toutes les marques les plus connues du monde entier. Bonus : elles sont jolies même de l'extérieur.
+C'est le quartier classique de la mode de Tokyo. Ici, on peut trouver des boutiques de toutes les marques les plus connues du monde entier. Bonus : elles sont jolies même de l'extérieur.
 
 Quelques boutiques recommandées :
 
@@ -34,7 +34,7 @@ Recommandations :
 
 ### Shinsaibashi
 
-Lorsque vous êtes à Osaka, prenez du temps pour découvrir ce marché couvert, contenant des boutiques de toute sorte, y compris de luxe.
+Lorsque vous êtes à Osaka, prenez du temps pour découvrir ce marché couvert, contenant des boutiques de toutes sortes, y compris de luxe.
 
 Recommandations :
 

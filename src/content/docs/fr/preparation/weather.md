@@ -2,9 +2,9 @@
 title: "Météo"
 description: ""
 ---
-Le Japon possède quatre saisons qui sont similaires à celles françaises. Les températures varient cependant fortement en fonction de si vous vous trouvez au nord (la ville la plus au nord étant proche de la Russie) ou au sud.
+Le Japon possède quatre saisons qui sont similaires à celles de la France. Les températures varient cependant fortement selon que vous vous trouvez au nord (la ville la plus au nord étant proche de la Russie) ou au sud.
 
-Les différences principales avec la météo française sont un hiver plus sec, et un été plus humide, avec notamment une forte période de précipitations allant de début juin à juillet.
+Les différences principales avec la météo française sont un hiver plus sec et un été plus humide, avec notamment une forte période de précipitations allant de début juin à juillet.
 
 Au nord du Japon, le climat est plutôt froid : neige et glace prédominent en hiver et les températures restent agréables en été.
 
@@ -18,17 +18,17 @@ Des typhons font également leur apparition durant les mois de septembre et octo
 
 L'automne est doux et agréable : il n'est pas rare de porter seulement un petit pull début novembre à Tokyo.
 
-L'hiver, bien que froid (surtout dans les villes les plus au nord de Tokyo) est ensoleillé.
+L'hiver, bien que froid (surtout dans les villes les plus au nord de Tokyo), est ensoleillé.
 
 ## Moyennes des températures
 
 |Sapporo|Tokyo|
 |:-:|:-:|
-|![moyenne_température_sapporo_.png](/images/moyenne_température_sapporo_.png)|![tokyo_température_.png](/images/tokyo_température_.png)|
+|![Graphique des moyennes de température à Sapporo](/images/moyenne_température_sapporo_.png)|![Graphique des moyennes de température à Tokyo](/images/tokyo_température_.png)|
 
 |Osaka|Fukuoka|
 |:-:|:-:|
-|![osaka_météo_.png](/images/osaka_météo_.png)|![météo_fukuoka_.png](/images/météo_fukuoka_.png)|
+|![Graphique des moyennes de température à Osaka](/images/osaka_météo_.png)|![Graphique des moyennes de température à Fukuoka](/images/météo_fukuoka_.png)|
 
 ## Les vêtements à emporter
 
@@ -57,7 +57,7 @@ Le climat reste frais au printemps, prévoyez une veste assez chaude, ainsi que 
 
 > En été, beaucoup de bâtiments et de transports sont climatisés. Nos corps ne sont pas habitués aux changements de température assez violents que cela produit : nous vous conseillons ainsi vivement d'emporter un foulard avec vous pour éviter de tomber malade.
 
-Pour l'été au Japon, nous vous conseillons principalement des vêtements légers, comme il peut faire très chaud. Des chaussures confortables qui tiennent bien le pied tout en le laissant respirer, des tee-shirts, des shorts, jupes ou pantalons fins en cotons et flanelles seront vos meilleurs amis. Une veste imperméable fine sera très pratique pour les averses qui sont fréquentes. Pensez également à prendre deux ou trois pulls, ou bien une veste un peu plus chaude au cas où une soirée soit un peu plus fraîche, notamment dans les Alpes japonaises ou dans le nord du Japon.
+Pour l'été au Japon, nous vous conseillons principalement des vêtements légers, car il peut faire très chaud. Des chaussures confortables qui tiennent bien le pied tout en le laissant respirer, des tee-shirts, des shorts, jupes ou pantalons fins en coton et flanelle seront vos meilleurs amis. Une veste imperméable fine sera très pratique pour les averses qui sont fréquentes. Pensez également à prendre deux ou trois pulls, ou bien une veste un peu plus chaude au cas où une soirée serait un peu plus fraîche, notamment dans les Alpes japonaises ou dans le nord du Japon.
 
 L'été étant très chaud, si vous avez des petits ventilateurs portables, n'hésitez pas à les glisser dans votre valise !
 
@@ -65,12 +65,12 @@ L'été étant très chaud, si vous avez des petits ventilateurs portables, n'h�
 
 #### Automne – majeure partie du Japon
 
-L'automne japonais est plus chaud et agréable que celui français.
-Une petite veste imperméable, ainsi qu'une un peu plus chaude pour les soirées qui peuvent être frileuses seront nécessaires. Prenez aussi quelques pulls, des tee-shirts à manche longue et des pantalons. Si vous souhaitez porter des jupes ou des robes, des collants fins seront nécessaires.
+L'automne japonais est plus chaud et agréable que celui de la France.
+Une petite veste imperméable, ainsi qu'une un peu plus chaude pour les soirées qui peuvent être fraîches seront nécessaires. Prenez aussi quelques pulls, des tee-shirts à manche longue et des pantalons. Si vous souhaitez porter des jupes ou des robes, des collants fins seront nécessaires.
 
 #### Automne – nord et Alpes japonaises
 
-Au début de l'automne, suivez les consignes indiquées ci-dessus. À la fin de l'automne cependant, référez-vous plutôt aux vêtements nécessaires pour l'hiver, car des chutes de neige sont possibles ; faites un mix entre vêtements chauds et vêtements plus légers.
+Au début de l'automne, suivez les consignes indiquées ci-dessus. À la fin de l'automne cependant, référez-vous plutôt aux vêtements nécessaires pour l'hiver, car des chutes de neige sont possibles ; faites un mélange entre vêtements chauds et vêtements plus légers.
 
 ### Les vêtements à emporter en hiver
 

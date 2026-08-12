@@ -215,7 +215,7 @@ Les tickets pour enfants (6-11 ans) comportent le kanji **小** (petit) en haut 
 
 **Si vous perdez votre ticket avant de franchir le premier portique :**
 
-Achetez un nouveau ticket aux bornes automatiques JR (みどりの券売機 - Midori no kenbaiki). Changez la langue en anglais (ou français sur certaines machines) et renseignez soigneusement la date, les horaires, la gare de départ et d'arrivée, le type de ticket (enfant/adulte) ainsi que le train et le numéro de siège si applicable.
+Achetez un nouveau ticket aux bornes automatiques JR (みどりの券売機 - Midori no kenbaiki). Changez la langue en anglais (ou français sur certaines machines) et renseignez soigneusement la date, les horaires, la gare de départ et d'arrivée, le type de ticket (enfant/adulte) ainsi que le train et le numéro de siège le cas échéant.
 
 **Si vous perdez votre ticket après avoir franchi le premier portique :**
 

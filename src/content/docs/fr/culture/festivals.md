@@ -34,11 +34,11 @@ Découvrez ci-dessous une sélection de *matsuri* célèbres, accompagnés de le
 
 * **Kasuga Wakamiya Onmatsuri Festival** - Nara, Kasuga Shrine *(15–18.12)*
 
-  Le Kasuga Wakamiya On-Matsuri se tient à Nara du 15 au 18 décembre. Les principaux événements ont lieu le 17 décembre à Kasuga Taisha et au sanctuaire Wakamiya : grand défilé historique Jidai Gyoretsu (IXe–XIXe siècle), rituels shinto dont le Senko & Kanko no Gi à minuit, danses et musiques traditionnelles. Le festival est reconnu comme Important Bien culturel folklorique immatériel national.
+  Le Kasuga Wakamiya On-Matsuri se tient à Nara du 15 au 18 décembre. Les principaux événements ont lieu le 17 décembre à Kasuga Taisha et au sanctuaire Wakamiya : grand défilé historique Jidai Gyoretsu (IXe–XIXe siècle), rituels shinto dont le Senko & Kanko no Gi à minuit, danses et musiques traditionnelles. Le festival est reconnu comme un important bien culturel folklorique immatériel national.
 
 * **Festival of Lights** - Osaka, Midosuji *(03.11–31.01 de 17h à 23h)*
 
-  Le Midosuji Illumination est le grand festival hivernal de lumières d'Osaka : sur 4 km, entre Umeda et Namba, l'avenue Midosuji se transforme grâce aux LED colorées qui illuminent les gingkos.
+  Le Midosuji Illumination est le grand festival hivernal de lumières d'Osaka : sur 4 km, entre Umeda et Namba, l'avenue Midosuji se transforme grâce aux LED colorées qui illuminent les ginkgos.
 
 * **Osaka Tenjin Festival** - Osaka Tenmangu Shrine *(24–25.07)*
 

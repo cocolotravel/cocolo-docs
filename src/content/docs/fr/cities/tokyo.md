@@ -5,7 +5,7 @@ description: ""
 
 Tokyo — littéralement « Capitale de l'est » — est le principal centre économique et financier du Japon. Avec plus de 13 millions d'habitants intra-muros et 42 millions dans l'agglomération, elle forme l'aire urbaine la plus peuplée au monde. Pourtant, malgré cette démesure, Tokyo est une ville qui se laisse apprivoiser facilement : propre, sûre, ordonnée, dotée d'un réseau de transports exemplaire.
 
-À l'origine, Tokyo était un petit village de pêcheurs nommé Edo. Fortifiée au XVe siècle, elle devient la base militaire du shogun Tokugawa Ieyasu à la fin du XVIe siècle, puis la capitale de son gouvernement. Durant l'époque d'Edo (1603-1868), la ville se développe considérablement et compte déjà près d'un million d'habitants à la fin du XVIIIe siècle. Avec la restauration de l'Empire en 1868, le château d'Edo devient la résidence de l'Empereur Meiji.
+À l'origine, Tokyo était un petit village de pêcheurs nommé Edo. Fortifiée au XVe siècle, elle devient la base militaire du shogun Tokugawa Ieyasu à la fin du XVIe siècle, puis la capitale de son gouvernement. Durant l'époque d'Edo (1603-1868), la ville se développe considérablement et compte déjà près d'un million d'habitants à la fin du XVIIIe siècle. Avec la restauration de l'Empire en 1868, le château d'Edo devient la résidence de l'empereur Meiji.
 
 Tokyo a été ravagée en 1923 par un séisme de magnitude 7,9 qui a fait plus de 100 000 morts, puis à moitié détruite par les bombardements américains durant la Seconde Guerre mondiale. Elle est rapidement reconstruite et devient, dans la seconde moitié du XXe siècle, une métropole de rang mondial. Malgré la modernité de son architecture, de nombreux sanctuaires shinto et temples bouddhistes ont été préservés ou reconstruits — ce contraste permanent entre l'ancien et l'ultramoderne est l'une des grandes particularités de Tokyo.
 
@@ -15,7 +15,7 @@ Le métro est sans aucun doute le meilleur moyen de se déplacer à Tokyo. Les l
 
 ### La ligne JR Yamanote
 
-La ligne circulaire JR Yamanote (reconnaissable à sa couleur verte) est la plus utile pour les touristes. Elle dessert les grandes gares et quartiers de Tokyo : Shinjuku, Shibuya, Harajuku, Akihabara, Ueno, Akihabara, Shinagawa. C'est votre ligne de référence.
+La ligne circulaire JR Yamanote (reconnaissable à sa couleur verte) est la plus utile pour les touristes. Elle dessert les grandes gares et quartiers de Tokyo : Shinjuku, Shibuya, Harajuku, Akihabara, Ueno, Shinagawa. C'est votre ligne de référence.
 
 ### Le métro
 
@@ -25,11 +25,11 @@ Le métro de Tokyo est géré par plusieurs opérateurs mais fonctionne de faço
 
 ### Le ramen style Tokyo
 
-Le ramen de Tokyo (Tokyo ramen) se distingue par son bouillon clair à base de shoyu (sauce soja) et de bouillon de poulet. Plus léger que les versions de Sapporo ou Hakata, il est garanti à chaque arrêt de ramen — et il y en a des milliers dans la ville.
+Le ramen de Tokyo (Tokyo ramen) se distingue par son bouillon clair à base de shoyu (sauce soja) et de bouillon de poulet. Plus léger que les versions de Sapporo ou Hakata, il est garanti à chaque échoppe de ramen — et il y en a des milliers dans la ville.
 
 ### Le monjayaki
 
-Le monjayaki est la spécialité culinaire propre à Tokyo, particulièrement au quartier de Tsukishima. Il s'agit d'une sorte de crêpe liquide cuite à la plancha devant vous, à mi-chemin entre l'okonomiyaki d'Osaka et une fondue. Une expérience conviviale à ne pas manquer.
+Le monjayaki est la spécialité culinaire propre à Tokyo, particulièrement dans le quartier de Tsukishima. Il s'agit d'une sorte de crêpe liquide cuite à la plancha devant vous, à mi-chemin entre l'okonomiyaki d'Osaka et une fondue. Une expérience conviviale à ne pas manquer.
 
 ### La tempura
 
@@ -194,4 +194,4 @@ Une expérience d'art numérique immersif unique au monde. Le nouveau site d'Aza
 
 [Google Maps](https://maps.app.goo.gl/eLgFuTBQQL7bBUiHA)
 
-Roppongi a longtemps été associé à la vie nocturne pour expatriés. Mais le quartier a profondément évolué : Roppongi Hills et Tokyo Midtown ont transformé le secteur en destination culturelle et gastronomique de premier plan. Le "Art Triangle Roppongi" — qui réunit le National Art Center, le Musée Mori et le Musée Suntory — en fait l'un des pôles artistiques les plus importants de la ville.
+Roppongi a longtemps été associé à la vie nocturne des expatriés. Mais le quartier a profondément évolué : Roppongi Hills et Tokyo Midtown ont transformé le secteur en destination culturelle et gastronomique de premier plan. Le "Art Triangle Roppongi" — qui réunit le National Art Center, le Musée Mori et le Musée Suntory — en fait l'un des pôles artistiques les plus importants de la ville.

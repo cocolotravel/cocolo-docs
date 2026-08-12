@@ -61,7 +61,7 @@ Architecture signée Shigeru Ban (Prix Pritzker) : panneaux modulaires en cèdre
 
 > *EarthCheck Gold — 1er au Japon · −30 % énergie*
 
-Seul hôtel japonais certifié EarthCheck Gold. Des tri-générateurs convertissent la chaleur perdue en froid, réduisant la consommation énergétique de 30 %. Ruches sur le toit qui produisent le miel des restaurants.
+Seul hôtel japonais certifié EarthCheck Gold. Des trigénérateurs convertissent la chaleur perdue en froid, réduisant la consommation énergétique de 30 %. Ruches sur le toit qui produisent le miel des restaurants.
 
 #### Keio Plaza Hotel — Shinjuku
 
@@ -125,9 +125,9 @@ Le kominka (古民家) est un type architectural : une maison populaire traditio
 
 Sous-types : *gassho-zukuri* de Shirakawa-go (toits de chaume classés UNESCO), *kyo-machiya* de Kyoto (maisons de marchands étroites et profondes), *nouka* (fermes rurales avec foyer central *irori*).
 
-Restaurer une kominka évite démolition et construction neuve — le geste le plus bas-carbone possible. Le Japon compte environ 8 millions de maisons vides (*akiya*) : séjourner dans une kominka contribue à en sauver une.
+Restaurer un kominka évite démolition et construction neuve — le geste le plus bas-carbone possible. Le Japon compte environ 8 millions de maisons vides (*akiya*) : séjourner dans un kominka contribue à en sauver une.
 
-> Séjourner dans un minshuku ou une kominka, c'est peut-être la forme de tourisme durable la plus directement efficace — sans label, sans communication, sans marketing.
+> Séjourner dans un minshuku ou un kominka, c'est peut-être la forme de tourisme durable la plus directement efficace — sans label, sans communication, sans marketing.
 
 ---
 
