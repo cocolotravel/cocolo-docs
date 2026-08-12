@@ -44,6 +44,7 @@ Non-technical editors can edit content through a web UI at `/admin/`, powered by
 
 - [`@astrojs/sitemap`](https://docs.astro.build/en/guides/integrations-guide/sitemap/) generates `sitemap-index.xml`/`sitemap-0.xml` on every build. Note the site currently sends `X-Robots-Tag: noindex, nofollow` (see `netlify.toml`/`astro.config.mjs`), so search engines won't act on it until that's lifted.
 - [`astro-broken-links-checker`](https://github.com/imazen/astro-broken-link-checker) checks internal and external links on every build (`checkExternalLinks: true`) and logs any broken ones to the console — it doesn't fail the build (`throwError` defaults to `false`). Some external results are known false positives (`maps.app.goo.gl` and Cloudinary links can reject scripted requests that work fine in a browser).
+- After each build, `scripts/publish-broken-links-log.mjs` copies the checker's `.link-checker/broken-links.log` into `dist/broken-links.log`, so it's published at `https://docs.cocolotravel.com/broken-links.log` on every deploy — a live, no-login-required reference for staff to check for outstanding broken links.
 
 ## 🧞 Commands
 
