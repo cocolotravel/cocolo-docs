@@ -64,13 +64,6 @@ collections:
       - { label: "Titre", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string", required: false }
       - { label: "Brouillon", name: "draft", widget: "boolean", required: false }
-      - label: "Barre latérale"
-        name: "sidebar"
-        widget: "object"
-        required: false
-        collapsed: true
-        fields:
-          - { label: "Ordre", name: "order", widget: "number", required: false }
       - { label: "Contenu", name: "body", widget: "markdown" }
 
   - name: "transportation"
@@ -82,13 +75,6 @@ collections:
       - { label: "Titre", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string", required: false }
       - { label: "Brouillon", name: "draft", widget: "boolean", required: false }
-      - label: "Barre latérale"
-        name: "sidebar"
-        widget: "object"
-        required: false
-        collapsed: true
-        fields:
-          - { label: "Ordre", name: "order", widget: "number", required: false }
       - { label: "Contenu", name: "body", widget: "markdown" }
 
   - name: "services"
@@ -100,13 +86,6 @@ collections:
       - { label: "Titre", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string", required: false }
       - { label: "Brouillon", name: "draft", widget: "boolean", required: false }
-      - label: "Barre latérale"
-        name: "sidebar"
-        widget: "object"
-        required: false
-        collapsed: true
-        fields:
-          - { label: "Ordre", name: "order", widget: "number", required: false }
       - { label: "Contenu", name: "body", widget: "markdown" }
 
   - name: "pratique"
@@ -118,13 +97,6 @@ collections:
       - { label: "Titre", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string", required: false }
       - { label: "Brouillon", name: "draft", widget: "boolean", required: false }
-      - label: "Barre latérale"
-        name: "sidebar"
-        widget: "object"
-        required: false
-        collapsed: true
-        fields:
-          - { label: "Ordre", name: "order", widget: "number", required: false }
       - { label: "Contenu", name: "body", widget: "markdown" }
 
   - name: "culture"
@@ -136,13 +108,6 @@ collections:
       - { label: "Titre", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string", required: false }
       - { label: "Brouillon", name: "draft", widget: "boolean", required: false }
-      - label: "Barre latérale"
-        name: "sidebar"
-        widget: "object"
-        required: false
-        collapsed: true
-        fields:
-          - { label: "Ordre", name: "order", widget: "number", required: false }
       - { label: "Contenu", name: "body", widget: "markdown" }
 
   - name: "cities"
@@ -154,11 +119,4 @@ collections:
       - { label: "Titre", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string", required: false }
       - { label: "Brouillon", name: "draft", widget: "boolean", required: false }
-      - label: "Barre latérale"
-        name: "sidebar"
-        widget: "object"
-        required: false
-        collapsed: true
-        fields:
-          - { label: "Ordre", name: "order", widget: "number", required: false }
       - { label: "Contenu", name: "body", widget: "markdown" }
