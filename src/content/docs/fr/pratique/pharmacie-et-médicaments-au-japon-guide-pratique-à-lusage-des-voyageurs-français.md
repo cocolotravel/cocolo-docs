@@ -1,5 +1,5 @@
 ---
-title: "Pharmacie et médicaments au Japon"
+title: Pharmacie et médicaments au Japon
 ---
 ![Rayon de médicaments dans une pharmacie japonaise](https://res.cloudinary.com/dzltvayos/image/upload/v1786430144/istockphoto-947766650-612x612_aregol.jpg)
 
@@ -12,40 +12,71 @@ Avant d'aborder la question spécifique du Doliprane, il est utile de comprendre
 
 Une précision utile : certains médicaments plus puissants relèvent de la « Classe 1 » et sont conservés derrière le comptoir. Leur vente requiert alors un entretien obligatoire avec le pharmacien, qui vous en expliquera les précautions d'emploi, même si cet échange se déroule en langue japonaise. N'hésitez pas à solliciter son aide en montrant la boîte ou en mimant votre symptôme ; les pharmaciens japonais sont généralement très attentifs et professionnels.
 
-## **Le Doliprane est-il disponible au Japon ?**
+### Medicaments Utiles
 
-C'est la première question que se pose tout voyageur français arrivant dans l'archipel. La réponse est non : la marque Doliprane, si familière dans nos armoires à pharmacie, n'est pas commercialisée au Japon. Cette absence peut surprendre, mais elle n'a rien d'inquiétant.
+Voici une liste des médicaments en vente libre que vous pouvez trouver facilement dans les pharmacies japonaises (ex. : Matsumoto Kiyoshi, Welcia, Sundrug) lors d’un voyage. Au Japon, les médicaments sont classés en catégories : **classe 1** (vente au comptoir avec conseil obligatoire du pharmacien), **classe 2** (conseil recommandé) et **classe 3** (libre-service).
 
-Le principe actif du Doliprane, le **paracétamol** (appelé acétaminophène dans certaines régions du monde), est en effet largement disponible sur le marché japonais. Il se présente simplement sous d'autres appellations commerciales, parmi lesquelles :
+| Problème / Utilisation                          | Nom du médicament (en japonais)    | Principaux composants / Caractéristiques                   | Précautions / Autres                                                                              |
+| ----------------------------------------------- | ---------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| **Maux de tête / Fièvre / Règles douloureuses** | **EVE** (イブ)                       | Ibuprofène                                                 | La série EVE A convient aussi pour la fièvre et les douleurs liées au rhume.                      |
+|                                                 | **Bufferin** (バファリン)               | Aspirine                                                   | Existe en version standard (A), règles douloureuses (Luna) et puissante (Premium).                |
+|                                                 | **Tylenol** (タイレノール)               | Paracétamol                                                | Doux pour l'estomac, idéal en cas de sensibilité gastrique.                                       |
+|                                                 | **Loxonin S** (ロキソニンS)             | Loxoprofène sodique                                        | Anti-inflammatoire puissant (AINS), peut irriter l'estomac ; parfois classe 1, vente au comptoir. |
+| **Rhume / Grippe**                              | **Pabron Gold A** (パブロンゴールドA)      | Antipyrétique, antihistaminique, antitussif                | Très courant ; peut provoquer une somnolence.                                                     |
+|                                                 | **Lulu Attack EX** (ルルアタックEX)      | Multisymptômes (gorge, fièvre)                             | Efficace en début de rhume.                                                                       |
+|                                                 | **SS Bron** (エスエスブロン)              | Codéine (antitussif), antihistaminique                     | Principalement antitussif, action forte, à utiliser avec précaution.                              |
+|                                                 | **Kakkonto** (葛根湯)                 | Médicament traditionnel japonais (Kampo) à base de plantes | Disponible en comprimés, granulés ou liquide.                                                     |
+| **Maux de gorge**                               | **Ryukakusan Direct** (龍角散ダイレクト)   | Poudre à prendre sans eau                                  | Apaise les irritations et la sécheresse de la gorge.                                              |
+|                                                 | **Asada Ame** (浅田飴)                | Pastille médicamenteuse pour la gorge                      | Bon pour les gorges persistantes.                                                                 |
+| **Troubles digestifs / Diarrhée**               | **Gaster 10** (ガスター10)             | Famotidine                                                 | Soulage les brûlures d'estomac et l'inconfort gastrique.                                          |
+|                                                 | **Seirogan** (正露丸)                 | Médicament traditionnel pour l'estomac                     | Utilisé contre la diarrhée et l'indigestion.                                                      |
+|                                                 | **Stoppa** (ストッパ)                  | Antidiarrhéique                                            | Comprimé orodispersible, efficace en cas de diarrhée aiguë.                                       |
+|                                                 | **Biofermin** (ビオフェルミン)            | Lactobacillus (probiotiques)                               | Régule la flore intestinale.                                                                      |
+| **Allergies / Pollinisation**                   | **Allegra FX** (アレグラFX)            | Antihistaminique                                           | Très utilisé au printemps contre le pollen.                                                       |
+|                                                 | Autres antiallergiques             | Cétirizine, etc.                                           | Demandez en pharmacie « アレルギー薬 » (médicament contre les allergies).                               |
+| **Mal des transports**                          | **Travelmin** (トラベルミン)             | Diphénhydramine, scopolamine                               | À prendre 30 min avant le départ ; très courant au Japon.                                         |
+|                                                 | **HapYcom** (乗り物酔い止めQD錠)           | Comprimé à croquer, saveur menthe                          | Facile à prendre.                                                                                 |
+| **Fatigue oculaire / Sécheresse oculaire**      | **Smile 40 Premium** (スマイル40プレミアム) | 12 principes actifs dont vitamine A                        | Disponible en fraîcheur douce, fraîche ou extra-fraîche ; sans conservateur (pour certains).      |
+| **Piqûres d'insectes / Démangeaisons**          | **Muhi** (ムヒ)                      | Pommade topique                                            | Très répandu au Japon pour calmer les démangeaisons.                                              |
+|                                                 | **Kayumidome** (かゆみどめ)             | Gel avec embout éponge applicateur                         | Pratique à utiliser.                                                                              |
 
-* **Tylenol** (タイレノール)
-* **Calonal** (カロナール)
-* Diverses versions génériques d'**acétaminophène** (アセトアミノフェン)
 
-Ces spécialités contiennent exactement la même molécule et présentent la même efficacité pour soulager les douleurs courantes (maux de tête, courbatures, douleurs dentaires) et faire baisser la fièvre.
 
-## **Une différence de dosage à garder absolument à l'esprit**
+### Dosage – informations clés
 
-C'est le point de vigilance le plus important pour éviter toute confusion. Les habitudes prises en France ne sont pas directement transposables, du fait d'un écart notable dans le dosage des comprimés :
+* **Âge et poids** : Les posologies indiquées sur les boîtes japonaises sont calculées pour les **adultes (à partir de 15 ans)** . Pour les enfants (ex. : 5‑7 ans, 8‑11 ans, 12‑14 ans), la dose est réduite de moitié, voire plus. Cherchez toujours le cadre **「用法・用量」** (*Yōhō・Yōryō*) sur l’emballage. Ne donnez jamais un médicament adulte à un enfant sans avoir vérifié la dose pédiatrique.
+* **Fréquence et intervalle** : La plupart des antalgiques (EVE, Bufferin, Loxonin) se prennent **2 à 3 fois par jour**, avec un intervalle minimum de **4 à 6 heures** entre deux prises. Ne raccourcissez jamais cet intervalle, même si la douleur revient.
+* **Moment de la prise** : La mention **「食後」** (*shokugo*) signifie **après le repas** (dans les 30 minutes qui suivent). C’est recommandé pour protéger l’estomac, surtout avec les AINS (ibuprofène, loxoprofène).
+* **Durée maximale** : Pour les anti-inflammatoires et antalgiques, ne dépassez pas **3 à 5 jours consécutifs** sans avis médical. En cas de fièvre persistante ou de douleur intense au-delà de 3 jours, consultez un médecin.
+* **Ne jamais mélanger** : Ne combinez pas deux analgésiques (ex. : EVE + Loxonin) ni deux médicaments pour le rhume en même temps. Ils contiennent souvent les mêmes principes actifs (paracétamol, ibuprofène, antihistaminiques) – les prendre ensemble expose à un **surdosage dangereux** (notamment pour le foie).
 
-* **En France**, le dosage standard du Doliprane en vente libre est généralement de **500 mg** par comprimé (certaines versions étant dosées à 1 000 mg).
-* **Au Japon**, les comprimés de paracétamol en automédication sont presque exclusivement calibrés à **300 mg**.
+### Précautions importantes
 
-Cette distinction a une incidence directe sur la posologie. À titre d'exemple, une personne ayant coutume de prendre deux comprimés de 500 mg en France (soit 1 000 mg) devra adapter sa prise au Japon, où deux comprimés de 300 mg correspondent à 600 mg. Il est donc recommandé de calculer sa dose avec soin.
+1. **Limites d'importation de médicaments** :
 
-Les autorités sanitaires japonaises fixent la dose quotidienne maximale à 4 000 mg, comme en France. Toutefois, les recommandations pour l'automédication sont souvent plus prudentes et conseillent de limiter les prises à deux fois par jour. Il est par ailleurs vivement conseillé de lire attentivement la notice — dont les pictogrammes sont généralement compréhensibles — ou de solliciter l'avis du pharmacien.
+   * Médicaments en vente libre : **2 mois** d'usage autorisé.
+   * Médicaments sur ordonnance : **1 mois** d'usage autorisé.
+2. **Substances interdites ou strictement réglementées** :
 
-## **Apporter ses propres médicaments depuis la France : ce qu'il faut savoir**
+   * Les médicaments contenant de la **pseudoéphédrine** (ex. : Sudafed, certains Vicks) sont **sévèrement restreints** au Japon – **ne les apportez pas**.
+   * Les produits contenant de la **codéine** sont également soumis à des restrictions.
+3. **Classification** :
 
-Il est fréquent, lors d'un voyage, de souhaiter emporter une petite réserve de Doliprane dans sa valise. Cette démarche est tout à fait autorisée, à condition de respecter certaines limites fixées par la douane japonaise :
+   * Les médicaments de **classe 1** ne sont vendus qu'au comptoir du pharmacien (souvent fermé après 19h).
 
-* Pour un médicament soumis à prescription (cas rare pour le Doliprane standard) : la quantité ne doit pas excéder un mois de traitement.
-* Pour un médicament sans prescription (le dosage classique à 500 mg disponible en France) : la quantité ne doit pas excéder deux mois de traitement.
 
-Il est important de noter que **les ordonnances françaises ne sont pas valables au Japon**. Si vous emportez des médicaments sur ordonnance, il est vivement recommandé de vous munir d'une traduction en anglais ou en japonais de votre prescription, ainsi que d'une lettre de votre médecin expliquant la nécessité du traitement.
 
-Si vous envisagez d'importer une quantité plus importante que les limites autorisées, il est impératif de solliciter à l'avance un **Yunyu Kakunin-sho** (certificat d'importation) auprès du ministère de la Santé japonais. Cette demande, qui s'effectue en ligne, nécessite un délai d'environ trois semaines. Bien que cette formalité puisse paraître contraignante, elle est tout à fait réalisable et vous évitera tout désagrément à l'arrivée. Pour un séjour touristique de courte durée, les quantités autorisées sont généralement amplement suffisantes.
+### Communication 
 
-## **Synthèse pratique pour le voyageur**
+**Conseil pratique** : Montrez la phrase en hiragana ou rōmaji sur votre téléphone, ou lisez-la simplement. Le pharmacien comprendra immédiatement votre demande.
 
-En anticipant ces quelques points et en adaptant vos habitudes, vous pourrez voyager sereinement au Japon, sans que la barrière des marques ou des dosages ne vienne compliquer votre séjour. Le paracétamol est largement accessible, il vous attend simplement sous un autre nom, dans un drugstore au coin d'une rue japonaise.
+
+
+| Situation (en français) | Hiragana | Rōmaji |
+|---|---|---|
+| J'ai mal ici (en pointant) | ここがいたいです。 | Koko ga itai desu. |
+| Je cherche un médicament pour le rhume | かぜのくすりをさがしています。 | Kaze no kusuri o sagashite imasu. |
+| Je cherche un médicament pour la tête | あたまのくすりをさがしています。 | Atama no kusuri o sagashite imasu. |
+| Je cherche un médicament pour le ventre | おなかのくすりをさがしています。 | Onaka no kusuri o sagashite imasu. |
+| Ce médicament est-il sans ordonnance ? | このくすりはしょほうせんがいりょうですか？ | Kono kusuri wa shohōsen-gai ryō desu ka ? |
+| Je prends déjà ce médicament (montrez la boîte) | これをのんでいます。 | Kore o nonde imasu. |
