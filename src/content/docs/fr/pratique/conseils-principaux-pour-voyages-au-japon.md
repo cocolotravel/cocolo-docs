@@ -1,5 +1,5 @@
 ---
-title: Conseils principaux pour voyages au Japon
+title: Conseils principaux pour votre voyage.
 draft: false
 ---
 
