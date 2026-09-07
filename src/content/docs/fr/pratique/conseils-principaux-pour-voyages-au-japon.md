@@ -36,7 +36,8 @@ draft: false
 
 **Cigarette.** Il est interdit de fumer dans la rue, en ville comme à la campagne. Seuls les espaces clairement indiqués et certains cafés ou restaurants traditionnels l'autorisent.
 
-**Photographie.** On ne photographie pas l'intérieur des sanctuaires, et en particulier l'autel.
+**Photographie.** On ne photographie pas l'intérieur des sanctuaires, et en particulier l'autel. 
+Ne photographiez jamais les enfants, même de loin et même dans une scène de rue anodine : l'usage japonais est strict sur ce point, et un tel cliché peut être signalé comme un comportement suspect.
 
 ## Restaurants et cafés
 
