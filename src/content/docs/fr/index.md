@@ -3,9 +3,9 @@ title: "Bienvenue sur le guide Cocolo Travel"
 description: "Tout ce qu'il faut savoir pour préparer et réussir votre voyage au Japon : formalités, budget, transports, culture et bonnes adresses."
 template: splash
 hero:
-  tagline: "Le guide gratuit et complet de Cocolo Travel pour préparer sereinement votre voyage au Japon, de la réservation du vol jusqu'au retour."
+  tagline: "Le guide complet pour préparer et réussir votre voyage au Japon."
   actions:
-    - text: Commencer la préparation
+    - text: Commencer
       link: /fr/preparation/before-departure/
       icon: right-arrow
     - text: Voir les brochures
