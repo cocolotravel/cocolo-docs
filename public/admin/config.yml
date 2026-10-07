@@ -7,6 +7,13 @@ backend:
 
 local_backend: true
 
+# Slugs sans accents : « Pharmacie et médicaments » → pharmacie-et-medicaments.
+# Par défaut Decap garde les diacritiques dans les noms de fichiers, donc dans les URLs.
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "-"
+
 media_folder: "public/uploads"
 public_folder: "/uploads"
 

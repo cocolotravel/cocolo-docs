@@ -9,7 +9,7 @@ Hiroshima est aujourd'hui une ville moderne et dynamique, reconstruite de toutes
 
 La meilleure façon d'explorer Hiroshima reste la marche à pied — le centre-ville est compact et la plupart des sites se rejoignent facilement à pied.
 
-Pour les distances plus longues, la ville dispose d'un réseau de tramway simple et pratique. Vous pouvez régler vos trajets avec votre carte Suica ou en espèces. Consultez notre [guide du tramway de Hiroshima](../../transportation/letramway) pour tous les détails.
+Pour les distances plus longues, la ville dispose d'un réseau de tramway simple et pratique. Vous pouvez régler vos trajets avec votre carte Suica ou en espèces. Consultez notre [guide du tramway de Hiroshima](../../transportation/tram) pour tous les détails.
 
 Pour rejoindre Miyajima depuis Hiroshima, prenez le train depuis la gare d'Hiroshima — c'est plus rapide que le tramway.
 

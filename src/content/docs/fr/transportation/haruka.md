@@ -53,7 +53,7 @@ Pour vérifier les horaires en temps réel, consultez le [site Japan Travel Navi
 
 ## 2. Utiliser vos billets
 
-Vos billets Haruka fonctionnent comme des tickets JR classiques. Pour plus d'informations sur la validation aux portiques et l'utilisation des billets JR, consultez notre [guide sur les tickets JR](../tickets-jr).
+Vos billets Haruka fonctionnent comme des tickets JR classiques. Pour plus d'informations sur la validation aux portiques et l'utilisation des billets JR, consultez notre [guide sur les tickets JR](../jr-tickets).
 
 En résumé :
 

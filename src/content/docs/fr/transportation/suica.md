@@ -62,7 +62,7 @@ En dehors de Tokyo, elle est également acceptée sur les réseaux de transport 
 
 ![Carte des zones de validité de la Welcome Suica](https://res.cloudinary.com/dzltvayos/image/upload/v1739498605/suica-usage_aiile1.jpg)
 
-**À retenir :** La Welcome Suica **ne peut pas** être utilisée sur les trains longue distance JR (Shinkansen, Limited Express intercités). Pour ces trajets, vous disposez de tickets séparés — consultez notre [guide sur les tickets JR](../tickets-jr).
+**À retenir :** La Welcome Suica **ne peut pas** être utilisée sur les trains longue distance JR (Shinkansen, Limited Express intercités). Pour ces trajets, vous disposez de tickets séparés — consultez notre [guide sur les tickets JR](../jr-tickets).
 
 ---
 

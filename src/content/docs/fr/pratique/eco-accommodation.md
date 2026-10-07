@@ -113,7 +113,7 @@ Zéro plastique jetable, nettoyages de plage par les équipes, conservation du c
 
 ### Le minshuku — la maison partagée
 
-Le [minshuku](../../../blog/minshuku) (民宿) est un mode d'exploitation : une maison familiale dans laquelle les propriétaires ouvrent quelques chambres aux voyageurs, comme un B&B. Vous dormez dans la maison d'une famille. Le futon, vous le préparez vous-même. Le repas est celui que la famille mange — riz, soupe miso, poisson du matin, légumes du jardin. C'est l'immersion réelle dans la vie japonaise quotidienne : pas de réception 24h/24, mais une connaissance du territoire que vous ne trouverez dans aucun guide.
+Le [minshuku](https://cocolotravel.com/magazine/minshuku) (民宿) est un mode d'exploitation : une maison familiale dans laquelle les propriétaires ouvrent quelques chambres aux voyageurs, comme un B&B. Vous dormez dans la maison d'une famille. Le futon, vous le préparez vous-même. Le repas est celui que la famille mange — riz, soupe miso, poisson du matin, légumes du jardin. C'est l'immersion réelle dans la vie japonaise quotidienne : pas de réception 24h/24, mais une connaissance du territoire que vous ne trouverez dans aucun guide.
 
 **Pourquoi c'est durable par nature :** partage d'un bâtiment existant, cuisine locale par défaut, économie directement reversée à la communauté rurale, pas d'amenities plastique en surplus. Certains utilisent la géothermie des sources chaudes pour le chauffage au sol — depuis des siècles.
 
@@ -143,6 +143,6 @@ Restaurer un kominka évite démolition et construction neuve — le geste le pl
 
 ## Pour aller plus loin
 
-- [Le minshuku](../../../blog/minshuku) — tout ce qu'il faut savoir sur ce mode d'hébergement familial
-- [Séjourner dans un ryokan](sejour-dans-un-ryokan) — guide pratique du ryokan traditionnel
-- [Voyager écolo au Japon](voyagerecolo) — nos conseils pour réduire votre empreinte pendant le voyage
+- [Le minshuku](https://cocolotravel.com/magazine/minshuku) — tout ce qu'il faut savoir sur ce mode d'hébergement familial
+- [Séjourner dans un ryokan](../ryokan) — guide pratique du ryokan traditionnel
+- [Voyager écolo au Japon](../eco-travel) — nos conseils pour réduire votre empreinte pendant le voyage

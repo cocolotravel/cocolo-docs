@@ -35,7 +35,6 @@ Des maisons et bâtiments anciens du village de Honmura ont été confiés à de
 
 Horaires : 10h-16h30 — fermé le lundi.
 Entrée : 1 050 JPY (6 maisons) / 420 JPY (une maison) — gratuit pour les moins de 15 ans.
-Réservation obligatoire pour Kinza : [kinza.resv.jp](https://kinza.resv.jp/reserve/calendar.php?x=1469746221&pc=1)
 Calendrier d'ouverture : [benesse-artsite.jp](https://benesse-artsite.jp/en/calendar/)
 
 ### La Galerie Hiroshi Sugimoto : Time Corridors

@@ -11,7 +11,7 @@ Avec le boîtier Wi-Fi vous restez connecté à internet dans tout le Japon pour
 * Vous pouvez utiliser toutes les applications qui utilisent internet en vous connectant au boîtier.
 * Vous pouvez connecter plusieurs appareils au boîtier mais vous devez rester à proximité du boîtier.
 * Il faut une nuit complète pour recharger le boîtier à 100%.
-* Les bornes de retrait et de retour aux aéroports ont des horaires d'ouverture et de fermeture qui changent en fonction des endroits: [Consultez la liste complète des bornes.](https://ninjaWi-Fi.com/en/receive/airport)
+* Les bornes de retrait et de retour aux aéroports ont des horaires d'ouverture et de fermeture qui changent en fonction des endroits: [Consultez la liste complète des bornes.](https://ninjawifi.com/en/receive/airport)
 * Le boîtier est livré avec une pochette et un chargeur.
 
 ## Récupérer le boîtier
@@ -22,7 +22,7 @@ Le numéro de retrait du Wi-Fi sera affiché sur votre roadbook. Il vous faudra 
 
 Le boîtier se récupère à une des bornes de la marque NinjaWi-Fi by Global Wi-Fi.
 
-Il existe de nombreuses bornes à travers le Japon. [Consultez la liste complète des bornes.](https://ninjaWi-Fi.com/en/receive/airport)
+Il existe de nombreuses bornes à travers le Japon. [Consultez la liste complète des bornes.](https://ninjawifi.com/en/receive/airport)
 
 Voici la liste des principales bornes aux aéroports à l'arrivée
 
@@ -78,4 +78,4 @@ Dans le cas où vous ne repartez pas via un aéroport, il est également possibl
 * Kansai Airport Terminal 1 : 4F Departure Lobby E and F Counter side
 * Kansai Airport Terminal 2 : 1F International Departure Hall Side
 
-[Consultez la liste complète des bornes.](https://ninjaWi-Fi.com/en/receive/airport)
+[Consultez la liste complète des bornes.](https://ninjawifi.com/en/receive/airport)

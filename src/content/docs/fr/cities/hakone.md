@@ -9,7 +9,7 @@ Hakone s'explore dans la journée depuis Tokyo, ou en une nuit sur place dans un
 
 ## Se déplacer
 
-Hakone est accessible depuis Tokyo grâce au train Romancecar de la compagnie Odakyu, qui relie Shinjuku à Odawara en 1h15 environ. Depuis Odawara, le [Hakone Free Pass](../../transportation/hakone_free_pass) donne accès à l'ensemble des transports du parc : train, bus, téléphérique et bateau sur le lac. C'est le moyen de transport recommandé pour explorer la région.
+Hakone est accessible depuis Tokyo grâce au train Romancecar de la compagnie Odakyu, qui relie Shinjuku à Odawara en 1h15 environ. Depuis Odawara, le [Hakone Free Pass](../../transportation/hakone-free-pass) donne accès à l'ensemble des transports du parc : train, bus, téléphérique et bateau sur le lac. C'est le moyen de transport recommandé pour explorer la région.
 
 Payez avec votre [carte Suica](../../transportation/suica) pour les trajets hors du périmètre du pass.
 
