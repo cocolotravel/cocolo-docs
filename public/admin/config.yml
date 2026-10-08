@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  repo: axelder/documentation
+  repo: cocolotravel/cocolo-docs
   branch: master
   identity_url: https://auth.decapbridge.com/sites/89dd3605-63be-4f5f-850d-6e741ddf9c92
   gateway_url: https://gateway.decapbridge.com
