@@ -5,6 +5,10 @@ description: ""
 
 Avec le boîtier Wi-Fi vous restez connecté à internet dans tout le Japon pour accéder aux cartes, aux horaires de transport et à d'autres informations importantes. Le niveau de connectivité est similaire à une connexion 4G.
 
+:::note
+Ce guide concerne le boîtier **NinjaWi-Fi (Global Wi-Fi)**, un des deux prestataires que nous utilisons. Si votre roadbook mentionne **WifiBox (Telecom Square)** à la place, suivez le [guide WifiBox](../wifi-box) — les deux boîtiers ne s'utilisent pas exactement de la même façon.
+:::
+
 ## À retenir
 
 * Les données sont illimitées.

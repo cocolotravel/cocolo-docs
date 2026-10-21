@@ -37,22 +37,9 @@ Les taux de change sont cependant souvent préférables au Japon. Des bureaux et
 
 ![Billets de banque et pièces japonaises](https://res.cloudinary.com/dzltvayos/image/upload/v1739498709/moneda_yen-860x496_kd7sta.jpg)
 
-## Taxe de séjour
+## Taxes locales
 
-La plupart des grandes villes japonaises appliquent une taxe de séjour (*accommodation tax*) prélevée directement par l'hébergement, en sus du prix de la nuit. Les montants varient selon les villes et le tarif de la chambre :
-
-| Ville | Montant par nuit et par personne |
-| --- | --- |
-| Tokyo | 100 à 300 ¥ |
-| Osaka | 100 à 300 ¥ |
-| Kyoto | 200 à 1 000 ¥ |
-| Nara | 100 à 200 ¥ (éventuelle selon l'hébergement) |
-
-Cette taxe n'est généralement pas incluse dans le prix affiché lors de la réservation en ligne. Prévoyez-la dans votre budget, surtout pour les séjours prolongés ou les hébergements haut de gamme à Kyoto.
-
-## Taxe onsen
-
-Les stations thermales et ryokans avec source chaude appliquent une taxe de bain (*nyūtōzei*, 入湯税) d'environ **150 ¥ par personne par nuit**, en sus du prix de la chambre. Elle est perçue directement sur place et s'applique aussi bien aux séjours qu'aux entrées à la journée dans certains établissements. Pensez à prévoir de la monnaie liquide pour la régler.
+La taxe de séjour et la taxe de bain (onsen) sont réglées **directement sur place**, en sus du prix de la chambre — comptez quelques centaines de yens par nuit et par personne, en liquide. Montants par ville et détail complet : [Taxes à régler sur place](../local-taxes).
 
 ## Budget journalier estimé
 
