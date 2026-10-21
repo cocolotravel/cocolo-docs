@@ -42,7 +42,7 @@ Les trois daims sculptés en dango, les brochettes de boulettes de riz, sont ven
 
 ### Todai-ji
 
-L'immense halle du Daibutsuden — le plus grand bâtiment en bois du monde — offre une visite entièrement couverte. Même sous la pluie, la découverte du Grand Bouddha de bronze depuis l'intérieur du hall est saisissante. Le trajet depuis la porte Nandaimon jusqu'à l'entrée principale se fait à l'extérieur, mais vaut le détour même sous un parapluie.
+L'immense halle du Daibutsuden (voir "Todai-ji et le Grand Bouddha" ci-dessous) offre une visite entièrement couverte. Le trajet depuis la porte Nandaimon jusqu'à l'entrée principale se fait à l'extérieur.
 
 ### Le Musée National de Nara
 

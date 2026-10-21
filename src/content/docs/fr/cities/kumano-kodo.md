@@ -52,7 +52,7 @@ Le sanctuaire est intimement lié à Musashibō Benkei, le célèbre moine-guerr
 
 Le Togan Jinja (藤巖神社 - Tōgan Jinja) est un sanctuaire shinto intimement lié à l'histoire et à la renommée de la ville de Tanabe, dans la préfecture de Wakayama.
 
-Fait important à noter : il ne s'agit pas d'un sanctuaire isolé, mais d'un sous-sanctuaire situé directement à l'intérieur de l'enceinte du célèbre sanctuaire Tokei Jinja (闘鶏神社), qui est classé au patrimoine mondial de l'UNESCO.
+Il ne s'agit pas d'un sanctuaire isolé, mais d'un sous-sanctuaire situé directement à l'intérieur de l'enceinte du célèbre sanctuaire Tokei Jinja (闘鶏神社), qui est classé au patrimoine mondial de l'UNESCO.
 
 Voici ce qu'il faut savoir sur le Togan Jinja :
 
@@ -84,6 +84,8 @@ Au sein du nouveau Budokan municipal de Tanabe. Ce que l'on peut y découvrir :
 | Tarif | Gratuit |
 
 Le même bâtiment abrite le dojo d'aïkido de Tanabe, où des sessions d'initiation pratique sur les tatamis sont régulièrement organisées. La tombe de Morihei Ueshiba se visite un peu plus loin dans la ville, au temple Kōzan-ji.
+
+## L'itinéraire de randonnée
 
 ### De Kii Tanabe à Chikatsuyu
 
