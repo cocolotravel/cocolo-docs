@@ -1,0 +1,51 @@
+---
+interface Props {
+  title: string;
+  image: string;
+}
+const { title, image } = Astro.props;
+---
+
+<div class="item-card">
+  <img class="item-card-thumb" src={image} alt="" loading="lazy" width="320" height="320" />
+  <span class="item-card-title">{title}</span>
+  <div class="item-card-body"><slot /></div>
+</div>
+
+<style>
+  @layer starlight.components {
+    .item-card {
+      display: flex;
+      flex-direction: column;
+      border: 1px solid var(--sl-color-gray-5);
+      border-radius: 0.5rem;
+      overflow: hidden;
+      background: var(--sl-color-bg);
+    }
+
+    .item-card-thumb {
+      width: 100%;
+      aspect-ratio: 1 / 1;
+      object-fit: cover;
+      background: var(--sl-color-gray-6);
+    }
+
+    .item-card-title {
+      padding: 0.75rem 1rem 0;
+      font-size: var(--sl-text-sm);
+      font-weight: 600;
+      line-height: 1.4;
+    }
+
+    .item-card-body {
+      padding: 0.25rem 1rem 0.75rem;
+      font-size: var(--sl-text-sm);
+      color: var(--sl-color-gray-2);
+      line-height: 1.6;
+    }
+
+    .item-card-body:empty {
+      display: none;
+    }
+  }
+</style>

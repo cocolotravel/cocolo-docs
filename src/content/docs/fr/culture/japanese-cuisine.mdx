@@ -2,7 +2,12 @@
 title: "Cuisine traditionnelle"
 description: ""
 ---
+import { CardGrid } from '@astrojs/starlight/components';
+import ItemCard from '../../../../components/ItemCard.astro';
+
 La cuisine japonaise moderne est très variée. La cuisine occidentale, chinoise et bien d'autres plats de divers pays sont aussi très appréciés au Japon. Le pain et les pâtes font également partie de la nourriture quotidienne, mais c'est le riz qui reste quand même l'aliment de base pour la majorité des Japonais. 
+
+## Riz
 
 ### Riz à la casserole
 
@@ -52,6 +57,8 @@ Sur le riz, servi dans un bol, on dépose des tempuras, du porc pané ou de l'an
 
 Un déjeuner à emporter très populaire. Le riz, très légèrement salé, est façonné en une boule qu’on a farcie d'un morceau de saumon, d'une prune au vinaigre, ou d'œufs de poisson cuits, etc. On enrobe la boule de riz d'une feuille d'algue et on lui donne une forme triangulaire. Cela se mange facilement avec les doigts.
 
+## Les bases
+
 ### La soupe miso
 
 ![Soupe miso japonaise](https://res.cloudinary.com/dzltvayos/image/upload/v1746766585/miso-soupe_kr4zfx.jpg)
@@ -82,47 +89,23 @@ Sa satô (sucre) - Shi shio (sel) - Su su (vinaigre) - Se shôyu (sauce soja) - 
 
 Les épices sont utilisées dans la cuisine traditionnelle japonaise. Elles donnent du goût et du parfum à la nourriture, en plus d'aiguiser l'appétit. 
 
-#### Shichimi tôgarashi (le poivre aux sept épices)
-
-En saupoudrer des nouilles chaudes (udon ou soba) 
-
-![Shichimi tôgarashi, mélange de sept épices](https://res.cloudinary.com/dzltvayos/image/upload/v1746766662/shichimi-togarashi_ds08fc.jpg)
-
-La composition du shichimi tôgarashi :
-
-* Poivre rouge en poudre 
-* Sanshô 
-* Sésame 
-* Akènes
-* Écorce d'orange séchée 
-* Algue verte séchée 
-* Keshi no mi (graines de pavot) 
-
-#### Sanshô
-
-En saupoudrer des brochettes d'anguille ou de poulet. 
-
-![Sanshô, poivre japonais](https://res.cloudinary.com/dzltvayos/image/upload/v1746766650/sansho_xydd5l.jpg)
-
-#### Shôga (gingembre)
-
-Le gingembre émincé est utilisé dans les plats de viande et de poisson. Le gingembre râpé est, quant à lui, utilisé avec des sashimis ou de la viande grillée.
-
-![Shôga, gingembre japonais](https://res.cloudinary.com/dzltvayos/image/upload/v1746766665/shoga_grhsix.jpg)
-
-#### Wasabi (sorte de raifort vert)
-
-Le wasabi frais (plante) se broie ; en poudre, il se dilue dans l'eau.
-
-![Wasabi frais](https://res.cloudinary.com/dzltvayos/image/upload/v1746766729/wasabi_iyartt.jpg)
-
-Le wasabi accompagne les sashimis, les zaru soba (nouilles soba froides), et le chazuke (soupe de riz cuit avec du thé vert). 
-
-#### Yuzu (cédrat)
-
-![Yuzu, agrume japonais](https://res.cloudinary.com/dzltvayos/image/upload/v1746766740/yuzu_cz8u5x.jpg)
-
-Le zeste de yuzu est utilisé pour donner un parfum de fraîcheur aux soupes et aux pot-au-feu. 
+<CardGrid>
+  <ItemCard title="Shichimi tôgarashi (poivre aux sept épices)" image="https://res.cloudinary.com/dzltvayos/image/upload/v1746766662/shichimi-togarashi_ds08fc.jpg">
+    En saupoudrer des nouilles chaudes (udon ou soba). Composition : poivre rouge en poudre, sanshô, sésame, akènes, écorce d'orange séchée, algue verte séchée, keshi no mi (graines de pavot).
+  </ItemCard>
+  <ItemCard title="Sanshô" image="https://res.cloudinary.com/dzltvayos/image/upload/v1746766650/sansho_xydd5l.jpg">
+    En saupoudrer des brochettes d'anguille ou de poulet.
+  </ItemCard>
+  <ItemCard title="Shôga (gingembre)" image="https://res.cloudinary.com/dzltvayos/image/upload/v1746766665/shoga_grhsix.jpg">
+    Émincé dans les plats de viande et de poisson ; râpé avec les sashimis ou la viande grillée.
+  </ItemCard>
+  <ItemCard title="Wasabi (raifort vert)" image="https://res.cloudinary.com/dzltvayos/image/upload/v1746766729/wasabi_iyartt.jpg">
+    Frais (plante), il se broie ; en poudre, il se dilue dans l'eau. Accompagne les sashimis, les zaru soba et le chazuke.
+  </ItemCard>
+  <ItemCard title="Yuzu (cédrat)" image="https://res.cloudinary.com/dzltvayos/image/upload/v1746766740/yuzu_cz8u5x.jpg">
+    Le zeste est utilisé pour parfumer les soupes et les pot-au-feu.
+  </ItemCard>
+</CardGrid>
 
 ### Divers ingrédients
 
@@ -200,6 +183,8 @@ Des prunes vertes conservées dans du sel, séchées et mélangées ensuite avec
 4. Mettre dans un bol le chou, les carottes, les algues et le sel (une demi-cuillère à soupe). Mélanger les ingrédients en les pressant fortement avec les mains. 
 5. Recouvrir la préparation d’une assiette et poser par-dessus une pierre de 400 ou 500 g. Laisser reposer 2 ou 3 heures. 
 6. Jeter l'eau, disposer les tsukemono dans un bol et servir. 
+
+## Sashimi et sushi
 
 ### Sashimi
 
@@ -292,6 +277,8 @@ Des sushis disposés dans une boîte en bois carrée. Le poisson, tel que l'angu
     (fine omelette coupée en petites lamelles), des sashimis de thon, de saumon, des crevettes et servir. 
 
    ![Kinshi-tamago, fine omelette en lamelles](https://res.cloudinary.com/dzltvayos/image/upload/v1746766568/kinshi-tamago_shssze.jpg)
+
+## Tempura et plats mijotés
 
 ### Tempura
 
@@ -416,31 +403,33 @@ Naruto (petite tranches de pâté de chair de poisson)
 
 Oignons verts
 
-### Les baguettes
+## Les baguettes
 
 Au Japon, les baguettes étaient à l'origine des objets sacrés, utilisés pour offrir de la nourriture aux divinités. Cette idée est toujours présente dans la manière dont les baguettes sont utilisées. Chaque membre d'une famille a par exemple ses propres baguettes. On présente aux invités des baguettes à usage unique. 
 
-* Hashioki (support à baguettes) 
+<CardGrid>
+  <ItemCard title="Hashioki" image="https://res.cloudinary.com/dzltvayos/image/upload/v1746766540/hashioki_jggek4.jpg">
+    Support à baguettes.
+  </ItemCard>
+  <ItemCard title="Waribashi" image="https://res.cloudinary.com/dzltvayos/image/upload/v1746766728/waribashi_xpbcdi.jpg">
+    Baguettes à usage unique, utilisées par les invités et dans les restaurants.
+  </ItemCard>
+  <ItemCard title="Saibashi" image="https://res.cloudinary.com/dzltvayos/image/upload/v1746766634/saibashi_euvjnz.jpg">
+    Baguettes plus longues, utilisées pour la cuisine, souvent avec une ficelle.
+  </ItemCard>
+  <ItemCard title="Nuribashi" image="https://res.cloudinary.com/dzltvayos/image/upload/v1746766600/nuribashi_kgv4v2.jpg">
+    Baguettes laquées, à usage quotidien.
+  </ItemCard>
+  <ItemCard title="Toribashi" image="https://res.cloudinary.com/dzltvayos/image/upload/v1746766709/toribashi_fzhqrj.jpg">
+    Baguettes de service, déposées sur chaque plat.
+  </ItemCard>
+</CardGrid>
 
-  ![Hashioki, support à baguettes](https://res.cloudinary.com/dzltvayos/image/upload/v1746766540/hashioki_jggek4.jpg)
-* Waribashi (baguettes à usage unique utilisées par les invités et dans les restaurants) 
-
-  ![Waribashi, baguettes jetables](https://res.cloudinary.com/dzltvayos/image/upload/v1746766728/waribashi_xpbcdi.jpg)
-* Saibashi (baguettes plus longues, utilisées pour la cuisine) souvent avec une ficelle
-
-  ![Saibashi, baguettes de cuisine](https://res.cloudinary.com/dzltvayos/image/upload/v1746766634/saibashi_euvjnz.jpg)
-* Nuribashi (baguettes à usage quotidien) 
-
-  ![Nuribashi, baguettes laquées](https://res.cloudinary.com/dzltvayos/image/upload/v1746766600/nuribashi_kgv4v2.jpg)
-* Toribashi (baguettes de service déposées sur chaque plat)
-
-  ![Toribashi, baguettes de service](https://res.cloudinary.com/dzltvayos/image/upload/v1746766709/toribashi_fzhqrj.jpg)
-
-#### Bien tenir ses baguettes
+### Bien tenir ses baguettes
 
 Tenir la baguette supérieure entre le majeur et l'index, en la soutenant avec le pouce. La baguette inférieure doit rester entre le majeur et l'annulaire. 
 
-#### Mauvaises manières
+### Mauvaises manières
 
 ![Mauvaises manières avec des baguettes](https://res.cloudinary.com/dzltvayos/image/upload/v1746766500/baguettes-manners_dynbvs.png)
 
@@ -450,6 +439,8 @@ Tenir la baguette supérieure entre le majeur et l'index, en la soutenant avec l
 | Saguribashi | Déplacer des aliments dans un plat pour en chercher d'autres |
 | Tsukibashi | Planter ses baguettes dans des aliments, comme les pommes de terre |
 | Mayoibashi | Faire tourner ses baguettes au-dessus des plats en restant indécis |
+
+## Les restaurants
 
 ### Les restaurants de sushis
 
@@ -564,9 +555,9 @@ Les Japonais fréquentent régulièrement les kissaten où l’on sert café, th
 
 Ce sont des salons de thé traditionnels où l'on sert des friandises typiquement japonaises comme les ammitsu, les dango, les manjû, accompagnés de thé vert. On y sert aussi du shiruko chaud, du zenzai, de l'amazake. 
 
-### Boissons
+## Boissons
 
-#### Nihonshu (alcool japonais, saké)
+### Nihonshu (alcool japonais, saké)
 
 Le saké est fait avec du riz, de l'eau et du malt, et sa teneur en alcool avoisine les 16°. Servi chaud (la température est optimale lorsque le cul du tokkuri est tiède au toucher) ou froid. Également indispensable comme ingrédient en cuisine. 
 
@@ -578,14 +569,14 @@ Le saké est fait avec du riz, de l'eau et du malt, et sa teneur en alcool avois
 * Hakama (support du tokkuri) 
 * Jizake (saké de fabrication locale) 
 
-##### Préparer du saké chaud
+#### Préparer du saké chaud
 
 1. Faire bouillir de l'eau. 
 2. Placer les tokkuri pleins dans l'eau bouillante. 
    Shôchû (alcool distillé grossièrement) 
    Grains ou pommes de terre fermentés avec du malt et distillés. Le taux d'alcool avoisine les 25°. 
 
-#### Umeshu (liqueur de prunes)
+### Umeshu (liqueur de prunes)
 
 Les prunes ont trempé dans du shôchû.
 
