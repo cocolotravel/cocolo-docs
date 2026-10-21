@@ -1,0 +1,53 @@
+---
+interface Props {
+  title: string;
+  href: string;
+  thumbnail: string;
+}
+const { title, href, thumbnail } = Astro.props;
+---
+
+<a class="brochure-card" href={href} target="_blank" rel="noopener noreferrer">
+  <img class="brochure-card-thumb" src={thumbnail} alt="" loading="lazy" width="320" height="452" />
+  <span class="brochure-card-title">{title}</span>
+</a>
+
+<style>
+  @layer starlight.components {
+    .brochure-card {
+      display: flex;
+      flex-direction: column;
+      border: 1px solid var(--sl-color-gray-5);
+      border-radius: 0.5rem;
+      overflow: hidden;
+      box-shadow: var(--sl-shadow-sm);
+      text-decoration: none;
+      color: inherit;
+      background: var(--sl-color-bg);
+    }
+
+    .brochure-card-thumb {
+      width: 100%;
+      aspect-ratio: 3 / 4.24;
+      object-fit: cover;
+      background: var(--sl-color-gray-6);
+    }
+
+    .brochure-card-title {
+      padding: 0.75rem 1rem;
+      font-size: var(--sl-text-sm);
+      font-weight: 600;
+      line-height: 1.4;
+      color: var(--sl-color-white);
+    }
+
+    .brochure-card:hover {
+      background: var(--sl-color-gray-7, var(--sl-color-gray-6));
+      border-color: var(--sl-color-gray-2);
+    }
+
+    .brochure-card:hover .brochure-card-title {
+      color: var(--sl-color-text-accent);
+    }
+  }
+</style>
