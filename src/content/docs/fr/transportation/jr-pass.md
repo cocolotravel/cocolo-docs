@@ -16,7 +16,9 @@ Au moment de l’échange, vous devez remplir un formulaire dans lequel vous cho
 
 Une fois votre pass activé, vous pourrez l’utiliser à compter de la date de départ choisie, et ce pour la durée du pass (7, 14 ou 21 jours consécutifs). À noter que, si par exemple vous activez votre carte de 7 jours à 15 heures le 1er avril, elle sera valable jusqu'à la fin du 7 avril et non jusqu'à 15 heures le 8 avril.
 
-> Il n'est pas possible d'échanger votre JR pass avant votre arrivée au Japon car le tampon de la douane est nécessaire pour prouver que vous séjournez bien au Japon avec un visa touristique.
+:::caution
+Il n'est pas possible d'échanger votre JR pass avant votre arrivée au Japon car le tampon de la douane est nécessaire pour prouver que vous séjournez bien au Japon avec un visa touristique.
+:::
 
 Les démarches doivent se faire à un bureau JR. Vous pourrez en trouver dans les gares suivantes :
 
@@ -33,7 +35,9 @@ Pour les horaires des trains, vous pouvez vous référer au site ci-dessous.
 
 https://japantravel.navitime.com/en/area/jp/route/
 
-> Attention de bien cocher la case Japan Rail Pass lorsque vous faites une recherche d'horaire.
+:::tip
+Cochez la case Japan Rail Pass lorsque vous faites une recherche d'horaire.
+:::
 
 ## Réserver des sièges
 
@@ -41,7 +45,9 @@ Réserver des places assignées n'est pas obligatoire car il y a toujours au moi
 
 Une fois en possession de votre Japan Rail pass, vous pourrez réserver les places assises dans les différents trains qui le permettent.
 
-> **Réserver des places assignées ne peut se faire qu'une fois le JR pass récupéré et donc qu'une fois arrivé au Japon**, il n'est pas possible de le faire en avance. Cette réservation est gratuite une fois que vous avez récupéré votre JR pass, et aucun supplément ne vous sera demandé.
+:::note
+Réserver des places assignées ne peut se faire qu'une fois le JR pass récupéré et donc qu'une fois arrivé au Japon — il n'est pas possible de le faire en avance. Cette réservation est gratuite une fois que vous avez récupéré votre JR pass, et aucun supplément ne vous sera demandé.
+:::
 
 Veuillez vous rendre avec votre Japan Rail Pass à n'importe quelle gare de la compagnie ferroviaire JR (Tokyo, Ueno, Kyoto, Shinjuku, Narita, Haneda, Osaka, Hiroshima etc.). Dirigez-vous vers le guichet Midori-no-madoguchi みどりの窓口 de la gare.
 
@@ -51,7 +57,9 @@ Une fois à la billetterie, on vous demandera votre destination et l'heure de d�
 
 Vous recevrez votre billet de siège réservé, indiquant l'heure de départ, l'heure d'arrivée, le nom du train, la voiture et le siège.
 
-Attention: si vous décidez de prendre vos bagages avec vous dans les trains Shinkansen et que vos bagages ne peuvent être mis dans le compartiment au-dessus des sièges *(taille du bagage supérieure à 160 cm total)*, il faudra réserver des places adaptées aux bagages volumineux.
+:::caution
+Si vos bagages ne peuvent pas être mis dans le compartiment au-dessus des sièges *(taille du bagage supérieure à 160 cm total)*, réservez des places adaptées aux bagages volumineux dans les trains Shinkansen.
+:::
 
 ![Compartiment à bagages volumineux dans un train Shinkansen](https://res.cloudinary.com/dzltvayos/image/upload/v1739498604/transport-gros-bagage-shinkansen_wpiz5g.jpg)
 

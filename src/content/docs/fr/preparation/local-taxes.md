@@ -23,7 +23,9 @@ Instaurée pour financer le développement touristique local — entretien des s
 | **Osaka** | 100 ¥ (chambre < 7 000 ¥) / 200 ¥ (7 000–15 000 ¥) / 300 ¥ (≥ 15 000 ¥) |
 | **Kyoto** | Progressive selon le tarif de la chambre — jusqu'à plusieurs centaines de yens par nuit |
 
-> Les montants peuvent évoluer. L'hôtel vous communiquera le montant exact lors de votre séjour.
+:::note
+Les montants peuvent évoluer. L'hôtel vous communiquera le montant exact lors de votre séjour.
+:::
 
 ---
 

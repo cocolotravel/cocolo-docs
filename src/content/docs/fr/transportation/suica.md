@@ -46,7 +46,9 @@ La Welcome Suica vous permet de :
 
 Il n'est pas nécessaire d'acheter un billet ni de connaître le prix à l'avance.
 
-**Important :** si votre solde est insuffisant à la sortie, un portique dédié vous permettra de régulariser la situation en ajoutant le montant manquant avant de quitter la gare.
+:::tip
+Si votre solde est insuffisant à la sortie, un portique dédié vous permettra de régulariser la situation en ajoutant le montant manquant avant de quitter la gare.
+:::
 
 ### Pour vos achats du quotidien
 
@@ -62,7 +64,9 @@ En dehors de Tokyo, elle est également acceptée sur les réseaux de transport 
 
 ![Carte des zones de validité de la Welcome Suica](https://res.cloudinary.com/dzltvayos/image/upload/v1739498605/suica-usage_aiile1.jpg)
 
-**À retenir :** La Welcome Suica **ne peut pas** être utilisée sur les trains longue distance JR (Shinkansen, Limited Express intercités). Pour ces trajets, vous disposez de tickets séparés — consultez notre [guide sur les tickets JR](../jr-tickets).
+:::note
+La Welcome Suica **ne peut pas** être utilisée sur les trains longue distance JR (Shinkansen, Limited Express intercités). Pour ces trajets, vous disposez de tickets séparés — consultez notre [guide sur les tickets JR](../jr-tickets).
+:::
 
 ---
 

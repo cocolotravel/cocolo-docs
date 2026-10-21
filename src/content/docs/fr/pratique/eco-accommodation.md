@@ -20,7 +20,9 @@ Plusieurs labels coexistent au Japon. Tous ne se valent pas. Les plus rigoureux 
 - **Sakura Quality ESG** *(Japon · JTQCA · aligné GSTC)* — 172 critères : environnement, communauté, gouvernance. Notation de 1 à 5 étoiles. Reconnu par le Global Sustainable Tourism Council.
 - **Eco Mark Hôtels** *(Japon · JEA · réseau ISO 14024)* — Programme national sérieux, membre du Global Ecolabelling Network. Toute la chaîne Super Hotel en est certifiée.
 
-> **Important :** un établissement absent de ces listes n'est pas forcément moins durable. Beaucoup de minshuku familiaux et de petits ryokan ruraux agissent de façon exemplaire sans jamais chercher à se faire certifier. L'absence de label est une absence d'information, pas un jugement.
+:::note
+Un établissement absent de ces listes n'est pas forcément moins durable. Beaucoup de minshuku familiaux et de petits ryokan ruraux agissent de façon exemplaire sans jamais chercher à se faire certifier. L'absence de label est une absence d'information, pas un jugement.
+:::
 
 ---
 
@@ -127,7 +129,9 @@ Sous-types : *gassho-zukuri* de Shirakawa-go (toits de chaume classés UNESCO), 
 
 Restaurer un kominka évite démolition et construction neuve — le geste le plus bas-carbone possible. Le Japon compte environ 8 millions de maisons vides (*akiya*) : séjourner dans un kominka contribue à en sauver une.
 
-> Séjourner dans un minshuku ou un kominka, c'est peut-être la forme de tourisme durable la plus directement efficace — sans label, sans communication, sans marketing.
+:::tip
+Séjourner dans un minshuku ou un kominka est l'une des formes de tourisme durable les plus directement efficaces — sans label, sans communication, sans marketing.
+:::
 
 ---
 

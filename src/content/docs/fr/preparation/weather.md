@@ -69,7 +69,9 @@ Le climat reste frais au printemps, prévoyez une veste assez chaude, ainsi que 
 
 #### Dans tout le Japon
 
-> En été, beaucoup de bâtiments et de transports sont climatisés. Nos corps ne sont pas habitués aux changements de température assez violents que cela produit : nous vous conseillons ainsi vivement d'emporter un foulard avec vous pour éviter de tomber malade.
+:::tip
+En été, beaucoup de bâtiments et de transports sont climatisés — un foulard aide à compenser l'écart de température avec l'extérieur.
+:::
 
 Pour l'été au Japon, nous vous conseillons principalement des vêtements légers, car il peut faire très chaud. Des chaussures confortables qui tiennent bien le pied tout en le laissant respirer, des tee-shirts, des shorts, jupes ou pantalons fins en coton et flanelle seront vos meilleurs amis. Une veste imperméable fine sera très pratique pour les averses qui sont fréquentes. Pensez également à prendre deux ou trois pulls, ou bien une veste un peu plus chaude au cas où une soirée serait un peu plus fraîche, notamment dans les Alpes japonaises ou dans le nord du Japon.
 

@@ -58,7 +58,9 @@ Ouvrez le **Koyasan Bus Pass** et présentez le QR code au chauffeur **uniquemen
 
 ## À retenir
 
-> Une connexion internet est nécessaire pour afficher le QR code dynamique. Assurez-vous que votre boîtier wifi est bien chargé et allumé au moment de chaque validation. Au cas où la batterie serait faible ou vide, vous pouvez le recharger avec une batterie portable.
+:::caution
+Une connexion internet est nécessaire pour afficher le QR code dynamique. Assurez-vous que votre boîtier wifi est bien chargé et allumé au moment de chaque validation. Au cas où la batterie serait faible ou vide, vous pouvez le recharger avec une batterie portable.
+:::
 
 ---
 

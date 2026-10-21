@@ -10,13 +10,15 @@ description: ""
 4. C'est à vous de régler **en espèces**.
 5. Entre Hiroshima et Tokyo, il faut compter 2 nuits pour que les bagages arrivent.
 
-## Attention
+:::caution
 
-* Le poids d'un bagage ne doit jamais dépasser 25 kg!
+* Le poids d'un bagage ne doit jamais dépasser 25 kg.
 * Vérifiez toujours la date et le lieu prévus d'arrivée des bagages.
-* Il y a en général au moins 1 jour entre l'envoi et la réception des bagages. Il faut donc prévoir un sac à dos avec de quoi se changer et le strict nécessaire pour au moins 1 nuitée.
-* Chaque valise ou sac compte pour 1 unité donc groupez au maximum (pas de petit sac qui pendouille sur une plus grosse valise !).
-* Cocolo Travel n'est pas responsable en cas de perte ou de casse ! Ce genre de cas est extrêmement rare au Japon mais le risque 0 n'existe pas ! Nous vous recommandons donc de prendre des photos de vos valises **avant** de les faire envoyer et de garder tous les reçus d'achat ainsi que (idéalement) le reçu d'achat de votre valise.
+* Il y a en général au moins 1 jour entre l'envoi et la réception des bagages. Prévoyez un sac à dos avec de quoi vous changer et le strict nécessaire pour au moins 1 nuitée.
+* Chaque valise ou sac compte pour 1 unité : groupez-les au maximum (pas de petit sac attaché à une plus grosse valise).
+* Cocolo Travel n'est pas responsable en cas de perte ou de casse. Prenez des photos de vos valises **avant** de les faire envoyer et gardez tous les reçus d'achat, ainsi qu'idéalement le reçu d'achat de votre valise.
+
+:::
 
 ## La procédure
 

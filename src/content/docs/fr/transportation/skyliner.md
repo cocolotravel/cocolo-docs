@@ -86,7 +86,9 @@ Sélectionnez votre gare de destination : Narita, Ueno ou Nippori.
 
 Tous les sièges sont réservés. Une représentation visuelle de la disposition du train s'affiche — choisissez vos places.
 
-**Important pour les groupes :** pour être assis ensemble, choisissez des sièges sur la même rangée (côte à côte). Des numéros de sièges consécutifs dans l'aperçu "siège sélectionné" indiquent que les places sont bien côte à côte.
+:::tip
+Pour les groupes : pour être assis ensemble, choisissez des sièges sur la même rangée (côte à côte). Des numéros de sièges consécutifs dans l'aperçu "siège sélectionné" indiquent que les places sont bien côte à côte.
+:::
 
 ![Sélectionner les sièges dans le train](https://res.cloudinary.com/dzltvayos/image/upload/v1739498610/skyliner__5_zbd0nf.png)
 

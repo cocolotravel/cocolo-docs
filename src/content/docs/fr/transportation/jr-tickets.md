@@ -54,7 +54,9 @@ Le **Fare Ticket** (乗車券 — *jōshaken*) est le ticket fondamental. Il rep
 
 * Monter dans un train express ou le Shinkansen — pour cela, il faut l'Express Ticket en plus
 
-> Un Fare Ticket seul suffit uniquement pour les trains locaux (qui s'arrêtent à toutes les gares).
+:::note
+Un Fare Ticket seul suffit uniquement pour les trains locaux (qui s'arrêtent à toutes les gares).
+:::
 
 Voici à quoi ressemble un Fare Ticket :
 
@@ -207,7 +209,9 @@ Les tickets pour enfants (6-11 ans) comportent le kanji **小** (petit) en haut 
 2. La machine les avalera automatiquement — ils ne ressortiront pas.
 3. Si vous n'insérez pas tous les tickets nécessaires, le portique restera bloqué.
 
-> Ne jetez jamais vos tickets avant d'avoir franchi le portique de sortie.
+:::caution
+Ne jetez jamais vos tickets avant d'avoir franchi le portique de sortie.
+:::
 
 **Note :** Si le portique ne s'ouvre pas ou si une alarme retentit, présentez-vous au guichet du personnel (有人改札 - yūjin kaisatsu).
 

@@ -42,7 +42,9 @@ Cliquez [ici](https://hashitou.co.jp/english/) pour accéder à leur site intern
 
 À **Kyoto**, située dans le marché de Nishiki, Ichihara Heibei Shōten offre un choix de plusieurs centaines de baguettes, et vous propose même de les graver à votre nom.
 
-> Notre astuce : Ne faites pas l'impasse sur les portes baguettes ! Ceux-ci peuvent être convertis en porte-couteaux et embelliront votre table à chaque fois que vous accueillerez des invités chez vous.
+:::tip
+Les portes-baguettes peuvent aussi servir de porte-couteaux à table.
+:::
 
 ![Baguettes japonaises et porte-baguettes](https://res.cloudinary.com/dzltvayos/image/upload/v1739498736/baguettes_umnk2n.jpg)
 
@@ -127,4 +129,6 @@ Lors de votre voyage au Japon, il est interdit d'acheter / rapporter les objets 
 * Armes ou objets dangereux: Les shurikens, katanas non déclarés ou autres armes traditionnelles peuvent poser des problèmes aux douanes, même en tant que souvenirs. Il est cependant rarement possible de les acheter, car leur vente est très encadrée dans le pays. Attention, il n'est ici pas question des répliques utilisées en décoration.
 * Produits piratés ou contrefaits: Les copies illégales d’œuvres d'art, de CD, ou de figurines, contrefaites, sont non seulement illégales, mais nuisent à l'industrie culturelle japonaise.
 
-> L'Union européenne interdit l'import de viande et contrôle très strictement l'import de graines, animaux et produits végétaux. Faites attention à ne pas ramener de souvenirs interdits lors de votre séjour et profitez de votre séjour au Japon en respectant ses richesses naturelles et culturelles !
+:::caution
+L'Union européenne interdit l'import de viande et contrôle très strictement l'import de graines, animaux et produits végétaux.
+:::

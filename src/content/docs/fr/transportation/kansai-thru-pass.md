@@ -6,7 +6,9 @@ description: ""
 Le Kansai Thru Pass est un billet qui vous permet d'emprunter le métro, les trains et les bus dans toute la région du Kansai. Il vous permet de visiter de nombreuses villes, comme Osaka, Kobe, Kyoto, Nara ou Koyasan.
 Ce pass a la particularité de pouvoir être utilisé pendant des jours non consécutifs au cours de sa période de validité (exemple : lundi, mercredi et vendredi dans le cas d'un pass de 3 jours).
 
-À savoir : Une journée de pass correspond à une durée allant du premier au dernier train de la journée et **non pas** de 24 heures à partir de la première utilisation.
+:::note
+Une journée de pass correspond à une durée allant du premier au dernier train de la journée et **non pas** de 24 heures à partir de la première utilisation.
+:::
 
 Seuls les voyageurs présents au Japon pour une durée inférieure à 3 mois ont la possibilité d'utiliser le Kansai Thru Pass. Vous serez ainsi obligé de vous rendre à un bureau et d'y présenter votre passeport (avec le tampon de la douane témoignant que vous êtes sur le sol japonais en tant que touriste) ainsi que le QR code présent dans votre livret de voyage pour récupérer votre pass.
 

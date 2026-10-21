@@ -61,7 +61,9 @@ Faites cela pour tous les appareils que vous souhaitez connecter !
 
 ### Charger le boîtier
 
-ATTENTION: si le boîtier peine à se recharger, essayez de le laisser allumé plutôt que de l'éteindre lorsque vous le rechargez toute la nuit.
+:::caution
+Si le boîtier peine à se recharger, laissez-le allumé plutôt que de l'éteindre lorsque vous le rechargez toute la nuit.
+:::
 
 Le boîtier est chargé à 100 pour cent lors du retrait.
 

@@ -17,7 +17,11 @@ description: ""
 
 ## 1. Le réseau de tramway
 
-Le tramway de Hiroshima couvre l'essentiel du centre-ville. Les tarifs sont fixes pour tous les trajets à l'intérieur de la ville. Attention cependant à la ligne qui dessert le ferry pour Miyajima : les prix varient en fonction des stations de départ et d'arrivée. En cas de doute, renseignez-vous auprès du conducteur.
+Le tramway de Hiroshima couvre l'essentiel du centre-ville. Les tarifs sont fixes pour tous les trajets à l'intérieur de la ville.
+
+:::caution
+La ligne qui dessert le ferry pour Miyajima fait exception : les prix varient en fonction des stations de départ et d'arrivée. En cas de doute, renseignez-vous auprès du conducteur.
+:::
 
 ---
 
