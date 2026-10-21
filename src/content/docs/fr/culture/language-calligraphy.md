@@ -44,8 +44,6 @@ Hiragana : Symboles phonétiques, comme les katakana.
 
 ![Syllabaire hiragana](https://res.cloudinary.com/dzltvayos/image/upload/v1746766546/hiragana-01_chnvox.png)
 
-Apprenons le japonais ensemble ! 
-
 ## Calligraphie
 
 La calligraphie est un art né en Chine, qui consiste à dessiner des signes pictographiques à l'aide d'un pinceau chargé d'encre. Elle requiert une grande concentration d'esprit. Cet art, enseigné à l'école primaire et au collège, est intégré aux cours de japonais. De nos jours, il est peu fréquent d'écrire au pinceau, à l'exception des cartes de vœux, ou lorsque l'on doit écrire son nom sur des enveloppes données lors d'événements particuliers tels que les mariages ou les funérailles. 
@@ -65,14 +63,18 @@ La calligraphie est un art né en Chine, qui consiste à dessiner des signes pic
 S'asseoir le dos bien droit, appuyé contre le dos de la chaise. 
 Placer la main qui ne tient pas le pinceau au bas du hanshi pour le maintenir. 
 Tenir le pinceau légèrement, comme si une balle de ping-pong était placée dans la paume de la main.
-Écrivons les caractères du mot "ami" 
+
+Écrire les caractères du mot « ami » :
 
 1. Préparation : Hanshi, Pinceau, Vieux journal (en guise de sous-main), Encre liquide, ou suzuri et bâtonnet d'encre
 2. Tremper le pinceau dans l'encre. Laisser s'écouler le surplus d'encre afin d'éviter de faire des taches sur le papier japonais. 
 3. S'exercer en faisant des tome (arrêts), des hane (envolées) et des harai (brossages).
-4. S'entraîner à tracer les traits dans le bon ordre. 
-   Sur le papier, tracer du doigt le caractère avant de l'écrire. C'est parti ! 
-   Placer son nom en bas du papier, à gauche.
-   La calligraphie est de l'écriture artistique, pas de la peinture. 
+4. Tracer du doigt le caractère sur le papier avant de l'écrire.
+5. S'entraîner à tracer les traits dans le bon ordre.
+6. Placer son nom en bas du papier, à gauche.
 
-   ![Calligraphie du caractère "ami" (tomodachi)](https://res.cloudinary.com/dzltvayos/image/upload/v1746766708/tomo-dachi-kanji_jdygsu.png)
+:::note
+La calligraphie est de l'écriture artistique, pas de la peinture.
+:::
+
+![Calligraphie du caractère "ami" (tomodachi)](https://res.cloudinary.com/dzltvayos/image/upload/v1746766708/tomo-dachi-kanji_jdygsu.png)

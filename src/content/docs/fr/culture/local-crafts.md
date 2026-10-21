@@ -2,9 +2,7 @@
 title: "Artisanats locaux"
 description: ""
 ---
-Les artisanats traditionnels japonais occupent une place essentielle dans le patrimoine culturel du pays. Leur préservation est au cœur des engagements de Cocolo Travel, qui promeut un tourisme durable et responsable, tout en sensibilisant aux enjeux environnementaux et culturels.
-
-Voici une liste d'activités, ateliers et boutiques artisanales, divisés en catégories selon leur type et la ville où ils se situent, qui, nous l'espérons, susciteront votre intérêt. 
+Liste d'activités, ateliers et boutiques artisanales, par ville et par type.
 
 ## Tokyo
 ### Boutiques spécialisées

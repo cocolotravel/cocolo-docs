@@ -38,10 +38,10 @@ Au centre du ring sont enterrés des talismans porte-bonheur tels que des marron
 ### Match
 
 1. Appelés par l'intendant de ring, les deux lutteurs montent sur le ring. Chacun d'eux se met en position et effectue le shiko (lever alternativement les jambes et taper le sol avec les pieds).
-1. Les lutteurs reçoivent de l'eau chikaramizu, jettent du sel sur le sol et font le shiko au milieu du ring, face à face.
-1. Les lutteurs prennent place et jettent du sel pendant un temps défini.
-1. Au bout de quatre minutes, le match peut débuter.
-1. L'arbitre observe le match et désigne le vainqueur.
+2. Les lutteurs reçoivent de l'eau chikaramizu, jettent du sel sur le sol et font le shiko au milieu du ring, face à face.
+3. Les lutteurs prennent place et jettent du sel pendant un temps défini.
+4. Au bout de quatre minutes, le match peut débuter.
+5. L'arbitre observe le match et désigne le vainqueur.
 
 * Gumbai (éventail de l'arbitre)
 * Gyôji (arbitre)
@@ -64,8 +64,6 @@ On appelle "kachikoshi" le fait de totaliser huit victoires ou plus sur quinze j
 Banzukehyô (tableau du classement)
 
 ![Banzukehyô, tableau du classement de sumo](https://res.cloudinary.com/dzltvayos/image/upload/v1746778848/banzuke-sumo_pf7qsl.png)
-
-Yokozuna = grand champion
 
 Makuuchi > Jûryô > Makushita > Sandamme > Jonidan > Jonokuchi
 

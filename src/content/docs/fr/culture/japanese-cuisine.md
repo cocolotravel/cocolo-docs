@@ -58,7 +58,7 @@ Un déjeuner à emporter très populaire. Le riz, très légèrement salé, est 
 
 Le miso est fait avec des graines de soja, auxquelles on ajoute un ferment (le kôji) et du sel, et que l'on fait ainsi fermenter. C'est un ingrédient indispensable de la cuisine japonaise.
 
-##### COMMENT PRÉPARER UNE SOUPE MISO COMME À LA MAISON (pour 4 personnes)
+#### Préparer une soupe miso maison (pour 4 personnes)
 
 1. Préparer les ingrédients nécessaires (un verre = 200 ml ; c. à s. = cuillère à soupe) 
    Laver 40 g de wakame (algues de mer) pour les dessaler. Les laisser tremper dans l'eau quelque temps. Les couper en petits morceaux. 
@@ -148,7 +148,7 @@ Le tôfu est du lait de soja fermenté grâce à du nigari (chlorure de magnési
 
 ![Nattô, graines de soja fermentées](https://res.cloudinary.com/dzltvayos/image/upload/v1746766590/natto_kyh67h.jpg)
 
-On obtient le nattô en faisant fermenter des graines de soja. Il a une consistance visqueuse et une odeur très particulière. Y ajouter des oignons verts émincés et de la sauce soja, bien mélanger et verser le tout sur un bol de riz. C'est délicieux !
+On obtient le nattô en faisant fermenter des graines de soja. Il a une consistance visqueuse et une odeur très particulière. Y ajouter des oignons verts émincés et de la sauce soja, bien mélanger et verser le tout sur un bol de riz.
 
 #### Chikuwa
 
@@ -189,7 +189,7 @@ Des radis noirs japonais conservés dans du sel et du son de riz.
 
 Des prunes vertes conservées dans du sel, séchées et mélangées ensuite avec des feuilles de shiso (perilla) rouge. 
 
-##### Comment préparer rapidement et facilement des tsukemono de chou blanc chinois ?
+#### Préparer rapidement des tsukemono de chou blanc chinois
 
 1. Choux chinois : 
    Hacher les feuilles.
@@ -251,8 +251,7 @@ Le riz est enrobé d'un émincé de tôfu frit (aburaage) préparé avec de la s
 
 ![Oshizushi, sushi pressé en boîte](https://res.cloudinary.com/dzltvayos/image/upload/v1746766619/oshizushi_rm7y9a.jpg)
 
-Des sushis disposés dans une boîte en bois carrée. Le poisson, tel que l'anguille ou le maquereau, est déposé sur un lit de riz.\
-Vous aussi, devenez un “chef sushi” !
+Des sushis disposés dans une boîte en bois carrée. Le poisson, tel que l'anguille ou le maquereau, est déposé sur un lit de riz.
 
 ##### Comment préparer le riz des sushis
 
@@ -437,13 +436,20 @@ Au Japon, les baguettes étaient à l'origine des objets sacrés, utilisés pour
 
   ![Toribashi, baguettes de service](https://res.cloudinary.com/dzltvayos/image/upload/v1746766709/toribashi_fzhqrj.jpg)
 
-#### Savez-vous vous servir correctement de baguettes ?
+#### Bien tenir ses baguettes
 
 Tenir la baguette supérieure entre le majeur et l'index, en la soutenant avec le pouce. La baguette inférieure doit rester entre le majeur et l'annulaire. 
 
 #### Mauvaises manières
 
 ![Mauvaises manières avec des baguettes](https://res.cloudinary.com/dzltvayos/image/upload/v1746766500/baguettes-manners_dynbvs.png)
+
+| Geste | À éviter |
+| --- | --- |
+| Neburibashi | Lécher les aliments qu'on a saisis avec ses baguettes |
+| Saguribashi | Déplacer des aliments dans un plat pour en chercher d'autres |
+| Tsukibashi | Planter ses baguettes dans des aliments, comme les pommes de terre |
+| Mayoibashi | Faire tourner ses baguettes au-dessus des plats en restant indécis |
 
 ### Les restaurants de sushis
 
@@ -572,7 +578,7 @@ Le saké est fait avec du riz, de l'eau et du malt, et sa teneur en alcool avois
 * Hakama (support du tokkuri) 
 * Jizake (saké de fabrication locale) 
 
-##### Comment préparer du saké chaud ?
+##### Préparer du saké chaud
 
 1. Faire bouillir de l'eau. 
 2. Placer les tokkuri pleins dans l'eau bouillante. 

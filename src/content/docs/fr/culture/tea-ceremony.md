@@ -42,7 +42,7 @@ Le thé vert est fait avec des feuilles de thé cuites à la vapeur. Les thés v
 
   Il ne s'agit pas de feuilles de thé, mais de blé ou d'orge grillés. Ce thé est servi froid en été.
 
-## Comment préparer un thé parfumé ?
+## Préparer un thé parfumé
 
 Kyûsu = petite théière
 
@@ -86,25 +86,21 @@ Chawan, chakin, chashaku, natsume et kensui sont placés sur un plateau pour un 
 
 ## Usucha et koicha (thé léger et thé fort)
 
-On appelle « usucha » le thé fait dans un bol avec du thé en poudre mélangé rapidement à de l'eau chaude. L'hôte en prépare un pour chaque invité.
-
-Le koicha, quant à lui, est une préparation identique, à la différence que l'on mélange lentement la préparation. Ce thé est préparé dans un grand bol et chaque invité en boit une gorgée. Le koicha symbolise l'harmonie spirituelle entre les invités, née de cette communion autour d'un bol de thé.
-
 ![Usucha et koicha, thé léger et thé fort](https://res.cloudinary.com/dzltvayos/image/upload/v1746766720/usucha-koicha_jngra4.jpg)
 
-## Higashi et omogashi
-
-Les higashi (gâteaux secs) ou les omogashi (gâteaux frais) sont aussi servis avec un usucha.
-
-![Higashi, gâteaux secs japonais](https://res.cloudinary.com/dzltvayos/image/upload/v1746766543/higashi_vl3ud9.jpg)
-
-Les omogashi sont servis avec un koicha.
-
-![Omogashi, gâteaux frais japonais](https://res.cloudinary.com/dzltvayos/image/upload/v1746766608/omogashi_bqzy84.jpg)
+| | Usucha | Koicha |
+| --- | --- | --- |
+| Préparation | Thé en poudre mélangé rapidement à de l'eau chaude | Même préparation, mélangée lentement |
+| Bol | Un bol par invité | Un grand bol, partagé — chaque invité en boit une gorgée |
+| Gâteau associé | Higashi (gâteaux secs) | Omogashi (gâteaux frais) |
 
 Les invités tiennent en main un kaishi (une serviette en papier qu'ils ont apportée, glissée dans leur kimono) et y déposent les gâteaux avant de les manger.
 
-## Comment boire le thé ?
+![Higashi, gâteaux secs japonais](https://res.cloudinary.com/dzltvayos/image/upload/v1746766543/higashi_vl3ud9.jpg)
+
+![Omogashi, gâteaux frais japonais](https://res.cloudinary.com/dzltvayos/image/upload/v1746766608/omogashi_bqzy84.jpg)
+
+## Boire le thé
 
 ![Comment boire le thé lors de la cérémonie](https://res.cloudinary.com/dzltvayos/image/upload/v1746766518/comment-boire_tj1vfu.png)
 
@@ -115,6 +111,6 @@ Les invités tiennent en main un kaishi (une serviette en papier qu'ils ont appo
 5. Essuyer le rebord du bol avec un doigt à l'endroit où l'on a posé ses lèvres, et s'essuyer ensuite le doigt sur le kaishi.
 6. Faire tourner le bol dans le sens inverse des aiguilles d'une montre jusqu'à ce que le devant du bol soit face à soi.
 
-## Comment préparer le thé ?
+## Préparer le thé
 
 Mettre une cuillère et demie de thé en poudre dans le chashaku. Verser dessus environ trois gorgées et demie d'eau chaude, et mélanger ensuite le tout avec le chasen jusqu'à ce que se forme une légère mousse.

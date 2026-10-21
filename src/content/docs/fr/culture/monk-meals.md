@@ -12,7 +12,7 @@ Parmi les plats emblématiques du shōjin ryōri, on retrouve :
 * **Kōya Dōfu** (tofu de Kōya) : ce tofu lyophilisé, nommé d’après le Mont Kōya, est préparé selon une méthode particulière qui lui confère une texture spongieuse. Réhydraté puis mijoté dans un bouillon savoureux, il absorbe pleinement les arômes tout en conservant sa texture caractéristique.
 
   ![Kōya dōfu, tofu lyophilisé de Kōya](https://res.cloudinary.com/dzltvayos/image/upload/v1778651868/koya-dofu_wyfxb2.jpg)
-* **Goma Dōfu** (tofu au sésame) : contrairement au tofu classique, il est élaboré principalement à partir de graines de sésame moulues et d’amidon. Sa texture crémeuse et sa délicate saveur de noisette en font un mets raffiné, souvent servi froid avec une sauce légère.
+* **Goma Dōfu** (tofu au sésame) : contrairement au tofu classique, il est élaboré principalement à partir de graines de sésame moulues et d'amidon. Sa texture crémeuse et sa saveur de noisette, souvent servi froid avec une sauce légère.
 
   ![Goma dōfu, tofu au sésame](https://res.cloudinary.com/dzltvayos/image/upload/v1778651939/goma-dofu_b4jlt1.jpg)
 * **Tempura de légumes** : préparé sans œufs dans la pâte, il offre une texture plus légère et croustillante. Les légumes de saison, comme les patates douces, la racine de lotus ou les champignons, sont frits avec finesse pour révéler toute leur saveur.
@@ -28,8 +28,4 @@ Parmi les plats emblématiques du shōjin ryōri, on retrouve :
 
   ![Yuba, peau de tofu](https://res.cloudinary.com/dzltvayos/image/upload/v1778652733/yuba_q4wjaf.jpg)
 
-Le charme moderne du shōjin ryōri réside dans l’alliance entre spiritualité traditionnelle, bien-être et respect de l’environnement. Cette cuisine végétale, riche en légumes, céréales et protéines végétales, est reconnue pour ses qualités nutritionnelles et sa faible teneur en matières grasses. Elle répond également aux préoccupations écologiques actuelles grâce à son impact environnemental réduit.
-
-Inspiré des enseignements bouddhistes, le shōjin ryōri encourage la simplicité, la pleine conscience et le respect du vivant, offrant ainsi une expérience culinaire à la fois saine, apaisante et authentique.
-
-Profitez de votre séjour au temple pour découvrir la cuisine des moines et vous imprégner de cette atmosphère unique de sérénité et de spiritualité.
+Cette cuisine végétale, riche en légumes, céréales et protéines végétales, est reconnue pour ses qualités nutritionnelles et sa faible teneur en matières grasses. Inspiré des enseignements bouddhistes, le shōjin ryōri encourage la simplicité, la pleine conscience et le respect du vivant.

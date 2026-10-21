@@ -6,16 +6,18 @@ description: ""
 
 Quel que soit le pays, de bonnes relations commencent par des salutations correctes. Lorsqu'ils se rencontrent pour la première fois, les Japonais utilisent des salutations différentes selon trois moments de la journée.
 
-* Ohayô gozaimasu = Bonjour.
-* Konnichiwa = Bonjour.
-* Kombanwa = Bonsoir.
-* Sayônara = Au revoir.
-* Sumimasen = Excusez-moi.
-* Gomennasai / Sumimasen = Je suis désolé.
-* Arigatô gozaimasu / Sumimasen = Merci.
-* Oyasuminasai = Bonne nuit.
-* Hai ! = Oui ! Présent ! Je suis là !
-* Dômo = Merci. Bonjour. Excusez-moi.
+| Expression | Signification |
+| --- | --- |
+| Ohayô gozaimasu | Bonjour (matin) |
+| Konnichiwa | Bonjour (journée) |
+| Kombanwa | Bonsoir |
+| Sayônara | Au revoir |
+| Sumimasen | Excusez-moi / Je suis désolé / Merci (selon le contexte) |
+| Gomennasai | Je suis désolé |
+| Arigatô gozaimasu | Merci |
+| Oyasuminasai | Bonne nuit |
+| Hai | Oui / Présent / Je suis là |
+| Dômo | Merci / Bonjour / Excusez-moi |
 
 ## Le salut
 
@@ -44,8 +46,6 @@ Dans les affaires, on échange des cartes de visite pour se présenter. Y figure
 ![Meishi, cartes de visite japonaises](https://res.cloudinary.com/dzltvayos/image/upload/v1746766582/meishi_psqjmb.png)
 
 ## La gestuelle
-
-Il y a une gestuelle très importante et très fréquente au Japon.
 
 ## Le triple ban du « banzai »
 
@@ -85,7 +85,7 @@ Les enfants surtout scellent leurs promesses en nouant leurs petits doigts et en
 
 ![Geste de la promesse, yubikiri](https://res.cloudinary.com/dzltvayos/image/upload/v1746766622/promesse_tjlry3.png)
 
-Yubikiri gemman !
+Yubikiri gemman.
 
 ## Se toucher ou se gratter la tête de la main
 

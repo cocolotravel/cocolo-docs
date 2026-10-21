@@ -2,8 +2,7 @@
 title: "Arts traditionnels d'ikebana et bonsaï"
 description: ""
 ---
-L’ikebana et le bonsaï sont deux arts traditionnels japonais qui, bien qu’ils soient distincts, partagent une philosophie commune : celle de la nature maîtrisée et sublimée par l’homme. Tous deux cherchent à capter l’essence de la beauté naturelle, mais à travers des formes réduites, épurées, stylisées. L’ikebana exprime cet idéal à travers les arrangements floraux, tandis que le bonsaï le traduit dans la miniature vivante des arbres. En les réunissant dès l’ouverture d’un article, on souligne qu’ils ne sont pas seulement des pratiques esthétiques, mais aussi des expressions d’une même vision japonaise de l’harmonie, de la patience et du respect des cycles naturels.
-C’est pourquoi, malgré leurs origines et buts différents, nous les mettons ensemble dans cette page : car l’ikebana et le bonsaï incarnent tous deux une même recherche d’harmonie entre l’homme et la nature. 
+L'ikebana et le bonsaï sont deux arts traditionnels japonais qui partagent une même recherche d'harmonie entre l'homme et la nature, à travers des formes réduites, épurées, stylisées. L'ikebana exprime cet idéal à travers les arrangements floraux, tandis que le bonsaï le traduit dans la miniature vivante des arbres.
 
 ## Ikebana
 
@@ -36,15 +35,15 @@ L'ikebana est le nom donné à l'art floral traditionnel japonais, généralemen
 
 ### Techniques de base
 
-Comment couper ? 
+#### Couper
 
 Enlever toutes les feuilles superflues. Couper les branches à angle oblique. Couper les tiges à angle droit dans un récipient d'eau afin qu'elles absorbent mieux l'eau. 
 
-Comment plier ?
+#### Plier
 
 Se servir des pouces pour courber les branches.
 
-Comment fixer ?
+#### Fixer
 
 * Se servir d'un vase pourvu de baguettes de fixation.
 * Baguettes de fixation en croix.
@@ -57,7 +56,7 @@ Pour les branches : les piquer verticalement, puis les incliner.
 Pour les tiges : les piquer selon l'angle souhaité. 
 Se servir d'un morceau de branche en guise de support pour les tiges ou les branches fines.  
 
-### Faites de l'ikebana avec les fleurs de votre jardin !
+### Faire de l'ikebana avec les fleurs de votre jardin
 
 1. Choisir deux ou trois types de fleurs différentes. Enlever les feuilles superflues.
 2. Choisir un récipient qui pourra faire un joli vase. Le remplir d'eau et insérer un bloc de mousse Oasis imbibé d’eau.
@@ -114,8 +113,6 @@ La forme d'un bonsaï qui aurait poussé au-dessus d'un précipice et dont les b
 
 ### Critères d'appréciation
 
-On note la manière dont elles ont poussé, et si elles se sont étendues dans toutes les directions. 
-
-La force avec laquelle le tronc s'élève du sol dénote sa beauté naturelle. 
-
-On note le bon état des branches, leur finesse, l'équilibre de leur courbure (ou : de leur galbe) et de leurs contours.
+* La manière dont les branches ont poussé, et si elles se sont étendues dans toutes les directions.
+* La force avec laquelle le tronc s'élève du sol.
+* Le bon état des branches, leur finesse, l'équilibre de leur courbure (ou galbe) et de leurs contours.

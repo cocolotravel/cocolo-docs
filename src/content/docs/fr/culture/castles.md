@@ -8,8 +8,6 @@ Les armes à feu ont été introduites au Japon en 1543. Cela a conduit à un ch
 
 La tour principale, ou tenshu, se situait dans l'enceinte principale du château. La façade extérieure était peinte en blanc. Les points stratégiques étaient équipés d'embrasures pour les canons et les jets de pierres.
 
-Château de Himeji
-
 ![Tour principale du château de Himeji](https://res.cloudinary.com/dzltvayos/image/upload/v1746778224/tenshu-himeji_fthplr.png)
 
 * Shachihoko (un ornement en forme de poisson à tête de dragon, qui était un talisman contre le feu)
@@ -26,7 +24,6 @@ Château de Himeji
 ![Disposition du château de Himeji](https://res.cloudinary.com/dzltvayos/image/upload/v1746778247/disposition-himeji_vzxnxg.png)
 
 La disposition du château était conçue pour parer aux attaques de l'ennemi.
-Château de Himeji
 
 * Tenshu
 * Nishinomaru (enceinte ouest)

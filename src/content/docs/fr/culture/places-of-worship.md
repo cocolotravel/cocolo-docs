@@ -76,7 +76,7 @@ Bosatsu : Une représentation de Bouddha avant qu'il entre en religion, c'est po
 * Tenne (écharpe)
 * Rengeza (pétales de lotus)
 
-### Monde de rien selon le zen
+### Zazen
 
 Le Zen, dans sa quête de l'éveil spirituel, a fait du zazen sa pratique essentielle. Cette pratique ascétique du corps et de l'esprit consiste à se concentrer grâce à la méditation.
 

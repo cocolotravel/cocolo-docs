@@ -46,20 +46,24 @@ Le Japon dispose de trésors culturels et naturels qui doivent être préservés
 
 ## Héritage culturel
 
-* l’architecture bouddhique à l'intérieur et autour du temple Hôryû-ji
-* le château d'Himeji 
-* les vestiges culturels de la vieille ville de Kyôto 
-* les habitations aux toits de paille des hameaux traditionnels de Shirakawa et de Gokayama 
-* le mémorial pour la paix de Hiroshima (Genbaku Dome) 
-* le sanctuaire shintoïste d'Itsukushima 
-* les monuments historiques du vieux Nara 
-* les temples et sanctuaires de Nikkô 
-* les sites de Gusuku et les vestiges du royaume de Ryûkyû 
-* les lieux sacrés et les chemins de pèlerinage dans les montagnes Kii 
-* la mine d’argent d’Iwami-Ginzan.
+| Site | Lien |
+| --- | --- |
+| L'architecture bouddhique à l'intérieur et autour du temple Hôryû-ji | — |
+| Le château d'Himeji | [Himeji](../../cities/himeji) |
+| Les vestiges culturels de la vieille ville de Kyôto | [Kyoto](../../cities/kyoto) |
+| Les habitations aux toits de paille des hameaux traditionnels de Shirakawa et de Gokayama | — |
+| Le mémorial pour la paix de Hiroshima (Genbaku Dome) | [Hiroshima](../../cities/hiroshima) |
+| Le sanctuaire shintoïste d'Itsukushima | [Hiroshima](../../cities/hiroshima) |
+| Les monuments historiques du vieux Nara | [Nara](../../cities/nara) |
+| Les temples et sanctuaires de Nikkô | — |
+| Les sites de Gusuku et les vestiges du royaume de Ryûkyû | — |
+| Les lieux sacrés et les chemins de pèlerinage dans les montagnes Kii | [Koyasan](../../cities/koyasan) / [Kumano Kodo](../../cities/kumano-kodo) |
+| La mine d'argent d'Iwami-Ginzan | — |
 
 ## Héritage naturel
 
-* les montagnes Shirakami (Aomori, Akita) 
-* l’île de Yakushima (Kagoshima) 
-* Shiretoko (Hokkaidô)
+| Site | Région |
+| --- | --- |
+| Les montagnes Shirakami | Aomori, Akita |
+| L'île de Yakushima | Kagoshima |
+| Shiretoko | Hokkaidô |
