@@ -74,6 +74,6 @@ Tous les matins le long de la rivière Miyagawa, un marché de producteurs locau
 
 ### Le Sanctuaire Hie
 
-[Google Maps](https://maps.app.goo.gl/SanctHieTakayama)
+[Google Maps](https://www.google.com/maps/search/?api=1&query=Hida+Sanno-gu+Hie+Shrine%2C+Takayama%2C+Japan)
 
 Un sanctuaire shinto calme et solennel, entouré de cryptomères centenaires. Il a servi de modèle pour le sanctuaire représenté dans le film d'animation *Your Name* de Makoto Shinkai. Pour les amateurs du film, une deuxième étape est possible à Hida Furukawa, un village à 20 minutes de train de Takayama qui est à l'origine de nombreuses scènes du film.

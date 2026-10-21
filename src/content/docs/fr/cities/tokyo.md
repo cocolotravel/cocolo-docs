@@ -156,13 +156,13 @@ Tokyo ne manque pas d'endroits pour faire des emplettes par temps de pluie :
 
 ### Le quartier d'Asakusa
 
-[Google Maps](https://maps.app.goo.gl/RDebpTBHswNRdzKw7)
+[Google Maps](https://www.google.com/maps/search/?api=1&query=Asakusa%2C+Taito%2C+Tokyo%2C+Japan)
 
 Asakusa est le quartier le plus traditionnel de Tokyo, et sans doute celui qui donne le plus fortement l'impression d'avoir remonté le temps. Le temple Senso-ji, avec son immense lanterne rouge et sa rue commerçante (Nakamise-dori), est l'une des images les plus iconiques du Japon. Le mieux est d'y aller tôt le matin, avant l'afflux des groupes.
 
 ### Le quartier de Shinjuku
 
-[Google Maps](https://maps.app.goo.gl/XRYmiZw1ZRdZkxty7)
+[Google Maps](https://www.google.com/maps/search/?api=1&query=Shinjuku%2C+Tokyo%2C+Japan)
 
 Shinjuku, c'est Tokyo dans toute sa démesure : la gare la plus fréquentée au monde, des gratte-ciel, des centres commerciaux, des izakayas bondés et la vie nocturne la plus animée de la ville. Le contraste entre Nishi-Shinjuku (quartier d'affaires) et Shinjuku ni-chome (le quartier gay, l'un des plus accueillants du Japon) résume à lui seul la complexité de Tokyo. Comptez 2h minimum pour l'explorer.
 
@@ -192,6 +192,6 @@ Une expérience d'art numérique immersif unique au monde. Le nouveau site d'Aza
 
 ### Le quartier de Roppongi
 
-[Google Maps](https://maps.app.goo.gl/eLgFuTBQQL7bBUiHA)
+[Google Maps](https://www.google.com/maps/search/?api=1&query=Roppongi%2C+Minato%2C+Tokyo%2C+Japan)
 
 Roppongi a longtemps été associé à la vie nocturne des expatriés. Mais le quartier a profondément évolué : Roppongi Hills et Tokyo Midtown ont transformé le secteur en destination culturelle et gastronomique de premier plan. Le "Art Triangle Roppongi" — qui réunit le National Art Center, le Musée Mori et le Musée Suntory — en fait l'un des pôles artistiques les plus importants de la ville.
