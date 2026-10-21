@@ -70,7 +70,7 @@ Vous trouverez ici [leur site internet](https://www.sousou.co.jp/).
 
 Adresse : 〒168-0063 Tokyo, Suginami City, Izumi, 2 Chome−2−24 1階
 
-N'hésitez pas à jeter un œil à [leur compte instagram](https://www.instagram.com/kimonohazuki77/?igshid=YmMyMTA2M2Y%3D).
+Voir [leur compte Instagram](https://www.instagram.com/kimonohazuki77/?igshid=YmMyMTA2M2Y%3D).
 
 À **Kyoto**, déjà citée précédemment, la boutique Sousou regorge de Kimono et Yukata, qui peuvent être portés dans la vie de tous les jours.
 

@@ -9,7 +9,7 @@ Beaucoup d'hôtels où vous séjournerez proposent des laveries.
 
 Une fois sur place, vous pouvez trouver tous les renseignements à ce sujet en demandant à la réception.
 
-À noter qu'il vous faut généralement des pièces de 100 yens pour payer la machine à laver : si vous n'en avez pas suffisamment, vous pouvez obtenir le change à la réception.
+Il vous faut généralement des pièces de 100 yens pour payer la machine à laver — vous pouvez obtenir le change à la réception si besoin.
 
 Le fonctionnement des laveries dépend des hôtels. Demandez à la réception de vous expliquer leur fonctionnement.
 

@@ -14,7 +14,7 @@ Pour pouvoir échanger votre JR pass, vous aurez besoin :
 
 Au moment de l’échange, vous devez remplir un formulaire dans lequel vous choisissez la date d'activation de votre pass. Vous pouvez le faire activer le jour de l’échange ou plus tard, dans un délai de 30 jours maximum. Prenez ainsi bien le temps de **vérifier la date d'activation de votre JR pass, en fonction de votre séjour**.
 
-Une fois votre pass activé, vous pourrez l’utiliser à compter de la date de départ choisie, et ce pour la durée du pass (7, 14 ou 21 jours consécutifs). À noter que, si par exemple vous activez votre carte de 7 jours à 15 heures le 1er avril, elle sera valable jusqu'à la fin du 7 avril et non jusqu'à 15 heures le 8 avril.
+Une fois votre pass activé, vous pourrez l’utiliser à compter de la date de départ choisie, et ce pour la durée du pass (7, 14 ou 21 jours consécutifs). Une carte de 7 jours activée à 15 heures le 1er avril est valable jusqu'à la fin du 7 avril, pas jusqu'à 15 heures le 8 avril.
 
 :::caution
 Il n'est pas possible d'échanger votre JR pass avant votre arrivée au Japon car le tampon de la douane est nécessaire pour prouver que vous séjournez bien au Japon avec un visa touristique.
@@ -49,7 +49,7 @@ Une fois en possession de votre Japan Rail pass, vous pourrez réserver les plac
 Réserver des places assignées ne peut se faire qu'une fois le JR pass récupéré et donc qu'une fois arrivé au Japon — il n'est pas possible de le faire en avance. Cette réservation est gratuite une fois que vous avez récupéré votre JR pass, et aucun supplément ne vous sera demandé.
 :::
 
-Veuillez vous rendre avec votre Japan Rail Pass à n'importe quelle gare de la compagnie ferroviaire JR (Tokyo, Ueno, Kyoto, Shinjuku, Narita, Haneda, Osaka, Hiroshima etc.). Dirigez-vous vers le guichet Midori-no-madoguchi みどりの窓口 de la gare.
+Rendez-vous avec votre Japan Rail Pass à n'importe quelle gare de la compagnie ferroviaire JR (Tokyo, Ueno, Kyoto, Shinjuku, Narita, Haneda, Osaka, Hiroshima etc.), au guichet Midori-no-madoguchi みどりの窓口.
 
 ![une billetterie classique des gares JR.](https://res.cloudinary.com/dzltvayos/image/upload/v1739498710/midorino4_pfrqui.jpg "une billetterie Midori-no-madoguchi.")
 

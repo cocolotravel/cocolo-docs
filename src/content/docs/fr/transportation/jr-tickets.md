@@ -287,4 +287,4 @@ L'Express Ticket est valable uniquement pour le train et l'horaire indiqués. Le
 
 - - -
 
-En cas de doute sur le quai ou en gare, le personnel JR est formé pour aider les touristes étrangers. N'hésitez jamais à leur montrer votre ticket et à demander de l'aide — ils sont habitués à cette situation et feront leur possible pour vous assister.
+En cas de doute sur le quai ou en gare, adressez-vous au guichet du personnel (有人改札 - yūjin kaisatsu) en montrant votre ticket.

@@ -30,7 +30,7 @@ Plus d'infos : Les périodes touristiques au Japon.
 
 ### Voyager hors des sentiers battus
 
-Nous avons de nombreuses pépites méconnues dans notre poche. Lors de la création de votre itinéraire, n'hésitez pas à nous demander d'y insérer une ou deux destinations qui sortent de l'ordinaire.
+Demandez-nous d'ajouter une ou deux destinations hors des sentiers battus à votre itinéraire.
 
 ### Les souvenirs
 

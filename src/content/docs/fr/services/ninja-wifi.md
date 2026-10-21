@@ -38,8 +38,7 @@ Voici la liste des principales bornes aux aéroports à l'arrivée
 * Kansai Airport Terminal 1 : 1F Arrival Lobby South Exit
 * Kansai Airport Terminal 2 : 1F International Arrival Hall Side
 
-Dirigez-vous au comptoir et indiquez votre numéro de commande. On vous demandera votre passeport également, au nom de la personne pour qui la commande a été faite.
-À noter que le boîtier doit être récupéré au guichet où il a été commandé.
+Dirigez-vous au comptoir où le boîtier a été commandé et indiquez votre numéro de commande. On vous demandera votre passeport également, au nom de la personne pour qui la commande a été faite.
 
 ## Utiliser le boîtier
 

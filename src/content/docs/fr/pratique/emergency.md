@@ -10,7 +10,7 @@ Si vous êtes de nationalité française, cela passe par l'inscription au [Fil d
 
 ## Les numéros à avoir sur soi
 
-Bien que la probabilité d'un accident lors de votre séjour soit très faible, il est important de noter, et de garder sur soi, les numéros d'urgence japonais :
+Gardez ces numéros d'urgence japonais sur vous :
 
 * Celui de votre contact sur place, qui vous sera envoyé à votre arrivée.
 * La police : 110
@@ -23,7 +23,7 @@ La plupart des tremblements de terre au Japon sont de faible intensité : le dan
 
 Pour les tremblements de terre plus intenses, il est recommandé de se mettre à l'abri sous des bureaux / tables (ou assimilés) pour se protéger des chutes d'objets.
 
-Il est également conseillé de toujours avoir de l'eau potable dans son logement lors de son séjour au Japon ainsi que de la nourriture qui ne nécessite pas de cuisson, en cas de gros tremblement de terre.
+Gardez de l'eau potable et de la nourriture ne nécessitant pas de cuisson dans votre logement, en cas de gros tremblement de terre.
 
 ## Typhon
 
@@ -42,11 +42,11 @@ Les températures sont très élevées en été au Japon avec des ressentis à 4
 ## Maladies
 
 Si vous tombez malade au Japon et que vous souhaitez consulter un médecin, il vous faudra faire l'avance des frais de santé.
-Vous trouverez sur le site de l'ambassade française [la liste de notoriété médicale](https://jp.diplomatie.gouv.fr/files/jp/files/TK/nouvelle_liste_medecins-juillet_2025.pdf) qui regroupe la liste des docteurs recommandés par l'ambassade. À noter que ceux-ci pratiquent parfois des tarifs plus élevés.
+Vous trouverez sur le site de l'ambassade française [la liste de notoriété médicale](https://jp.diplomatie.gouv.fr/files/jp/files/TK/nouvelle_liste_medecins-juillet_2025.pdf) qui regroupe la liste des docteurs recommandés par l'ambassade. Ceux-ci pratiquent parfois des tarifs plus élevés.
 
 Des cliniques parlant anglais sont aussi disponibles dans les grandes villes. Nous vous recommandons de demander conseil à la réception de votre hôtel.
 
-Certains hôpitaux ou cliniques peuvent aussi vous proposer le service d'un interprète en ligne. À noter que ce service vous sera facturé.
+Certains hôpitaux ou cliniques peuvent aussi vous proposer le service d'un interprète en ligne, facturé en supplément.
 
 Pensez à bien garder tous les papiers concernant le paiement, afin de pouvoir vous faire éventuellement rembourser une fois votre retour en France.
 Voici des organismes qui peuvent proposer le remboursement. Nous vous conseillons de les contacter pour connaitre vos droits, avant le début du voyage :

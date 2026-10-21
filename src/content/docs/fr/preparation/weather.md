@@ -75,7 +75,7 @@ En été, beaucoup de bâtiments et de transports sont climatisés — un foular
 
 Pour l'été au Japon, nous vous conseillons principalement des vêtements légers, car il peut faire très chaud. Des chaussures confortables qui tiennent bien le pied tout en le laissant respirer, des tee-shirts, des shorts, jupes ou pantalons fins en coton et flanelle seront vos meilleurs amis. Une veste imperméable fine sera très pratique pour les averses qui sont fréquentes. Pensez également à prendre deux ou trois pulls, ou bien une veste un peu plus chaude au cas où une soirée serait un peu plus fraîche, notamment dans les Alpes japonaises ou dans le nord du Japon.
 
-L'été étant très chaud, si vous avez des petits ventilateurs portables, n'hésitez pas à les glisser dans votre valise.
+Un petit ventilateur portable est utile par forte chaleur.
 
 ### Les vêtements à emporter à l'automne
 
