@@ -2,6 +2,9 @@
 title: "Lieux de culte"
 description: ""
 ---
+import { CardGrid } from '@astrojs/starlight/components';
+import ItemCard from '../../../../components/ItemCard.astro';
+
 Les lieux de culte au Japon peuvent être séparés en deux catégories principales : les sanctuaires shintô et les temples bouddhiques. Ces deux religions principales coexistent au Japon, où on peut aussi trouver entre autres des chrétiens et des musulmans ; il est difficile de dire qu'il y en a une qui se superpose aux autres. Au contraire, il n'est pas rare qu'un temple soit construit à côté d'un sanctuaire, ou l'inverse : un sanctuaire peut être situé au sein même d'un temple.
 
 ## Sanctuaires
@@ -29,21 +32,20 @@ Miko : Une femme non mariée au service des divinités.
 
 ### Petits objets dans un sanctuaire
 
-* Ema : une petite planche en bois ornée d'un dessin et destinée à adresser une demande aux dieux. On peut y écrire un souhait ou une prière en remerciement lorsque le vœu s'est réalisé.
-
-  ![Ema, planche en bois pour les vœux](https://res.cloudinary.com/dzltvayos/image/upload/v1746766530/ema-sanctuaire_l4f6nx.png)
-
-* Omikuji : Un oracle écrit qui détermine la chance de chacun. On tire une baguette dans une boîte en bois que l'on a secouée et l'on reçoit en échange un papier sur lequel est décrite notre chance ou notre malchance.
-
-  ![Omikuji, oracle écrit](https://res.cloudinary.com/dzltvayos/image/upload/v1746766606/omikuji-sanctuaire_q5trlh.jpg)
-
-* Omamori : une amulette qui protège des accidents et qui permet de faire part d'un souhait à un dieu ou au Bouddha.
-
-  ![Omamori, amulette protectrice](https://res.cloudinary.com/dzltvayos/image/upload/v1746766605/omamori-sanctuaire_zbtuuy.png)
-
-* Hamaya : Données aux visiteurs dans les sanctuaires le jour de l'an, ces flèches portent chance.
-
-  ![Hamaya, flèche porte-bonheur](https://res.cloudinary.com/dzltvayos/image/upload/v1746766538/hamaya-sanctuaire_ny2kql.jpg)
+<CardGrid>
+  <ItemCard title="Ema" image="https://res.cloudinary.com/dzltvayos/image/upload/v1746766530/ema-sanctuaire_l4f6nx.png">
+    Une petite planche en bois ornée d'un dessin et destinée à adresser une demande aux dieux. On peut y écrire un souhait ou une prière en remerciement lorsque le vœu s'est réalisé.
+  </ItemCard>
+  <ItemCard title="Omikuji" image="https://res.cloudinary.com/dzltvayos/image/upload/v1746766606/omikuji-sanctuaire_q5trlh.jpg">
+    Un oracle écrit qui détermine la chance de chacun. On tire une baguette dans une boîte en bois que l'on a secouée et l'on reçoit en échange un papier sur lequel est décrite notre chance ou notre malchance.
+  </ItemCard>
+  <ItemCard title="Omamori" image="https://res.cloudinary.com/dzltvayos/image/upload/v1746766605/omamori-sanctuaire_zbtuuy.png">
+    Une amulette qui protège des accidents et qui permet de faire part d'un souhait à un dieu ou au Bouddha.
+  </ItemCard>
+  <ItemCard title="Hamaya" image="https://res.cloudinary.com/dzltvayos/image/upload/v1746766538/hamaya-sanctuaire_ny2kql.jpg">
+    Données aux visiteurs dans les sanctuaires le jour de l'an, ces flèches portent chance.
+  </ItemCard>
+</CardGrid>
 
 ## Temples
 

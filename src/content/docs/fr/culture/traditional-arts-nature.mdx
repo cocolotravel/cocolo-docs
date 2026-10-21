@@ -2,6 +2,9 @@
 title: "Arts traditionnels d'ikebana et bonsaï"
 description: ""
 ---
+import { CardGrid } from '@astrojs/starlight/components';
+import ItemCard from '../../../../components/ItemCard.astro';
+
 L'ikebana et le bonsaï sont deux arts traditionnels japonais qui partagent une même recherche d'harmonie entre l'homme et la nature, à travers des formes réduites, épurées, stylisées. L'ikebana exprime cet idéal à travers les arrangements floraux, tandis que le bonsaï le traduit dans la miniature vivante des arbres.
 
 ## Ikebana
@@ -10,15 +13,17 @@ L'ikebana est le nom donné à l'art floral traditionnel japonais, généralemen
 
 ### Différents styles d'arrangement
 
-* Rikka : Un style utilisé généralement lors des événements religieux. Les compositions rikka sont ensuite placées dans le tokonoma, ou alcôve. 
-
-  ![Rikka, style d'ikebana pour les événements religieux](https://res.cloudinary.com/dzltvayos/image/upload/v1746781410/rikka-ikebana_srf6w8.jpg)
-* Nageire (style oblique) : Un style d'arrangement moderne, devenu populaire grâce à l'introduction des fleurs occidentales. D'abord adopté pour les arrangements floraux de la pièce du thé parce qu'il met en valeur la beauté naturelle des fleurs. 
-
-  ![Nageire, style d'ikebana oblique](https://res.cloudinary.com/dzltvayos/image/upload/v1746781413/nageire-ikebana_ezyu3v.jpg)
-* Moribana (style vertical) : Ce type d'arrangement se focalise sur trois points appelés “shin” (le centre), “soe” (le support) et « hikae » (le maintien de l'équilibre) qui symbolisent le ciel (celui qui guide), la terre (celui qui obéit) et l'homme (celui qui maintient leur harmonie). On appelle ces trois éléments “sansai”.
-
-  ![Moribana, style d'ikebana vertical](https://res.cloudinary.com/dzltvayos/image/upload/v1746781408/moribana-ikebana_elgv12.jpg)
+<CardGrid>
+  <ItemCard title="Rikka" image="https://res.cloudinary.com/dzltvayos/image/upload/v1746781410/rikka-ikebana_srf6w8.jpg">
+    Un style utilisé généralement lors des événements religieux. Les compositions rikka sont ensuite placées dans le tokonoma, ou alcôve.
+  </ItemCard>
+  <ItemCard title="Nageire (style oblique)" image="https://res.cloudinary.com/dzltvayos/image/upload/v1746781413/nageire-ikebana_ezyu3v.jpg">
+    Un style d'arrangement moderne, devenu populaire grâce à l'introduction des fleurs occidentales. D'abord adopté pour les arrangements floraux de la pièce du thé.
+  </ItemCard>
+  <ItemCard title="Moribana (style vertical)" image="https://res.cloudinary.com/dzltvayos/image/upload/v1746781408/moribana-ikebana_elgv12.jpg">
+    Se focalise sur trois points — « shin » (le centre), « soe » (le support) et « hikae » (le maintien de l'équilibre) — qui symbolisent le ciel, la terre et l'homme. On les appelle « sansai ».
+  </ItemCard>
+</CardGrid>
 
 ### Ustensiles et vases d'art floral
 
@@ -87,29 +92,20 @@ L'art du bonsaï est un art de l'horticulture dans lequel des arbres et des plan
 
 ### Différentes formes de bonsaïs
 
-* Chokkan (style droit) 
-
-  ![Chokkan, bonsaï de style droit](https://res.cloudinary.com/dzltvayos/image/upload/v1746766515/chokkan_wqu8dk.jpg)
-
-C'est la forme basique du bonsaï. Les branches doivent être équilibrées de façon symétrique. 
-
-* Shakan (style penché) 
-
-  ![Shakan, bonsaï de style penché](https://res.cloudinary.com/dzltvayos/image/upload/v1746766660/shakan_ktf4qc.jpg)
-
-Le tronc du bonsaï, incliné, laisse penser que les conditions naturelles, telles que le vent, ont agi sur lui. 
-
-* Ishizuki (accroché à la roche) 
-
-  ![Ishizuki, bonsaï accroché à la roche](https://res.cloudinary.com/dzltvayos/image/upload/v1746766550/ishizuki_bur4u4.jpg)
-
-La forme du bonsaï est celle d'un arbre accroché à la roche au bord d'un précipice. 
-
-* Kengai (en cascade) 
-
-  ![Kengai, bonsaï en cascade](https://res.cloudinary.com/dzltvayos/image/upload/v1746766567/kengai_sy4eny.jpg)
-
-La forme d'un bonsaï qui aurait poussé au-dessus d'un précipice et dont les branches surplomberaient le vide. 
+<CardGrid>
+  <ItemCard title="Chokkan (style droit)" image="https://res.cloudinary.com/dzltvayos/image/upload/v1746766515/chokkan_wqu8dk.jpg">
+    La forme basique du bonsaï. Les branches doivent être équilibrées de façon symétrique.
+  </ItemCard>
+  <ItemCard title="Shakan (style penché)" image="https://res.cloudinary.com/dzltvayos/image/upload/v1746766660/shakan_ktf4qc.jpg">
+    Le tronc du bonsaï, incliné, laisse penser que les conditions naturelles, telles que le vent, ont agi sur lui.
+  </ItemCard>
+  <ItemCard title="Ishizuki (accroché à la roche)" image="https://res.cloudinary.com/dzltvayos/image/upload/v1746766550/ishizuki_bur4u4.jpg">
+    La forme d'un arbre accroché à la roche au bord d'un précipice.
+  </ItemCard>
+  <ItemCard title="Kengai (en cascade)" image="https://res.cloudinary.com/dzltvayos/image/upload/v1746766567/kengai_sy4eny.jpg">
+    La forme d'un bonsaï qui aurait poussé au-dessus d'un précipice et dont les branches surplomberaient le vide.
+  </ItemCard>
+</CardGrid>
 
 ### Critères d'appréciation
 
