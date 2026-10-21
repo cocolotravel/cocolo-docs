@@ -2,13 +2,11 @@
 title: "Météo"
 description: ""
 ---
-Le Japon possède quatre saisons qui sont similaires à celles de la France. Les températures varient cependant fortement selon que vous vous trouvez au nord (la ville la plus au nord étant proche de la Russie) ou au sud.
+Le Japon possède quatre saisons qui sont similaires à celles de la France. Les températures varient cependant fortement selon que vous vous trouvez au nord (la ville la plus au nord étant proche de la Russie) ou au sud, l'archipel s'étendant sur plus de 3 000 km entre Hokkaidô et les îles subtropicales du sud-ouest.
 
 Les différences principales avec la météo française sont un hiver plus sec et un été plus humide, avec notamment une forte période de précipitations allant de début juin à juillet.
 
 Au nord du Japon, le climat est plutôt froid : neige et glace prédominent en hiver et les températures restent agréables en été.
-
-Les régions centrales présentent des températures tempérées, et le climat est presque tropical dans les îles les plus au sud.
 
 Sur tout le territoire, des pluies torrentielles s'abattent durant l'été, avec un pic en juin et juillet, qui correspond à la saison des pluies.
 
@@ -19,6 +17,18 @@ Des typhons font également leur apparition durant les mois de septembre et octo
 L'automne est doux et agréable : il n'est pas rare de porter seulement un petit pull début novembre à Tokyo.
 
 L'hiver, bien que froid (surtout dans les villes les plus au nord de Tokyo), est ensoleillé.
+
+## Climat par région
+
+| Région | Climat |
+| --- | --- |
+| Hokkaidô | Hiver froid, été frais |
+| Côte de la mer du Japon | Hiver très enneigé, été chaud |
+| Côte du Pacifique | Hiver doux, été chaud et pluvieux |
+| Mer intérieure de Seto | Climat plus sec, hiver doux |
+| Îles du sud-ouest (Okinawa) | Hiver très doux, été chaud, fortes pluies |
+
+![Carte du climat du Japon](https://res.cloudinary.com/dzltvayos/image/upload/v1746766553/japon-climat-01_koxijp.jpg)
 
 ## Moyennes des températures
 
@@ -40,6 +50,8 @@ Les indispensables **quelle que soit la saison** :
 
 ### Les vêtements à emporter au printemps
 
+![Paysage de printemps au Japon](https://res.cloudinary.com/dzltvayos/image/upload/v1746766640/saisons-printemps_bwyi2s.jpg)
+
 #### Dans la majeure partie du Japon
 
 Au printemps, le temps varie. Le début du printemps reste frais, tandis que sa fin est plus chaude.
@@ -53,6 +65,8 @@ Le climat reste frais au printemps, prévoyez une veste assez chaude, ainsi que 
 
 ### Les vêtements à emporter en été
 
+![Paysage d'été au Japon](https://res.cloudinary.com/dzltvayos/image/upload/v1746766637/saisons-%C3%A9t%C3%A9_xhzisf.jpg)
+
 #### Dans tout le Japon
 
 > En été, beaucoup de bâtiments et de transports sont climatisés. Nos corps ne sont pas habitués aux changements de température assez violents que cela produit : nous vous conseillons ainsi vivement d'emporter un foulard avec vous pour éviter de tomber malade.
@@ -62,6 +76,8 @@ Pour l'été au Japon, nous vous conseillons principalement des vêtements lége
 L'été étant très chaud, si vous avez des petits ventilateurs portables, n'hésitez pas à les glisser dans votre valise !
 
 ### Les vêtements à emporter à l'automne
+
+![Paysage d'automne au Japon](https://res.cloudinary.com/dzltvayos/image/upload/v1746766636/saisons-automne_bm8dzc.jpg)
 
 #### Automne – majeure partie du Japon
 
@@ -73,6 +89,8 @@ Une petite veste imperméable, ainsi qu'une un peu plus chaude pour les soirées
 Au début de l'automne, suivez les consignes indiquées ci-dessus. À la fin de l'automne cependant, référez-vous plutôt aux vêtements nécessaires pour l'hiver, car des chutes de neige sont possibles ; faites un mélange entre vêtements chauds et vêtements plus légers.
 
 ### Les vêtements à emporter en hiver
+
+![Paysage d'hiver au Japon](https://res.cloudinary.com/dzltvayos/image/upload/v1746766640/saisons-hiver_f0cjhx.jpg)
 
 #### Hiver – majeure partie du Japon
 
