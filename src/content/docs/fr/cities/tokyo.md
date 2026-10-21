@@ -132,7 +132,9 @@ Tokyo regorge de musées. Nos trois préférés pour une journée pluvieuse :
 - Pour les amateurs d'art contemporain : le **Musée Mori**, à Roppongi
 - Pour les fans d'estampes : le **Musée Sumida Hokusai**, près de la station Ryogoku
 
-Attention : la plupart des musées ferment tôt au Japon — vérifiez les horaires avant de partir.
+:::caution
+La plupart des musées ferment tôt au Japon — vérifiez les horaires avant de partir.
+:::
 
 ### Les salles d'arcades
 

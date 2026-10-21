@@ -11,9 +11,9 @@ La visite de Teshima se combine facilement avec Naoshima en deux jours ou en une
 
 Teshima est accessible en ferry depuis Uno (préfecture d'Okayama), Takamatsu (Shikoku) ou Naoshima. La traversée depuis Naoshima dure environ 30 minutes. Sur l'île, des bus desservent les principaux sites, mais les distances sont faibles et la location de vélos est recommandée pour rejoindre les installations dans le paysage. Payez avec votre [carte Suica](../../transportation/suica) pour les ferries.
 
-## Informations essentielles avant de réserver
-
+:::caution
 Le Teshima Art Museum et certaines autres installations nécessitent une réservation à l'avance. Consultez les liens ci-dessous avant votre départ.
+:::
 
 ## Les musées et installations
 

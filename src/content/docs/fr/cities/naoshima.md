@@ -11,9 +11,9 @@ Naoshima est fortement recommandée pour tous les amateurs d'art moderne et cont
 
 Naoshima est accessible en ferry depuis Uno (préfecture d'Okayama, 20 minutes) ou depuis Takamatsu (Shikoku, 50 minutes). Sur l'île, des bus relient les principaux musées depuis le port de Miyanoura. La location de vélos est également une bonne option pour circuler entre les sites. Payez avec votre [carte Suica](../../transportation/suica) pour les ferries et les transports.
 
-## Informations essentielles avant de réserver
-
+:::caution
 Plusieurs musées de Naoshima exigent une réservation à l'avance — en particulier le Chichu Art Museum et la galerie Hiroshi Sugimoto. Ces réservations sont nominatives et ne peuvent pas être rachetées sur place si le créneau est complet. Consultez les liens de réservation ci-dessous avant votre départ.
+:::
 
 ## Les musées
 
