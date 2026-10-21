@@ -55,17 +55,17 @@ Le grand sanctuaire de Kamakura abrite un musée dans ses bâtiments annexes, co
 
 [Google Maps](https://maps.app.goo.gl/Av8Ec7gsDsFzE7XUz7)
 
-Le Grand Bouddha de Kamakura — une statue de bronze de treize mètres, assis en méditation en plein air depuis le XIIIe siècle — est une des images les plus reconnaissables du Japon. Là où celui de Nara est à l'intérieur d'un hall, celui de Kamakura est exposé au ciel, face à la mer. La sérénité de l'ensemble — les collines boisées, le silence, la proportion de la statue dans le paysage — est réelle, même les jours de forte affluence.
+Le Grand Bouddha de Kamakura, une statue de bronze de treize mètres, est assis en méditation en plein air depuis le XIIIe siècle. Là où celui de Nara est à l'intérieur d'un hall, celui de Kamakura est exposé au ciel, face à la mer. La sérénité de l'ensemble — les collines boisées, le silence, la proportion de la statue dans le paysage — est réelle, même les jours de forte affluence.
 
 ### Tsurugaoka Hachimangu
 
 [Google Maps](https://maps.app.goo.gl/s1xNcCY6DeudRynJ8)
 
-Le sanctuaire principal de Kamakura, fondé par Minamoto no Yoritomo lui-même, est relié à la mer par une longue allée bordée de lotus et de cerisiers. L'ensemble du site — les grands escaliers, les torii, les pavillons — est un des lieux les plus impressionnants de la période médiévale japonaise. La vue depuis le sommet des escaliers, face à l'allée principale et à la baie au loin, vaut à elle seule le déplacement.
+Le sanctuaire principal de Kamakura, fondé par Minamoto no Yoritomo lui-même, est relié à la mer par une longue allée bordée de lotus et de cerisiers. L'ensemble du site — les grands escaliers, les torii, les pavillons — date de la période médiévale japonaise. La vue depuis le sommet des escaliers s'étend sur l'allée principale et la baie au loin.
 
 ### Le sentier des temples (Kamakura Hiking Trail)
 
-Entre les temples de l'est et de l'ouest de la ville, un réseau de sentiers pédestres traverse les collines boisées qui entourent Kamakura. En une heure et demie, on passe du temple Jochiji aux temples zen de Kita-Kamakura à travers des forêts de bambous et de cryptomères. C'est une des randonnées urbaines les plus agréables du Kanto.
+Entre les temples de l'est et de l'ouest de la ville, un réseau de sentiers pédestres traverse les collines boisées qui entourent Kamakura. En une heure et demie, on passe du temple Jochiji aux temples zen de Kita-Kamakura à travers des forêts de bambous et de cryptomères.
 
 ### La plage de Yuigahama
 

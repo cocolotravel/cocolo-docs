@@ -81,7 +81,7 @@ Les arcades couvertes de Shinsaibashi et Amerika-mura forment un réseau de gale
 
 ### Dotonbori
 
-C'est le cœur battant d'Osaka — une promenade le long du canal, bordée d'enseignes lumineuses géantes, de restaurants qui débordent sur le trottoir et de façades kitsch assumées. L'Osaka que l'on imagine avant de venir. En soirée, les reflets dans l'eau et l'animation de la rue en font un des endroits les plus vivants du Japon. Le crabe géant mécanique de Kani Doraku et le panache d'un restaurant de ramen qui sort de la façade sont des repères incontournables.
+C'est le cœur battant d'Osaka — une promenade le long du canal, bordée d'enseignes lumineuses géantes, de restaurants qui débordent sur le trottoir et de façades kitsch assumées. L'Osaka que l'on imagine avant de venir. En soirée, les reflets dans l'eau et l'animation de la rue en font un des endroits les plus vivants du Japon. Le crabe géant mécanique de Kani Doraku et le panache d'un restaurant de ramen qui sort de la façade sont des repères du quartier.
 
 ### Shinsekai et la Tour Tsutenkaku
 
@@ -97,7 +97,7 @@ Le château d'Osaka est un symbole de la ville autant qu'un monument historique.
 
 [Google Maps](https://maps.app.goo.gl/ApPhQ6atqdkT1cbg8)
 
-Une architecture spectaculaire : deux tours reliées au sommet par un observatoire annulaire, à 173 mètres de hauteur. La vue sur Osaka depuis le "Floating Garden Observatory" est parmi les plus impressionnantes de la ville, particulièrement au coucher du soleil. Le trajet en ascenseur vitré entre les deux tours est en lui-même une expérience.
+Deux tours reliées au sommet par un observatoire annulaire, à 173 mètres de hauteur. La vue sur Osaka depuis le "Floating Garden Observatory" est parmi les plus impressionnantes de la ville, particulièrement au coucher du soleil. Le trajet en ascenseur vitré entre les deux tours est en lui-même une expérience.
 
 ### Le Sanctuaire Namba Yasaka
 

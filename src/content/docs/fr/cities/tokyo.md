@@ -29,7 +29,7 @@ Le ramen de Tokyo (Tokyo ramen) se distingue par son bouillon clair à base de s
 
 ### Le monjayaki
 
-Le monjayaki est la spécialité culinaire propre à Tokyo, particulièrement dans le quartier de Tsukishima. Il s'agit d'une sorte de crêpe liquide cuite à la plancha devant vous, à mi-chemin entre l'okonomiyaki d'Osaka et une fondue. Une expérience conviviale à ne pas manquer.
+Le monjayaki est la spécialité culinaire propre à Tokyo, particulièrement dans le quartier de Tsukishima. Il s'agit d'une sorte de crêpe liquide cuite à la plancha devant vous, à mi-chemin entre l'okonomiyaki d'Osaka et une fondue.
 
 ### La tempura
 
@@ -37,7 +37,7 @@ Tokyo est réputée pour sa tempura — des beignets de légumes et de fruits de
 
 ### Le shopping de quartier
 
-Tokyo est aussi une destination shopping unique au monde : du grand magasin de luxe à Ginza aux boutiques de vintage à Shimokitazawa, en passant par les figurines et mangas d'Akihabara. Le Japon est également LE pays de la papeterie, de la vaisselle et des objets du quotidien sublimés — prévoyez de la place dans vos valises.
+Tokyo est aussi une destination shopping variée : du grand magasin à Ginza aux boutiques de vintage à Shimokitazawa, en passant par les figurines et mangas d'Akihabara. Le Japon est également réputé pour sa papeterie, sa vaisselle et ses objets du quotidien — prévoyez de la place dans vos valises.
 
 ## Restaurants
 
@@ -122,7 +122,7 @@ Un observatoire gratuit qui vous permettra de prendre de la hauteur sur la ville
 
 ### Les salons de thé japonais
 
-Une expérience à ne pas louper. La ville en compte des centaines. Nous vous recommandons en particulier la boutique **Kyoto Saryo-Suisen**, située à Shinjuku (une autre boutique est disponible à Shibuya) : vous pourrez y déguster des pâtisseries traditionnelles japonaises dans un cadre soigné. La boutique de Shinjuku est un peu cachée au fond du hall d'un grand bâtiment — cherchez bien.
+La ville en compte des centaines. Nous vous recommandons en particulier la boutique **Kyoto Saryo-Suisen**, située à Shinjuku (une autre boutique est disponible à Shibuya) : vous pourrez y déguster des pâtisseries traditionnelles japonaises dans un cadre soigné. La boutique de Shinjuku est un peu cachée au fond du hall d'un grand bâtiment — cherchez bien.
 
 ### Les musées
 
@@ -172,7 +172,7 @@ Shinjuku, c'est Tokyo dans toute sa démesure : la gare la plus fréquentée au 
 
 [Google Maps](https://maps.app.goo.gl/h23A6PV2f8BUfdLp6)
 
-Le croisement de Shibuya est l'un des endroits les plus photographiés au monde. Lorsque les feux passent au vert, des centaines de personnes se croisent simultanément depuis toutes les directions — un ballet humain fascinant à observer depuis le Starbucks ou le café l'Occitane en hauteur. C'est aussi le quartier de la mode et de la jeunesse tokyoïte.
+Le croisement de Shibuya est l'un des endroits les plus photographiés au monde. Lorsque les feux passent au vert, des centaines de personnes se croisent simultanément depuis toutes les directions — à observer depuis le Starbucks ou le café l'Occitane en hauteur. C'est aussi le quartier de la mode et de la jeunesse tokyoïte.
 
 ### Le parc Shinjuku Gyoen
 
@@ -184,13 +184,13 @@ Un immense jardin qui mêle jardins à la japonaise, à la française et à l'an
 
 [Google Maps](https://maps.app.goo.gl/R4Cin4LuHygJ5Wq39)
 
-Pour les fans des films de Hayao Miyazaki, ce musée est un lieu magique. Il ne ressemble à aucun autre musée : les salles sont conçues comme des décors habitables, les détails sont partout, et le robot géant de Laputa monte la garde sur le toit. Les billets sont limités et s'arrachent — réservez au moins 3 mois à l'avance sur le [site officiel](https://www.ghibli-museum.jp/en/tickets/).
+Pour les fans des films de Hayao Miyazaki, ce musée ne ressemble à aucun autre : les salles sont conçues comme des décors habitables, les détails sont partout, et le robot géant de Laputa monte la garde sur le toit. Les billets sont limités et s'arrachent — réservez au moins 3 mois à l'avance sur le [site officiel](https://www.ghibli-museum.jp/en/tickets/).
 
 ### TeamLab Borderless
 
 [Google Maps](https://maps.app.goo.gl/eLgFuTBQQL7bBUiHA)
 
-Une expérience d'art numérique immersif unique au monde. Le nouveau site d'Azabudai Hills plonge les visiteurs dans des installations lumineuses en perpétuel mouvement, où les frontières entre les œuvres disparaissent. Difficile d'en ressortir indifférent — et difficile d'y aller une seule fois. Réservation indispensable sur le [site officiel](https://borderless-azabudai.ticket.teamlab.art/).
+Le site d'Azabudai Hills plonge les visiteurs dans des installations lumineuses en perpétuel mouvement, où les frontières entre les œuvres disparaissent. Réservation indispensable sur le [site officiel](https://borderless-azabudai.ticket.teamlab.art/).
 
 ### Le quartier de Roppongi
 

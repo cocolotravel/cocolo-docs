@@ -3,7 +3,7 @@ title: "Kyoto"
 description: ""
 ---
 
-Ancienne capitale impériale pendant plus de mille ans, Kyoto est aujourd'hui la capitale historique et culturelle du Japon. Fondée au VIIIe siècle pour éloigner le pouvoir de l'influence du clergé bouddhiste de Nara, la ville a longtemps été le centre de la religion, de la politique et des arts du pays. Elle a eu la chance d'être épargnée par les bombardements de la Seconde Guerre mondiale, ce qui lui a permis de conserver un patrimoine exceptionnel — temples, sanctuaires, jardins zen et quartiers anciens qui donnent parfois l'impression de voyager dans le temps.
+Ancienne capitale impériale pendant plus de mille ans, Kyoto est aujourd'hui la capitale historique et culturelle du Japon. Fondée au VIIIe siècle pour éloigner le pouvoir de l'influence du clergé bouddhiste de Nara, la ville a longtemps été le centre de la religion, de la politique et des arts du pays. Elle a eu la chance d'être épargnée par les bombardements de la Seconde Guerre mondiale, ce qui lui a permis de conserver des temples, sanctuaires, jardins zen et quartiers anciens.
 
 Ce mélange entre l'agitation urbaine et la sérénité des jardins zen est particulièrement fort à Kyoto, ville profondément attachée à ses traditions. La plupart des monuments visibles aujourd'hui datent de la période d'Edo (1600–1867), le reste ayant été détruit par les conflits des siècles précédents.
 
@@ -19,7 +19,7 @@ Une des façons les plus agréables d'explorer Kyoto est de louer un vélo : cel
 
 ### Le kaiseki
 
-Le kaiseki est la haute cuisine traditionnelle japonaise, née à Kyoto. C'est un repas en plusieurs services — soupe, sashimi, grillades, fritures, riz — dans lequel chaque plat est préparé avec une attention extrême aux saisons et aux techniques. Si vous souhaitez vivre une grande expérience gastronomique japonaise, Kyoto est la ville idéale.
+Le kaiseki est la haute cuisine traditionnelle japonaise, née à Kyoto. C'est un repas en plusieurs services — soupe, sashimi, grillades, fritures, riz — dans lequel chaque plat est préparé avec une attention extrême aux saisons et aux techniques.
 
 ### La cuisine du temple (shojin ryori)
 
@@ -31,7 +31,7 @@ Kyoto est le berceau de la cérémonie du thé et la capitale japonaise du match
 
 ### Le saké de Fushimi
 
-Le quartier de Fushimi, au sud de Kyoto, est l'un des plus grands centres de production de saké au Japon, grâce à la qualité exceptionnelle de son eau souterraine. Une bonne occasion de dépasser les clichés et de comprendre la richesse de cette boisson.
+Le quartier de Fushimi, au sud de Kyoto, est l'un des plus grands centres de production de saké au Japon, grâce à la qualité de son eau souterraine. Une bonne occasion de dépasser les clichés et de comprendre la richesse de cette boisson.
 
 ## Restaurants
 
@@ -88,7 +88,7 @@ Plusieurs temples offrent de belles expériences même sous la pluie : le Sanjū
 
 ### Fushimi Inari
 
-Dix mille torii orange-vermillon qui s'enchaînent sur plusieurs kilomètres à flanc de montagne, traversant des sous-bois silencieux où résonnent les cloches des temples. Fushimi Inari est l'un des sites les plus envoûtants du Japon. Arrivez tôt le matin pour éviter la foule des groupes : dès 7h, le début du chemin est encore calme. La montée complète jusqu'au sommet prend environ deux heures aller-retour — même si vous ne montez qu'à mi-chemin, l'atmosphère est déjà saisissante.
+Dix mille torii orange-vermillon qui s'enchaînent sur plusieurs kilomètres à flanc de montagne, traversant des sous-bois silencieux où résonnent les cloches des temples. Arrivez tôt le matin pour éviter la foule des groupes : dès 7h, le début du chemin est encore calme. La montée complète jusqu'au sommet prend environ deux heures aller-retour — même si vous ne montez qu'à mi-chemin, l'atmosphère est déjà saisissante.
 
 ### Gion et les rues de Higashiyama
 
@@ -96,7 +96,7 @@ Gion est le quartier des geishas — ou plutôt des maikos, les apprenties geish
 
 ### Arashiyama et la bambouseraie
 
-La bambouseraie d'Arashiyama est une des images les plus reproduites du Japon — et pour cause. Se retrouver au milieu de ces tiges de bambou qui montent jusqu'à vingt mètres de haut crée une expérience presque irréelle. Le quartier d'Arashiyama vaut aussi pour le temple Tenryuji et son jardin, la berge de la rivière Oi, et les petites rues commerçantes qui s'étirent vers la montagne.
+La bambouseraie d'Arashiyama est une des images les plus reproduites du Japon — et pour cause. Ces tiges de bambou montent jusqu'à vingt mètres de haut. Le quartier d'Arashiyama vaut aussi pour le temple Tenryuji et son jardin, la berge de la rivière Oi, et les petites rues commerçantes qui s'étirent vers la montagne.
 
 ### Le Chemin du Philosophe
 
@@ -104,7 +104,7 @@ En suivant ce canal bordé de cerisiers sur deux kilomètres, entre Ginkaku-ji e
 
 ### Kinkaku-ji, le Pavillon d'Or
 
-Il est difficile de ne pas être frappé par la beauté du Pavillon d'Or — même si la visite est courte et que la foule est souvent au rendez-vous. Le bâtiment, couvert de feuilles d'or, se reflète dans l'étang qui l'entoure. Il s'agit d'un ancien pavillon de retraite du shogun Ashikaga Yoshimitsu, converti en temple zen après sa mort. La version actuelle est une reconstruction de 1955 — l'original ayant été incendié par un moine en 1950 (un fait divers qui a inspiré le roman de Mishima, *Le Pavillon d'Or*).
+Le Pavillon d'Or se visite rapidement, même si la foule est souvent au rendez-vous. Le bâtiment, couvert de feuilles d'or, se reflète dans l'étang qui l'entoure. Il s'agit d'un ancien pavillon de retraite du shogun Ashikaga Yoshimitsu, converti en temple zen après sa mort. La version actuelle est une reconstruction de 1955 — l'original ayant été incendié par un moine en 1950 (un fait divers qui a inspiré le roman de Mishima, *Le Pavillon d'Or*).
 
 ### Nijo-jo
 

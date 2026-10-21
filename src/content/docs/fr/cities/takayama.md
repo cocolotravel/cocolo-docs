@@ -25,7 +25,7 @@ Moins connu à l'étranger que le bœuf de Kobe, le wagyu d'Hida est tout aussi 
 
 ### Les mitarashi dango
 
-Des boulettes de riz grillées, nappées d'une sauce soja sucrée et caramélisée. On les trouve partout dans les marchés et les ruelles de Takayama — une pâtisserie simple, typique, à ne pas manquer.
+Des boulettes de riz grillées, nappées d'une sauce soja sucrée et caramélisée. On les trouve partout dans les marchés et les ruelles de Takayama — une pâtisserie simple et typique.
 
 ### Le saké d'Hida
 
@@ -60,13 +60,13 @@ L'ancienne résidence du gouvernement de l'époque Edo — l'un des rares bâtim
 
 ### Sanmachi Suji
 
-Le quartier historique de Takayama — aussi appelé "le petit Kyoto des montagnes" — est l'un des centres anciens les mieux préservés du Japon. Trois ruelles parallèles, bordées de maisons de marchands de l'ère Edo aux façades en bois sombre, avec leurs poutres, leurs cours intérieures et leurs enseignes peintes à la main. On y trouve des brasseries de saké, des boutiques d'artisanat local, des restaurants et des machiya reconverties en musées. Le matin tôt, avant l'afflux des groupes, le quartier retrouve un calme qui lui donne une atmosphère presque irréelle.
+Le quartier historique de Takayama — aussi appelé "le petit Kyoto des montagnes" — est l'un des centres anciens les mieux préservés du Japon. Trois ruelles parallèles, bordées de maisons de marchands de l'ère Edo aux façades en bois sombre, avec leurs poutres, leurs cours intérieures et leurs enseignes peintes à la main. On y trouve des brasseries de saké, des boutiques d'artisanat local, des restaurants et des machiya reconverties en musées. Le matin tôt, avant l'afflux des groupes, le quartier retrouve son calme.
 
 ### Shirakawa-go
 
 [Google Maps](https://maps.app.goo.gl/tZnm2NmfpD5i7wGKA)
 
-Le village de Shirakawa-go, classé au patrimoine mondial de l'UNESCO, est célèbre pour ses maisons gasshō-zukuri — de grandes fermes dont les toits de chaume très inclinés, en forme de mains jointes (le sens du mot gasshō), sont conçus pour résister à l'accumulation de neige en hiver. Le village est encore habité, et se retrouver dans ces ruelles au milieu de ces constructions uniques est un des moments forts de la région. En hiver, sous la neige, le lieu est d'une beauté photographique absolue.
+Le village de Shirakawa-go, classé au patrimoine mondial de l'UNESCO, est célèbre pour ses maisons gasshō-zukuri — de grandes fermes dont les toits de chaume très inclinés, en forme de mains jointes (le sens du mot gasshō), sont conçus pour résister à l'accumulation de neige en hiver. Le village est encore habité, et se retrouver dans ces ruelles au milieu de ces constructions uniques est un des moments forts de la région.
 
 ### Le marché de Miyagawa
 

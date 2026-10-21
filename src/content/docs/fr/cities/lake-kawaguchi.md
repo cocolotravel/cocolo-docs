@@ -29,7 +29,7 @@ La région de Yamanashi est aussi connue pour son saké et ses vins — le vigno
 
 ### Le Musée Kubota Itchiku
 
-Un musée unique consacré aux kimonos de l'artiste Kubota Itchiku, qui a consacré sa vie à raviver l'art oublié de la teinture Tsujigahana. Ses 80 œuvres, inspirées par la nature et le cosmos, forment notamment "Symphonie de la Lumière", une fresque textile monumentale représentant le Mont Fuji à travers les saisons. Un lieu qui surprend et émeut.
+Un musée unique consacré aux kimonos de l'artiste Kubota Itchiku, qui a consacré sa vie à raviver l'art oublié de la teinture Tsujigahana. Ses 80 œuvres, inspirées par la nature et le cosmos, forment notamment "Symphonie de la Lumière", une fresque textile monumentale représentant le Mont Fuji à travers les saisons.
 
 ## Nos coups de cœur
 
@@ -37,11 +37,11 @@ Un musée unique consacré aux kimonos de l'artiste Kubota Itchiku, qui a consac
 
 [Google Maps](https://maps.app.goo.gl/mJQTdWC4PJPxBYpr5)
 
-Cette pagode à cinq niveaux, perchée sur une colline au-dessus de la ville de Fujiyoshida, avec le Mont Fuji en arrière-plan, est l'un des paysages les plus photographiés du Japon. Il faut gravir une centaine de marches depuis le sanctuaire Arakura Sengen pour l'atteindre — l'effort est récompensé. Au printemps, les cerisiers qui bordent l'escalier ajoutent une couche supplémentaire à cette image presque irréelle.
+Cette pagode à cinq niveaux, perchée sur une colline au-dessus de la ville de Fujiyoshida, avec le Mont Fuji en arrière-plan, est l'un des paysages les plus photographiés du Japon. Il faut gravir une centaine de marches depuis le sanctuaire Arakura Sengen pour l'atteindre — l'effort est récompensé. Au printemps, les cerisiers qui bordent l'escalier complètent le paysage.
 
 ### Les vues sur le Mont Fuji depuis les rives du lac
 
-Le lac Kawaguchiko offre, par temps clair, des reflets du Mont Fuji dans ses eaux — une image rare et d'une beauté simple. Les rives nord et est du lac sont les meilleures positions. En automne, les érables flamboyants qui bordent le lac (notamment au Momiji Kairō, le "corridor des érables") créent une des scènes les plus colorées du Japon.
+Le lac Kawaguchiko offre, par temps clair, des reflets du Mont Fuji dans ses eaux. Les rives nord et est du lac sont les meilleures positions. En automne, les érables flamboyants qui bordent le lac (notamment au Momiji Kairō, le "corridor des érables") sont particulièrement réputés.
 
 ### Le Fuji-Q Highland
 

@@ -3,7 +3,7 @@ title: "Himeji"
 description: ""
 ---
 
-Himeji est souvent visitée en étape d'une journée sur le trajet entre Osaka et Hiroshima — et c'est amplement suffisant pour voir ce qui en fait la principale raison de s'y arrêter : le château. Surnommé le "Château du Héron Blanc" pour la blancheur de ses façades, c'est le château le mieux conservé du Japon et l'un des rares à n'avoir jamais été détruit ni reconstruit. Classé au patrimoine mondial de l'UNESCO depuis 1993, il constitue à lui seul une visite incontournable.
+Himeji est souvent visitée en étape d'une journée sur le trajet entre Osaka et Hiroshima — et c'est amplement suffisant pour voir ce qui en fait la principale raison de s'y arrêter : le château. Surnommé le "Château du Héron Blanc" pour la blancheur de ses façades, c'est le château le mieux conservé du Japon et l'un des rares à n'avoir jamais été détruit ni reconstruit. Classé au patrimoine mondial de l'UNESCO depuis 1993.
 
 ## Se déplacer
 
@@ -43,7 +43,7 @@ Le château de Himeji se visite en grande partie en intérieur — les six étag
 
 [Google Maps](https://maps.app.goo.gl/HjF7gGFdcMbN5LDL9)
 
-Ce qui distingue Himeji de tous les autres châteaux japonais, c'est son authenticité. Là où la plupart des châteaux du Japon ont été détruits et reconstruits en béton au XXe siècle, celui de Himeji est original — ses murs, ses charpentes, ses systèmes de défense datent du XVIIe siècle. L'ensemble est immense : 83 bâtiments reliés par un réseau de couloirs, de portes et de murailles conçu pour égarer les envahisseurs. Vu de face depuis l'esplanade principale, le donjon central qui monte en cinq niveaux décroissants dans le ciel est d'une beauté et d'une perfection formelle difficiles à expliquer — il faut le voir.
+Ce qui distingue Himeji de tous les autres châteaux japonais, c'est son authenticité. Là où la plupart des châteaux du Japon ont été détruits et reconstruits en béton au XXe siècle, celui de Himeji est original — ses murs, ses charpentes, ses systèmes de défense datent du XVIIe siècle. L'ensemble est immense : 83 bâtiments reliés par un réseau de couloirs, de portes et de murailles conçu pour égarer les envahisseurs. Vu de face depuis l'esplanade principale, le donjon central monte en cinq niveaux décroissants.
 
 ### Le Jardin Koko-en
 

@@ -43,7 +43,7 @@ Situé en bordure du parc Ohori, le musée d'art de Fukuoka abrite des œuvres a
 
 ### Dazaifu Tenmangu
 
-À 30 minutes de Fukuoka en train, le sanctuaire de Dazaifu Tenmangu — dédié à Sugawara no Michizane, divinité de l'apprentissage — est l'un des sanctuaires shinto les plus importants du Japon. La pluie n'entame pas la beauté de l'allée centrale et du pont arqué au-dessus de l'étang. Les plum yaki (gâteaux en forme de fleur de prunier) vendus à l'entrée sont la spécialité locale incontournable.
+À 30 minutes de Fukuoka en train, le sanctuaire de Dazaifu Tenmangu est dédié à Sugawara no Michizane, divinité de l'apprentissage. La pluie n'entame pas l'allée centrale et le pont arqué au-dessus de l'étang. Les plum yaki (gâteaux en forme de fleur de prunier) vendus à l'entrée sont la spécialité locale.
 
 ## Nos coups de cœur
 
@@ -69,4 +69,4 @@ Du VIIe au XIIe siècle, Dazaifu était la capitale impériale de Kyushu — un 
 
 [Google Maps](https://maps.app.goo.gl/vQnB8nLJKLtF7PmV6)
 
-À seulement dix minutes de ferry depuis le port de Meinohama, cette île dans la baie de Hakata est une escapade de nature à deux pas de la ville. Son parc floral change de visage à chaque saison — cosmos en automne, narcisses en hiver, colza et cerisiers au printemps, tournesols en été. La vue sur Fukuoka depuis les hauteurs de l'île est belle et inattendue.
+À seulement dix minutes de ferry depuis le port de Meinohama, cette île dans la baie de Hakata est une escapade de nature à deux pas de la ville. Son parc floral change de visage à chaque saison — cosmos en automne, narcisses en hiver, colza et cerisiers au printemps, tournesols en été.

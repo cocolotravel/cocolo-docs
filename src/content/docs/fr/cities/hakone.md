@@ -25,7 +25,7 @@ L'artisanat traditionnel d'Hakone est la marqueterie de bois (yosegi zaiku) — 
 
 ### Les onsen
 
-Hakone est une des régions les plus réputées du Japon pour ses bains thermaux. L'eau volcanique, riche en minéraux, varie de source en source — certaines laiteuses et soufrées, d'autres claires. La plupart des ryokans proposent des bains privés ou partagés. Certains sentō (bains publics) sont ouverts aux visiteurs à la journée.
+Hakone est réputée pour ses bains thermaux. L'eau volcanique, riche en minéraux, varie de source en source — certaines laiteuses et soufrées, d'autres claires. La plupart des ryokans proposent des bains privés ou partagés. Certains sentō (bains publics) sont ouverts aux visiteurs à la journée.
 
 ## Restaurants
 
@@ -50,11 +50,15 @@ Situé en bordure du lac Ashi, ce sanctuaire shinto est reconnaissable à son gr
 
 ### Le lac Ashi et le torii de Hakone Jinja
 
-Le torii rouge du sanctuaire Hakone Jinja, planté dans les eaux du lac Ashi avec le Mont Fuji en arrière-plan, est une des images les plus emblématiques du Japon. Les bateaux à fond plat qui traversent le lac — répliques de vaisseaux pirates baroques — ajoutent une note décalée à ce paysage de carte postale. La traversée du lac en bateau vaut pour la vue et pour le plaisir de glisser sur une eau souvent recouverte de brume matinale.
+Le torii rouge du sanctuaire Hakone Jinja est planté dans les eaux du lac Ashi, avec le Mont Fuji en arrière-plan lorsque le ciel est dégagé. Des bateaux à fond plat, répliques de vaisseaux pirates baroques, traversent le lac.
 
 ### Le téléphérique et Owakudani
 
-La vallée volcanique d'Owakudani — littéralement "la grande vallée qui bout" — est un paysage lunaire de soufre et de vapeur, traversé par un téléphérique. La vue depuis les cabines sur le lac en contrebas et, par temps dégagé, sur le Mont Fuji, est saisissante. Au sol, les jets de vapeur qui s'échappent des fissures dans la roche et l'odeur de soufre créent une ambiance unique. Note : le téléphérique est parfois interrompu en cas d'activité volcanique accrue — vérifiez avant de partir.
+La vallée volcanique d'Owakudani — littéralement "la grande vallée qui bout" — est un paysage lunaire de soufre et de vapeur, traversé par un téléphérique. La vue depuis les cabines sur le lac en contrebas et, par temps dégagé, sur le Mont Fuji, est saisissante. Au sol, des jets de vapeur s'échappent des fissures dans la roche, avec une forte odeur de soufre.
+
+:::note
+Le téléphérique est parfois interrompu en cas d'activité volcanique accrue — vérifiez avant de partir.
+:::
 
 ### Le Mont Fuji depuis Hakone
 

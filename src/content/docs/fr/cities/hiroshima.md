@@ -3,7 +3,7 @@ title: "Hiroshima"
 description: ""
 ---
 
-Hiroshima est aujourd'hui une ville moderne et dynamique, reconstruite de toutes pièces après la destruction causée par la bombe atomique du 6 août 1945. Paradoxalement, c'est précisément cette histoire tragique qui en fait l'une des villes les plus bouleversantes et les plus importantes à visiter au Japon. Au-delà du devoir de mémoire, Hiroshima surprend par son énergie, sa gastronomie et la sérénité de ses habitants, qui ont fait de leur ville un symbole universel de paix.
+Hiroshima est aujourd'hui une ville moderne et dynamique, reconstruite de toutes pièces après la destruction causée par la bombe atomique du 6 août 1945. Au-delà du devoir de mémoire, Hiroshima se distingue par son énergie et sa gastronomie, et s'est imposée comme un symbole de paix.
 
 ## Se déplacer dans la ville
 
@@ -17,7 +17,7 @@ Pour rejoindre Miyajima depuis Hiroshima, prenez le train depuis la gare d'Hiros
 
 ### L'okonomiyaki style Hiroshima
 
-L'okonomiyaki est la spécialité culinaire incontournable d'Hiroshima. Ne le confondez pas avec la version d'Osaka : celui d'Hiroshima est préparé en couches superposées — chou, pâte, nouilles soba ou udon, œuf — et non mélangé. Le résultat est plus consistant et tout aussi savoureux. Le quartier d'Okonomimura ("village de l'okonomiyaki") regroupe une trentaine de stands sur plusieurs étages — une adresse à ne pas manquer.
+L'okonomiyaki est la spécialité culinaire d'Hiroshima. Ne le confondez pas avec la version d'Osaka : celui d'Hiroshima est préparé en couches superposées — chou, pâte, nouilles soba ou udon, œuf — et non mélangé. Le résultat est plus consistant et tout aussi savoureux. Le quartier d'Okonomimura ("village de l'okonomiyaki") regroupe une trentaine de stands sur plusieurs étages.
 
 ### Les huîtres
 
@@ -37,9 +37,7 @@ Ces petites pâtisseries en forme de feuille d'érable fourrées à la pâte de 
 
 ## En cas de pluie
 
-### Le Musée Mémorial de la Paix
-
-La visite du musée est naturellement adaptée à une journée pluvieuse — et la pluie donne d'ailleurs une atmosphère particulièrement recueillie au site. Prévoyez plus de temps que par beau temps, la visite se fait entièrement en intérieur.
+Le Musée Mémorial de la Paix (voir "Nos coups de cœur" ci-dessous) se visite entièrement en intérieur — une option naturelle par temps de pluie. Prévoyez plus de temps que par beau temps.
 
 ### Le Musée d'art d'Hiroshima
 
@@ -57,19 +55,19 @@ Le "village de l'okonomiyaki" est une excellente option par mauvais temps : plus
 
 [Google Maps](https://maps.app.goo.gl/Yr4j3o7Wm5cJa5Kz5)
 
-C'est sans doute l'un des endroits les plus chargés d'émotion que vous visiterez au Japon. Le Dôme de Genbaku — seul bâtiment à avoir survécu à l'explosion — se dresse en silence au bord de la rivière, entouré du parc Mémorial. On y trouve le Cénotaphe pour les victimes, la Flamme de la Paix — allumée en 1964 et qui brûlera jusqu'à l'élimination totale des armes nucléaires dans le monde — et le Monument aux Enfants de la Paix, orné de milliers de grues en papier pliées par des enfants du monde entier. Prévoyez un moment de calme pour traverser ce parc, loin de la foule des groupes scolaires qui y passent souvent en coup de vent.
+Le Dôme de Genbaku — seul bâtiment à avoir survécu à l'explosion — se dresse en silence au bord de la rivière, entouré du parc Mémorial. On y trouve le Cénotaphe pour les victimes, la Flamme de la Paix — allumée en 1964 et qui brûlera jusqu'à l'élimination totale des armes nucléaires dans le monde — et le Monument aux Enfants de la Paix, orné de milliers de grues en papier pliées par des enfants du monde entier. Prévoyez un moment de calme pour traverser ce parc, loin de la foule des groupes scolaires qui y passent souvent en coup de vent.
 
-### Le Musée Mémorial de la Paix — à ne pas manquer
+### Le Musée Mémorial de la Paix
 
 [Google Maps](https://maps.app.goo.gl/Yr4j3o7Wm5cJa5Kz5)
 
-Sobre, pudique et profondément émouvant. Ce musée retrace les événements du 6 août 1945 à travers des témoignages personnels, des objets du quotidien retrouvés dans les décombres et des documents historiques. Il ne cherche pas à impressionner — il cherche à faire comprendre. Difficile d'en ressortir indifférent. Prévoyez au minimum 1h30, et pourquoi pas 2h si vous souhaitez lire les témoignages dans leur intégralité.
+Ce musée retrace les événements du 6 août 1945 à travers des témoignages personnels, des objets du quotidien retrouvés dans les décombres et des documents historiques. Il ne cherche pas à impressionner — il cherche à faire comprendre. Prévoyez au minimum 1h30, et pourquoi pas 2h si vous souhaitez lire les témoignages dans leur intégralité.
 
 ### L'île de Miyajima et le sanctuaire d'Itsukushima
 
 [Google Maps](https://maps.app.goo.gl/7Vp3F5HgCJQJb7XK8)
 
-Miyajima est l'une des plus belles excursions que vous ferez au Japon. Le grand Torii orange du sanctuaire d'Itsukushima semble flotter sur l'eau à marée haute — une image que l'on garde longtemps en mémoire. Des daims en liberté déambulent entre les visiteurs et les ruelles du village, sans la moindre crainte. En dehors des heures de pointe, l'île retrouve un calme et une beauté saisissants. Comptez une demi-journée.
+Le grand Torii orange du sanctuaire d'Itsukushima semble flotter sur l'eau à marée haute. Des daims en liberté déambulent entre les visiteurs et les ruelles du village, sans la moindre crainte. En dehors des heures de pointe, l'île retrouve un calme et une beauté saisissants. Comptez une demi-journée.
 
 ### Le château d'Hiroshima
 

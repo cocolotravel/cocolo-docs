@@ -56,13 +56,13 @@ Le quartier historique de Naramachi, au sud du parc, est un réseau de ruelles b
 
 ### Les daims du parc
 
-C'est une des expériences les plus singulières du Japon. Les daims de Nara sont officiellement désignés trésors nationaux depuis 1957, et ils le savent. Ils se promènent parmi les visiteurs avec une dignité sereine, s'approchent pour réclamer leurs crackers, font la révérence quand on leur en tend un (un comportement appris) et mordent sans hésiter dans les sacs plastique, les guides touristiques et les vêtements qui traînent à leur portée. Achetez les crackers des marchands ambulants et prenez le temps de vous asseoir au milieu d'eux — c'est un moment difficile à oublier.
+C'est une des expériences les plus singulières du Japon. Les daims de Nara sont officiellement désignés trésors nationaux depuis 1957, et ils le savent. Ils se promènent parmi les visiteurs avec une dignité sereine, s'approchent pour réclamer leurs crackers, font la révérence quand on leur en tend un (un comportement appris) et mordent sans hésiter dans les sacs plastique, les guides touristiques et les vêtements qui traînent à leur portée. Achetez les crackers des marchands ambulants et prenez le temps de vous asseoir au milieu d'eux.
 
 ### Todai-ji et le Grand Bouddha
 
 [Google Maps](https://maps.app.goo.gl/YtFSUA8Ame74VtBW6)
 
-Le temple Todai-ji abrite le plus grand bouddha de bronze du Japon — quinze mètres de hauteur, coulé au VIIIe siècle. Le bâtiment qui l'abrite, le Daibutsuden, a été reconstruit plusieurs fois après des incendies et reste malgré tout le plus grand bâtiment en bois du monde. L'ensemble produit un effet de grandeur absolument remarquable.
+Le temple Todai-ji abrite le plus grand bouddha de bronze du Japon — quinze mètres de hauteur, coulé au VIIIe siècle. Le bâtiment qui l'abrite, le Daibutsuden, a été reconstruit plusieurs fois après des incendies et reste malgré tout le plus grand bâtiment en bois du monde.
 
 ### Kasuga Taisha au crépuscule
 

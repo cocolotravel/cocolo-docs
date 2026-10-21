@@ -27,7 +27,7 @@ Des nouilles plates et larges, servies dans un bouillon clair à base de sauce s
 
 ### Le "morning" nagoyais
 
-La culture du petit-déjeuner à Nagoya a quelque chose d'unique au Japon : dans la plupart des cafés, commander un café le matin vous donne droit à un toast épais (parfois garni de pâte de haricots rouges sucrée, l'ogura toast) et un œuf dur ou à la coque — inclus dans le prix du café. Une tradition locale qui étonne et enchante les visiteurs.
+La culture du petit-déjeuner à Nagoya a quelque chose d'unique au Japon : dans la plupart des cafés, commander un café le matin vous donne droit à un toast épais (parfois garni de pâte de haricots rouges sucrée, l'ogura toast) et un œuf dur ou à la coque — inclus dans le prix du café.
 
 ## Restaurants
 
