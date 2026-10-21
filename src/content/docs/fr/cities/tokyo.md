@@ -196,4 +196,4 @@ Le site d'Azabudai Hills plonge les visiteurs dans des installations lumineuses 
 
 [Google Maps](https://www.google.com/maps/search/?api=1&query=Roppongi%2C+Minato%2C+Tokyo%2C+Japan)
 
-Roppongi a longtemps été associé à la vie nocturne des expatriés. Mais le quartier a profondément évolué : Roppongi Hills et Tokyo Midtown ont transformé le secteur en destination culturelle et gastronomique de premier plan. Le "Art Triangle Roppongi" — qui réunit le National Art Center, le Musée Mori et le Musée Suntory — en fait l'un des pôles artistiques les plus importants de la ville.
+Roppongi a longtemps été associé à la vie nocturne des expatriés. Mais le quartier a profondément évolué : Roppongi Hills et Tokyo Midtown ont transformé le secteur en destination culturelle et gastronomique de premier plan. Le "Art Triangle Roppongi" réunit le National Art Center, le Musée Mori et le Musée Suntory.

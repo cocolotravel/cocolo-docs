@@ -49,4 +49,4 @@ Ce qui distingue Himeji de tous les autres châteaux japonais, c'est son authent
 
 [Google Maps](https://maps.app.goo.gl/tsDGz5bJrgKkDRVq6)
 
-Reconstruit en 1992 sur l'emplacement des anciens logements des samurais, ce jardin japonais traditionnel est composé de neuf jardins séparés, chacun avec un style différent — bassin, bambous, bonsaïs, jardin de thé. Une promenade sereine, dans l'ombre du château, qui contraste avec la rigueur architecturale du monument.
+Reconstruit en 1992 sur l'emplacement des anciens logements des samurais, ce jardin japonais traditionnel est composé de neuf jardins séparés, chacun avec un style différent — bassin, bambous, bonsaïs, jardin de thé. Une promenade dans l'ombre du château, qui contraste avec la rigueur architecturale du monument.

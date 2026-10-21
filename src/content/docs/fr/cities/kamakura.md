@@ -69,4 +69,4 @@ Entre les temples de l'est et de l'ouest de la ville, un réseau de sentiers pé
 
 ### La plage de Yuigahama
 
-Kamakura est aussi une ville de bord de mer — chose relativement rare pour un site patrimonial au Japon. La plage de Yuigahama et ses environs constituent une autre facette de la ville : terrasses de cafés, surfeurs, vue sur la péninsule d'Izu. En dehors de l'été, la plage est presque vide et le contraste avec les temples bondés est saisissant.
+Kamakura est aussi une ville de bord de mer — chose relativement rare pour un site patrimonial au Japon. La plage de Yuigahama et ses environs constituent une autre facette de la ville : terrasses de cafés, surfeurs, vue sur la péninsule d'Izu. En dehors de l'été, la plage est presque vide, à l'inverse des temples qui restent fréquentés.

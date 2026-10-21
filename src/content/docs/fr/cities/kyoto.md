@@ -116,4 +116,4 @@ Le Pavillon d'Or se visite rapidement, même si la foule est souvent au rendez-v
 
 ### Nijo-jo
 
-Le château de Nijo est l'une des rares demeures palaciales de la période féodale encore debout à Kyoto. Ses "planchers rossignols" — conçus pour grincer au moindre pas et alerter contre les intrus — sont célèbres. Les peintures murales des salles intérieures, représentant des tigres, des pins et des aigles sur fond doré, sont d'une beauté et d'une précision remarquables. Le jardin, sobre et élégant, mérite aussi qu'on s'y attarde.
+Le château de Nijo est l'une des rares demeures palaciales de la période féodale encore debout à Kyoto. Ses "planchers rossignols" — conçus pour grincer au moindre pas et alerter contre les intrus — sont célèbres. Les peintures murales des salles intérieures, représentant des tigres, des pins et des aigles sur fond doré, sont d'une beauté et d'une précision remarquables. Le jardin, sobre et élégant, se visite indépendamment du château.
