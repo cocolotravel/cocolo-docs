@@ -4,43 +4,26 @@ description: ""
 ---
 ## Les couteaux
 
-Si vous souhaitez acheter un vrai couteau japonais, nous vous conseillons la boutique d'Aritsugu, située dans le marché de Nishiki, à Kyoto. Cette boutique établie en 1560 propose des couteaux japonais professionnels réalisés avec le savoir-faire traditionnel du pays. Vous aurez la possibilité de faire graver votre nom sur votre couteau et de demander des informations sur la meilleure façon de l'aiguiser.
-
-Adresse : 〒604-8052 Kyoto, Nakagyo Ward, Kajiyacho, 219
-
-Cliquez [ici](https://aritsugu.co.jp/) pour accéder à son site internet.
+| Boutique | Ville | Spécialité | Adresse | Lien |
+| --- | --- | --- | --- | --- |
+| Aritsugu | Kyoto (marché de Nishiki) | Couteaux professionnels depuis 1560, gravure du nom possible | 〒604-8052 Kyoto, Nakagyo Ward, Kajiyacho, 219 | [Site internet](https://aritsugu.co.jp/) |
 
 ![Couteau japonais artisanal de la boutique Aritsugu](https://res.cloudinary.com/dzltvayos/image/upload/v1739498730/couteau_xqmd5a.jpg)
 
 ## La vaisselle
 
-Vous aimez l'art de la table et la décoration intérieure ? Vous souhaitez ramener des céramiques japonaises chez vous ou en offrir ? Voici notre sélection de boutiques.
-
-À **Tokyo**, située dans le quartier de Ginza, la boutique Ginza Takumi est spécialisée dans l'artisanat japonais depuis plus de 80 ans et propose à la vente des céramiques venant de tout le Japon.
-Adresse : 〒104-0061 Tokyo, Chuo City, Ginza, 8 Chome−4−2 たくみビル 1F.2F
-[Site internet](http://ginza-takumi.co.jp/)
-
-À **Kyoto**, la boutique **Toutensei Kawasaki** est une boutique de céramique, tenue de père en fils depuis 8 générations. Elle est spécialisée dans les tasses et théières.
-
-Adresse : 5 Chome-463 Gojobashihigashi, Higashiyama Ward, Kyoto, 605-0846
-
-[Site internet](https://toutensei.com/)
-
-Si vous souhaitez des pièces luxueuses, réalisées à la main en édition limitée, nous vous conseillons également la boutique **Shoindo**.
-
-Adresse : 3 Chome-319 Kiyomizu, Higashiyama Ward, Kyoto, 605-0862, Japan
-
-[Site internet](https://shoindo.com/)
+| Boutique | Ville | Spécialité | Adresse | Lien |
+| --- | --- | --- | --- | --- |
+| Ginza Takumi | Tokyo (Ginza) | Artisanat japonais depuis plus de 80 ans, céramiques de tout le Japon | 〒104-0061 Tokyo, Chuo City, Ginza, 8 Chome−4−2 たくみビル 1F.2F | [Site internet](http://ginza-takumi.co.jp/) |
+| Toutensei Kawasaki | Kyoto | Céramique familiale depuis 8 générations, tasses et théières | 5 Chome-463 Gojobashihigashi, Higashiyama Ward, Kyoto, 605-0846 | [Site internet](https://toutensei.com/) |
+| Shoindo | Kyoto | Pièces haut de gamme réalisées à la main, en édition limitée | 3 Chome-319 Kiyomizu, Higashiyama Ward, Kyoto, 605-0862, Japan | [Site internet](https://shoindo.com/) |
 
 ## Les baguettes
 
-Vous souhaitez ramener de jolies baguettes chez vous ? Voici des adresses qui vous intéresseront :
-
-À **Tokyo**, située à Asakusa, la boutique Hashitou, créée en 1910, est spécialisée dans la fabrication de baguettes en bois japonais.
-Adresse : 2-6-2 Nishi Asakusa, Taito, Tokyo 111-0035
-Cliquez [ici](https://hashitou.co.jp/english/) pour accéder à leur site internet.
-
-À **Kyoto**, située dans le marché de Nishiki, Ichihara Heibei Shōten offre un choix de plusieurs centaines de baguettes, et vous propose même de les graver à votre nom.
+| Boutique | Ville | Spécialité | Adresse | Lien |
+| --- | --- | --- | --- | --- |
+| Hashitou | Tokyo (Asakusa) | Fabrication de baguettes en bois japonais depuis 1910 | 2-6-2 Nishi Asakusa, Taito, Tokyo 111-0035 | [Site internet](https://hashitou.co.jp/english/) |
+| Ichihara Heibei Shōten | Kyoto (marché de Nishiki) | Plusieurs centaines de modèles, gravure du nom possible | — | — |
 
 :::tip
 Les portes-baguettes peuvent aussi servir de porte-couteaux à table.
@@ -50,66 +33,49 @@ Les portes-baguettes peuvent aussi servir de porte-couteaux à table.
 
 ## Les accessoires
 
-Envie d'un accessoire unique à garder en souvenir de votre séjour au Japon? Voici notre sélection de boutiques originales, où vous trouverez votre bonheur.
-
-À **Tokyo**, jetez un œil à la boutique Tokyo Kimono Shoes, présente à Asakusa, qui recycle des Kimono pour en faire des sacs à mains et des baskets (en cuir 100% japonais).
-
-Adresse : 2-11-9 Hanakawado,Taito-ku,Tokyo,111-0033,Japan
-
-Pour plus de renseignements, vous pouvez consulter [leur site internet](https://tokyokimonoshoes.com/).
-
-À **Kyoto**, rendez-vous chez la boutique Sousou, pour trouver pleins d'articles et accessoires originaux et colorés, qui mixent tradition et modernité.
-Adresse : 579-9 Nakanocho, Nakagyo Ward, Kyoto, 604-8042
-Vous trouverez ici [leur site internet](https://www.sousou.co.jp/).
+| Boutique | Ville | Spécialité | Adresse | Lien |
+| --- | --- | --- | --- | --- |
+| Tokyo Kimono Shoes | Tokyo (Asakusa) | Kimono recyclés en sacs à main et baskets, cuir 100 % japonais | 2-11-9 Hanakawado, Taito-ku, Tokyo, 111-0033, Japan | [Site internet](https://tokyokimonoshoes.com/) |
+| Sousou | Kyoto | Articles et accessoires mixant tradition et modernité | 579-9 Nakanocho, Nakagyo Ward, Kyoto, 604-8042 | [Site internet](https://www.sousou.co.jp/) |
 
 ![Boutique Sousou à Kyoto et ses accessoires colorés](https://res.cloudinary.com/dzltvayos/image/upload/v1739498713/kyoto-sou-sou-193099_cbdeyi.jpg)
 
 ## Les Kimono, Yukata, Obi
 
-À **Tokyo**, vous pourrez trouver de beaux Kimonos dans la boutique Kimono Hazuki.
-
-Adresse : 〒168-0063 Tokyo, Suginami City, Izumi, 2 Chome−2−24 1階
-
-Voir [leur compte Instagram](https://www.instagram.com/kimonohazuki77/?igshid=YmMyMTA2M2Y%3D).
-
-À **Kyoto**, déjà citée précédemment, la boutique Sousou regorge de Kimono et Yukata, qui peuvent être portés dans la vie de tous les jours.
-
-Adresse : 579-9 Nakanocho, Nakagyo Ward, Kyoto, 604-8042
-
-Vous trouverez ici [leur site internet](https://www.sousou.co.jp/).
+| Boutique | Ville | Spécialité | Adresse | Lien |
+| --- | --- | --- | --- | --- |
+| Kimono Hazuki | Tokyo | Kimonos | 〒168-0063 Tokyo, Suginami City, Izumi, 2 Chome−2−24 1階 | [Instagram](https://www.instagram.com/kimonohazuki77/?igshid=YmMyMTA2M2Y%3D) |
+| Sousou | Kyoto | Kimono et Yukata portables au quotidien (voir [Les accessoires](#les-accessoires)) | 579-9 Nakanocho, Nakagyo Ward, Kyoto, 604-8042 | [Site internet](https://www.sousou.co.jp/) |
 
 ![Kimonos et yukatas en vente à la boutique Sousou](https://res.cloudinary.com/dzltvayos/image/upload/v1739498745/132569063_pkq7n2.webp)
 
 ## Les boites à Bento
 
-La boite à Bento est l'accessoire idéal pour votre pause repas du midi et vos pique-niques en famille. Que vous souhaitiez un design plutôt moderne ou traditionnel, vous en trouverez une à votre goût chez Bento and Co, boutique située à Kyoto.
-
-Adresse : 117 Yaoyacho, Nakagyo-ku, Kyoto, Japan 604-8072
-
-Plus d'info sur [leur site internet](https://www.bentoandco.com/pages/boutique-bento-co-kyoto).
+| Boutique | Ville | Spécialité | Adresse | Lien |
+| --- | --- | --- | --- | --- |
+| Bento and Co | Kyoto | Designs modernes et traditionnels | 117 Yaoyacho, Nakagyo-ku, Kyoto, Japan 604-8072 | [Site internet](https://www.bentoandco.com/pages/boutique-bento-co-kyoto) |
 
 ![Boîte à bento de la boutique Bento and Co](https://res.cloudinary.com/dzltvayos/image/upload/v1739498735/boite_%C3%A0_bento__sh9djv.png)
 
 ## Les Furoshiki
 
-Les furoshiki sont des tissus traditionnels qui servent à emballer vos objets afin d'en faciliter le transport, comme par exemple des boites à Bento.
-Avec des boutiques à Tokyo comme à Kyoto, nous vous conseillons les magasins Musubi, où vous pourrez trouver plus de 500 différents modèles.
+Les furoshiki sont des tissus traditionnels qui servent à emballer vos objets afin d'en faciliter le transport, comme par exemple des boites à Bento. Nous vous conseillons les magasins Musubi, qui proposent plus de 500 modèles différents.
 
-Adresse :
-
-* Tokyo : Musubi, 2-31-8, Jingumae, Shibuya-ku, Tokyo 150-0001
-* Kyoto : 67 Masuyacho, Nakagyo-ku Kyoto-shi, Kyoto, 604-8111, Japon
+| Ville | Adresse |
+| --- | --- |
+| Tokyo | Musubi, 2-31-8, Jingumae, Shibuya-ku, Tokyo 150-0001 |
+| Kyoto | 67 Masuyacho, Nakagyo-ku Kyoto-shi, Kyoto, 604-8111, Japon |
 
 Plus d'info sur [leur site internet](https://www.musubi-furoshiki.com/fr/collections/ukiyoe).
 
 ## Le thé
 
-Présente à Tokyo ainsi qu'à Kyoto, la boutique Ippodo Tea est spécialisée dans les thés Japonais depuis 1717. Vous pourrez y acheter des thés de qualité et obtenir des recommandations grâce à leur savoir-faire.
+La boutique Ippodo Tea est spécialisée dans les thés japonais depuis 1717.
 
-Adresse :
-
-* Kyoto : 52 Tokiwagi-cho, Nakagyo-ku, Kyoto 604-0915
-* Tokyo : Kokusai Bldg. 1F 3-1-1 Marunouchi Chiyoda Ward, Tokyo 100-0005
+| Ville | Adresse |
+| --- | --- |
+| Kyoto | 52 Tokiwagi-cho, Nakagyo-ku, Kyoto 604-0915 |
+| Tokyo | Kokusai Bldg. 1F 3-1-1 Marunouchi Chiyoda Ward, Tokyo 100-0005 |
 
 Découvrez également leur [site internet](https://global.ippodo-tea.co.jp/).
 
@@ -127,7 +93,7 @@ Lors de votre voyage au Japon, il est interdit d'acheter / rapporter les objets 
 * Plantes ou graines: L'exportation de plantes, graines ou bulbes est strictement contrôlée pour éviter l'introduction d'espèces invasives dans d'autres pays.
 * Produits dérivés des cétacés: La viande de baleine ou de dauphin (parfois trouvée dans certains marchés locaux) est controversée et est interdite à l'importation dans de nombreux pays. Sans même parler d'en ramener chez vous, nous vous recommandons de ne pas en acheter.
 * Armes ou objets dangereux: Les shurikens, katanas non déclarés ou autres armes traditionnelles peuvent poser des problèmes aux douanes, même en tant que souvenirs. Il est cependant rarement possible de les acheter, car leur vente est très encadrée dans le pays. Attention, il n'est ici pas question des répliques utilisées en décoration.
-* Produits piratés ou contrefaits: Les copies illégales d’œuvres d'art, de CD, ou de figurines, contrefaites, sont non seulement illégales, mais nuisent à l'industrie culturelle japonaise.
+* Produits piratés ou contrefaits: Les copies illégales d'œuvres d'art, de CD, ou de figurines, contrefaites, sont non seulement illégales, mais nuisent à l'industrie culturelle japonaise.
 
 :::caution
 L'Union européenne interdit l'import de viande et contrôle très strictement l'import de graines, animaux et produits végétaux.

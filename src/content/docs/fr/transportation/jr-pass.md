@@ -22,12 +22,14 @@ Il n'est pas possible d'échanger votre JR pass avant votre arrivée au Japon ca
 
 Les démarches doivent se faire à un bureau JR. Vous pourrez en trouver dans les gares suivantes :
 
-- **Gare de Tokyo** [Google Maps](https://maps.app.goo.gl/hDv7QHaubfA4LWhz7) JR EAST Travel Service Center (Marunouchi) Ouvert de 7h30 à 20h30
-- **Gare de Shibuya** [Google Maps](https://maps.app.goo.gl/sXvPKEfzkJUnPvor7) JR EAST Travel Service Center – Shibuya Station Ouvert de 9h00 à 18h00
-- **Gare d'Ueno** [Google Maps](https://maps.app.goo.gl/B94dLYmpBx2ARHoU7) JR East Travel Service Center (Central Ticket Gate) 8h00 à 18h00
-- **Gare de Shinjuku** [Google Maps](https://maps.app.goo.gl/9wzAArGtT1M7skPs6) JR EAST Travel Service Center (New South Gate) 8h00 à 19h00
-- **Gare d'Ikebukuro** [Google Maps](https://maps.app.goo.gl/hCFZvnJhz2PCUT5E9) JR EAST Travel Service Center – Ikebukuro Station Ouvert de 9h00 à 18h00
-- **Gare de Shinagawa** [Google Maps](https://maps.app.goo.gl/o4cjkpbQWJ3EeiNHA) JR-CENTRAL Ticket Office - Shinagawa station Ouvert de 9h00 à 19h00
+| Gare | Bureau | Horaires | Lien |
+| --- | --- | --- | --- |
+| Tokyo | JR EAST Travel Service Center (Marunouchi) | 7h30 – 20h30 | [Google Maps](https://maps.app.goo.gl/hDv7QHaubfA4LWhz7) |
+| Shibuya | JR EAST Travel Service Center – Shibuya Station | 9h00 – 18h00 | [Google Maps](https://maps.app.goo.gl/sXvPKEfzkJUnPvor7) |
+| Ueno | JR East Travel Service Center (Central Ticket Gate) | 8h00 – 18h00 | [Google Maps](https://maps.app.goo.gl/B94dLYmpBx2ARHoU7) |
+| Shinjuku | JR EAST Travel Service Center (New South Gate) | 8h00 – 19h00 | [Google Maps](https://maps.app.goo.gl/9wzAArGtT1M7skPs6) |
+| Ikebukuro | JR EAST Travel Service Center – Ikebukuro Station | 9h00 – 18h00 | [Google Maps](https://maps.app.goo.gl/hCFZvnJhz2PCUT5E9) |
+| Shinagawa | JR-CENTRAL Ticket Office – Shinagawa Station | 9h00 – 19h00 | [Google Maps](https://maps.app.goo.gl/o4cjkpbQWJ3EeiNHA) |
 
 ## Consulter les horaires
 

@@ -42,29 +42,25 @@ Une fois que vous avez envoyé votre bagage, vous obtiendrez un reçu papier qu'
 
 Pour envoyer les bagages, vous allez demander à la réception de l'hôtel un bordereau que vous pouvez remplir par vous-mêmes le jour même ou le jour d'avant. Nous vous conseillons de le préparer en avance pour que le jour où vous quittez l'hôtel, vous n'ayez qu'à descendre vos bagages et les déposer à la réception avant de partir pour la ville suivante. 
 
-### TO :
+### TO (en haut du bordereau)
 
-Postcode/ 郵便番号(en haut) : vous mettez le code postal de la ville où vous voulez recevoir vos bagages. Le code contient 7 chiffres et figure sur votre roadbook au début de l'adresse de l'hôtel. 
+| Champ | À indiquer |
+| --- | --- |
+| Postcode / 郵便番号 | Code postal de la ville où vous voulez recevoir vos bagages — 7 chiffres, au début de l'adresse de l'hôtel dans votre roadbook |
+| TEL / 電話 | Numéro de téléphone de l'hôtel où vous allez recevoir les bagages |
+| Receiver's address / 住所 | Adresse de l'hôtel de réception, en lettres latines (disponible dans le roadbook) |
+| Receiver's name / 氏名 | Votre prénom et nom |
 
-TEL/ 電話(en haut) : vous indiquez le numéro de téléphone de l'hôtel où vous allez recevoir les bagages. 
+### FROM (en bas du bordereau)
 
-Receiver's address /住所 : l'adresse de l'hôtel où vous voulez recevoir les bagages. Vous pouvez la consulter dans le roadbook. Faites figurer toutes les informations en lettres latines.
-
-Receiver's name /氏名 : votre prénom et nom.
-
-### FROM :
-
-Postcode/ 郵便番号(en bas) : le code postal de votre hôtel actuel. Vous avez cette information aussi dans le roadbook.
-
-TEL / 電話(en bas) : vous indiquez votre numéro de téléphone à vous en faisant figurer le code du pays (pour la France c'est +33, la Belgique c'est +32, la Suisse est +41, etc.)
-
-Shipper's address /住所 : vous indiquez l'adresse de votre hôtel actuel. 
-
-Shipper's name /氏名 : votre prénom et nom.
-
-お届け : vous écrivez le mois (月) et le jour (日) où vous arrivez dans votre prochain hôtel. En japonais, on écrit le mois avant le jour, donc faites bien attention à remplir avec les dates correctes.
-
-Contents /品名 : vous pouvez mettre "clothes".
+| Champ | À indiquer |
+| --- | --- |
+| Postcode / 郵便番号 | Code postal de votre hôtel actuel (disponible dans le roadbook) |
+| TEL / 電話 | Votre numéro de téléphone, avec le code du pays (France +33, Belgique +32, Suisse +41) |
+| Shipper's address / 住所 | Adresse de votre hôtel actuel |
+| Shipper's name / 氏名 | Votre prénom et nom |
+| お届け | Mois (月) et jour (日) d'arrivée dans votre prochain hôtel — en japonais, le mois s'écrit avant le jour |
+| Contents / 品名 | "clothes" |
 
 ![Exemple de bordereau Takkyubin rempli avec les champs TO et FROM](https://res.cloudinary.com/dzltvayos/image/upload/v1754713936/taqbin-yamato-form-1_yphew0.jpg)
 

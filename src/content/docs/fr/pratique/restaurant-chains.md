@@ -24,7 +24,21 @@ Le kaitenzushi (littéralement « sushi tournant ») est un type de restaurant d
 
    ![Donburi, bol de riz garni](https://res.cloudinary.com/dzltvayos/image/upload/v1747103516/donburi-01_maj1wf.jpg)
 
-Les donburi sont des plats japonais composés d’un bol de riz recouvert d’une garniture, généralement à base de viande, de poisson ou de légumes. Parmi les bols les plus populaires, on retrouve entre autres unadon à l'anguille, katsudon au porc pané, butadon au porc caramélisé, gyudon au bœuf, oyakodon au poulet et à l'œuf, tendon avec tempura, kaisendon garni de sashimi, maguro-don au thon, ikura-don aux œufs de poisson. Des chaînes populaires qui servent ce type de repas sont :
+Les donburi sont des plats japonais composés d'un bol de riz recouvert d'une garniture, généralement à base de viande, de poisson ou de légumes.
+
+| Nom | Garniture |
+| --- | --- |
+| Unadon | Anguille |
+| Katsudon | Porc pané |
+| Butadon | Porc caramélisé |
+| Gyudon | Bœuf |
+| Oyakodon | Poulet et œuf |
+| Tendon | Tempura |
+| Kaisendon | Sashimi |
+| Maguro-don | Thon |
+| Ikura-don | Œufs de poisson |
+
+Des chaînes populaires qui servent ce type de repas sont :
 
 * Matsuya 
 
@@ -62,7 +76,18 @@ Le ramen est généralement classé selon la saveur de son bouillon, avec trois 
 
 ![Bol d'udon](https://res.cloudinary.com/dzltvayos/image/upload/v1747103147/udon_pvifhy.jpg)
 
-Des nouilles épaisses de farine de blé, qui peuvent être consommées chaudes ou froides. Les différents types sont distingués par leurs toppings : kake udon (nouilles dans un bouillon tsuyu et garnies d’oignon vert), tsukimi udon (kake udon avec un œuf cru), kamatama udon (avec un œuf et moins de bouillon), kitsune udon (garni d’aburaage, une feuille de tofu frit qui a été bouillie dans une sauce sucrée), curry udon (dans un bouillon de curry japonais), niku udon (udon avec de la viande), chikara udon (garni avec un mochi (pâte de riz)), tempura udon (garni avec des tempura), etc. 
+Des nouilles épaisses de farine de blé, qui peuvent être consommées chaudes ou froides. Les différents types sont distingués par leurs toppings :
+
+| Nom | Garniture |
+| --- | --- |
+| Kake udon | Bouillon tsuyu et oignon vert |
+| Tsukimi udon | Kake udon avec un œuf cru |
+| Kamatama udon | Œuf, moins de bouillon |
+| Kitsune udon | Aburaage (tofu frit bouilli dans une sauce sucrée) |
+| Curry udon | Bouillon de curry japonais |
+| Niku udon | Viande |
+| Chikara udon | Mochi (pâte de riz) |
+| Tempura udon | Tempura |
 
 * Hanamaru udon 
 

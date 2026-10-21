@@ -49,6 +49,6 @@ Ne photographiez jamais les enfants, même de loin et même dans une scène de r
 
 ## Achats du quotidien
 
-**Prix.** Les boissons et la nourriture sont moins chères en magasin qu'en combini, et moins chères en combini qu'au distributeur.
+**Prix,** du moins cher au plus cher : magasin < combini < distributeur automatique.
 
 **Adresses en étage.** Beaucoup de restaurants et de boutiques se trouvent dans les étages. Pensez à lever les yeux pour repérer l'enseigne, une pancarte verticale le long de la façade ou un simple écriteau dans une fenêtre. Cherchez ensuite l'entrée de l'immeuble, puis l'ascenseur ou la cage d'escalier.

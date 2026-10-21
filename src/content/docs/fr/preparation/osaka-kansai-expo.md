@@ -7,12 +7,12 @@ Pour visiter l'exposition universelle d'Osaka, vous devez vous inscrire sur leur
 
 Une fois l'inscription faite, vous aurez accès à tous les pavillons à la date que vous aurez choisie. La fréquentation y est cependant forte.
 
-Du coup, il existe un système de loteries pour espérer gagner des coupe-files. Ces coupe-files vous permettront d'éviter des attentes inutiles aux pavillons de votre choix (5 pavillons maximum).
+Du coup, il existe un système de loteries pour espérer gagner des coupe-files. Ces coupe-files vous permettront d'éviter des attentes inutiles aux pavillons de votre choix (jusqu'à 5 pavillons).
 
-Il y a 2 loteries :
-
-* une qui a lieu entre 3 et 2 mois avant la date désirée de visite
-* une qui a lieu entre un mois et 7 jours avant votre visite
+| Loterie | Fenêtre d'inscription | Date des résultats |
+| --- | --- | --- |
+| 1ère loterie | Entre 3 et 2 mois avant la date désirée de visite | 2 mois avant la date de l'exposition |
+| 2ème loterie | Entre 1 mois et 7 jours avant la date désirée de visite | — |
 
 ## L'inscription
 
@@ -72,11 +72,13 @@ Il faudra aussi choisir la porte d'entrée à l'exposition. Il est donc utile de
 
 ![Choix de la loterie et sélection du ticket](https://res.cloudinary.com/dzltvayos/image/upload/v1744100834/lot04_03_03_en_ezx8vm.png)
 
-**Étape 4** – Une fois que vous avez sélectionné votre ticket, vous allez cliquer sur « register » et vous allez choisir jusqu'à cinq pavillons que vous voulez visiter.
+**Étape 4** – Une fois que vous avez sélectionné votre ticket, vous allez cliquer sur « register » et vous allez choisir jusqu'à 5 pavillons que vous voulez visiter.
 
 ![Enregistrement et sélection des pavillons souhaités](https://res.cloudinary.com/dzltvayos/image/upload/v1744100879/lot04_04_02_en_f1eovr.png)
 
-Il faut savoir que la participation à la loterie ne garantit pas la visite du pavillon de votre choix. On vous recommande donc de profiter de vos cinq vœux et de participer aux deux loteries si vous en avez la possibilité.
+:::note
+La participation à la loterie ne garantit pas la visite du pavillon de votre choix. Utilisez vos 5 vœux et participez aux deux loteries si possible.
+:::
 
 **Étape 5** – Recherchez les pavillons qui vous intéressent et sélectionnez vos vœux qui apparaîtront en bas.
 
@@ -90,6 +92,6 @@ Il faut savoir que la participation à la loterie ne garantit pas la visite du p
 
 ![Enregistrement du choix de la loterie](https://res.cloudinary.com/dzltvayos/image/upload/v1744101047/lot04_06_03_en_jf85s6.png)
 
-**Étape 8** – Sélectionnez d'autres pavillons ou des créneaux que vous voudrez visiter. Vous avez jusqu'à 5 vœux. Pour la première loterie, entre 3 et 2 mois à l'avance, vous saurez les résultats deux mois avant votre participation à l'exposition.
+**Étape 8** – Sélectionnez d'autres pavillons ou des créneaux que vous voudrez visiter. Vous avez jusqu'à 5 vœux.
 
 Bonne participation à l'exposition universelle.

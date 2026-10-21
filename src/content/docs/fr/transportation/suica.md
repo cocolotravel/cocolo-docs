@@ -58,9 +58,13 @@ Présentez simplement votre Welcome Suica sur le lecteur de caisse partout où l
 
 ### Zones de validité
 
-La Welcome Suica peut être utilisée sur les lignes JR East dans la région de Tokyo, ainsi que sur les métros, bus et le monorail reliant l'aéroport de Haneda à Tokyo.
+La Welcome Suica est acceptée sur les réseaux de transport des villes suivantes :
 
-En dehors de Tokyo, elle est également acceptée sur les réseaux de transport de Kyoto, Osaka, Hiroshima et Kanazawa — toutes les villes que vous visiterez durant votre séjour.
+- Tokyo — lignes JR East, métros, bus, et le monorail reliant l'aéroport de Haneda à Tokyo
+- Kyoto
+- Osaka
+- Hiroshima
+- Kanazawa
 
 ![Carte des zones de validité de la Welcome Suica](https://res.cloudinary.com/dzltvayos/image/upload/v1739498605/suica-usage_aiile1.jpg)
 
