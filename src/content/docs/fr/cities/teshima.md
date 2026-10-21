@@ -23,9 +23,11 @@ Le Teshima Art Museum et certaines autres installations nécessitent une réserv
 
 L'œuvre la plus marquante de l'île : une coque de béton en forme de goutte d'eau, posée dans les rizières en terrasses au-dessus de la mer. À l'intérieur, pas de tableau ni de sculpture — seulement des petites sources d'eau qui apparaissent spontanément du sol, se déplacent lentement sur la surface et finissent par se rejoindre. L'espace est ouvert sur le ciel et le vent par deux ouvertures ovales. On s'assoit sur le sol et on observe. L'œuvre est de Rei Naito, l'architecture de Ryue Nishizawa. Une des expériences artistiques les plus silencieuses et les plus profondes qui soit.
 
-Horaires : 10h-17h (mars-sept) / 10h-16h (oct-fév) — fermé le mardi (mars-nov) et du mardi au jeudi (déc-fév).
-Entrée : 1 570 JPY (gratuit pour les moins de 15 ans — ticket enfant nécessaire pour entrer).
-Réservation obligatoire : [e-tix.jp](https://www.e-tix.jp/teshima/en/)
+| | |
+| --- | --- |
+| Horaires | 10h-17h (mars-sept) / 10h-16h (oct-fév) — fermé le mardi (mars-nov) et du mardi au jeudi (déc-fév) |
+| Entrée | 1 570 JPY (gratuit pour les moins de 15 ans — ticket enfant nécessaire pour entrer) |
+| Réservation | Obligatoire — [e-tix.jp](https://www.e-tix.jp/teshima/en/) |
 
 ### Les Archives du Cœur
 
@@ -33,9 +35,11 @@ Réservation obligatoire : [e-tix.jp](https://www.e-tix.jp/teshima/en/)
 
 Une installation de l'artiste Christian Boltanski : une archive de battements de cœur enregistrés dans le monde entier, diffusés dans l'obscurité d'une petite cabane sur la plage. Vous pouvez faire enregistrer votre propre battement de cœur et repartir avec un livret-CD. Un des projets les plus personnels et les plus émouvants de Naoshima/Teshima.
 
-Horaires : 10h-17h (mars-sept) / 10h-16h (oct-fév) — fermé le mardi (mars-nov) et du mardi au jeudi (déc-fév).
-Entrée : 520 JPY (gratuit pour les moins de 15 ans).
-Frais d'enregistrement : 1 570 JPY (enregistrement + livret-CD).
+| | |
+| --- | --- |
+| Horaires | 10h-17h (mars-sept) / 10h-16h (oct-fév) — fermé le mardi (mars-nov) et du mardi au jeudi (déc-fév) |
+| Entrée | 520 JPY (gratuit pour les moins de 15 ans) |
+| Enregistrement d'un battement de cœur | 1 570 JPY (enregistrement + livret-CD) |
 
 ### Teshima Yokoo House
 
@@ -43,9 +47,10 @@ Frais d'enregistrement : 1 570 JPY (enregistrement + livret-CD).
 
 Une maison de village transformée par l'artiste Tadanori Yokoo en une installation de couleur et de lumière — rouge, bleu, reflets, vitraux. Un contraste délibéré avec le minimalisme qui domine ailleurs sur l'île.
 
-Horaires : 10h-17h (mars-6 nov) / 10h-16h (7 nov-fév).
-Fermeture : consulter [benesse-artsite.jp](https://benesse-artsite.jp/en/calendar/)
-Entrée : 520 JPY (gratuit pour les moins de 15 ans).
+| | |
+| --- | --- |
+| Horaires | 10h-17h (mars-6 nov) / 10h-16h (7 nov-fév). Fermeture : consulter [benesse-artsite.jp](https://benesse-artsite.jp/en/calendar/) |
+| Entrée | 520 JPY (gratuit pour les moins de 15 ans) |
 
 ### La Forêt des Murmures
 
@@ -53,8 +58,11 @@ Entrée : 520 JPY (gratuit pour les moins de 15 ans).
 
 Une installation sonore dans la forêt : des centaines de carillons éoliens suspendus aux arbres, portant chacun le nom d'une personne disparue inscrit par ses proches. Le vent fait sonner les carillons en permanence. On peut faire inscrire le nom d'un proche pour 5 000 JPY — l'inscription se fait aux Archives du Cœur.
 
-Horaires : 10h30-16h30. Entrée gratuite.
-Frais d'inscription : 5 000 JPY.
+| | |
+| --- | --- |
+| Horaires | 10h30-16h30 |
+| Entrée | Gratuite |
+| Inscription d'un nom | 5 000 JPY (aux Archives du Cœur) |
 
 ## Recommandations de restaurants
 

@@ -9,11 +9,19 @@ Ce mélange entre l'agitation urbaine et la sérénité des jardins zen est part
 
 ## Se déplacer
 
-Kyoto dispose d'un réseau de bus étendu et de deux lignes de métro (un axe Nord-Sud, un axe Est-Ouest). Un trajet en bus coûte environ 230 yens quelle que soit la distance. Le métro est tarifé à la distance, à partir de 160 yens.
+Kyoto dispose d'un réseau de bus étendu et de deux lignes de métro (un axe Nord-Sud, un axe Est-Ouest).
 
-Pour les bus, payez avec votre [carte Suica](../../transportation/suica) — c'est la solution la plus pratique. Vous pouvez aussi régler en espèces en montant dans le bus.
+| Mode | Prix | Paiement |
+| --- | --- | --- |
+| Bus | ~230 yens (tarif unique) | [Carte Suica](../../transportation/suica) ou espèces |
+| Métro | À partir de 160 yens (tarifé à la distance) | Carte Suica |
+| Vélo | ~1 000 yens/jour | — |
 
-Une des façons les plus agréables d'explorer Kyoto est de louer un vélo : cela vous permettra de couvrir plus de terrain qu'en bus et de rejoindre les temples à votre rythme. Comptez environ 1 000 yens par jour. Les vélos circulent sur les trottoirs en dehors des zones très fréquentées. Attention : les vélos doivent être garés dans des parkings dédiés — ne les attachez jamais au hasard dans la rue, la police les enlève systématiquement. Les parkings sont souvent gratuits près des temples et des entrées de métro.
+Louer un vélo permet de couvrir plus de terrain qu'en bus et de rejoindre les temples à votre rythme. Les vélos circulent sur les trottoirs en dehors des zones très fréquentées.
+
+:::caution
+Les vélos doivent être garés dans des parkings dédiés — ne les attachez jamais au hasard dans la rue, la police les enlève systématiquement. Les parkings sont souvent gratuits près des temples et des entrées de métro.
+:::
 
 ## Spécialités locales
 

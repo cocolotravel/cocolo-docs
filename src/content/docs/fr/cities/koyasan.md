@@ -15,11 +15,12 @@ La façon la plus juste de vivre Koyasan est de pratiquer le shukubo : séjourne
 
 Quelques repères pour bien vivre ce séjour :
 
-Le yukata (kimono léger) et le tanzen (veste molletonnée portée par-dessus le yukata) fournis par le temple sont destinés à un usage détendu dans les couloirs et dans votre chambre ; ils ne sont pas portés pendant les cérémonies religieuses du matin. Si vous souhaitez assister aux offices, habillez-vous normalement.
-
-Pendant les cérémonies, le silence est essentiel. Ce sont de véritables offices religieux, pas des spectacles pour touristes : les moines prient, chantent et font brûler l'encens devant leurs fidèles. Être présent avec discrétion est une marque de respect appréciée.
-
-En tant que lieu de culte actif, Koyasan attend des tenues sobres et décentes. Les vêtements trop courts, les hauts sans manches et les jeans déchirés sont à éviter. Des vêtements confortables mais respectueux (t-shirts, pantalons légers) sont parfaitement appropriés. Évitez également de porter du cuir, qui n'est pas bienvenu dans un lieu de pratique bouddhiste. Il est également d'usage de retirer son chapeau en entrant dans un temple.
+| | Faire | Éviter |
+| --- | --- | --- |
+| Tenue aux offices du matin | S'habiller normalement | Le yukata/tanzen du temple (réservés aux couloirs et à la chambre) |
+| Pendant les cérémonies | Rester silencieux et discret | Se comporter comme à un spectacle |
+| Tenue générale | Vêtements sobres (t-shirts, pantalons légers) | Vêtements trop courts, hauts sans manches, jeans déchirés, cuir |
+| En entrant dans un temple | Retirer son chapeau | — |
 
 ## La cuisine du temple (shojin ryori)
 
