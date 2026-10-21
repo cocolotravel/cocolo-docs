@@ -209,4 +209,4 @@ L’izakaya est un type de bar décontracté qui sert des boissons alcoolisées 
 
   ![Mister Donut](https://res.cloudinary.com/dzltvayos/image/upload/v1747104016/mister-donut_veqzle.jpg)
 
-Profitez de ces informations pour composer votre voyage gastronomique idéal au Japon — une aventure savoureuse à travers les saveurs authentiques et variées du pays !
+Profitez de ces informations pour composer votre voyage gastronomique idéal au Japon.

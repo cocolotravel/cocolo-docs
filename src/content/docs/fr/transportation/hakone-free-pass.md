@@ -9,7 +9,7 @@ sidebar:
 
 Le Hakone Free Pass est votre sésame pour explorer librement la région de Hakone. Il vous donne accès illimité à tous les transports de la région — trains, bus, téléphérique, bateau — et vous offre des réductions sur de nombreuses attractions. Nous vous le fournissons sous forme de QR code dans votre carnet de route.
 
-## À retenir (lire en priorité !)
+## À retenir (lire en priorité)
 
 - Votre pass vous est fourni par nos soins sous forme de QR code — vous n'avez rien à acheter.
 - **Récupérez votre pass à la gare d'Odawara**, lors de votre trajet en direction de Hakone — c'est sur votre chemin.

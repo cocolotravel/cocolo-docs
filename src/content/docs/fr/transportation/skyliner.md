@@ -5,7 +5,7 @@ description: ""
 
 Le Skyliner est le train express de la compagnie Keisei qui relie l'aéroport de Narita au centre de Tokyo en 40 à 50 minutes. C'est le moyen le plus rapide pour rejoindre Tokyo depuis Narita. Nous vous fournissons des QR codes à échanger contre vos billets physiques directement en gare.
 
-## À retenir (lire en priorité !)
+## À retenir (lire en priorité)
 
 - Vos QR codes vous sont fournis par nos soins — vous n'avez rien à acheter.
 - Échangez vos QR codes contre vos billets physiques **avant** de passer les portiques.

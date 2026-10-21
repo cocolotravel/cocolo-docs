@@ -5,7 +5,7 @@ draft: true
 ---
 Pour visiter l'exposition universelle d'Osaka, vous devez vous inscrire sur leur site officiel muni du numéro de voucher que nous vous avons fourni. Lors de cette inscription en ligne, vous pourrez choisir la date et l'heure d'entrée de votre visite.
 
-Une fois l'inscription faite, vous aurez accès à tous les pavillons à la date que vous aurez choisie. Mais attention : il risque fort d'y avoir du monde !
+Une fois l'inscription faite, vous aurez accès à tous les pavillons à la date que vous aurez choisie. La fréquentation y est cependant forte.
 
 Du coup, il existe un système de loteries pour espérer gagner des coupe-files. Ces coupe-files vous permettront d'éviter des attentes inutiles aux pavillons de votre choix (5 pavillons maximum).
 
@@ -18,7 +18,7 @@ Il y a 2 loteries :
 
 Pour vous inscrire, suivez les étapes suivantes :
 
-**Étape 1** – Commencez par vous enregistrer sur le site officiel de l'exposition. Attention : le voucher que vous avez reçu n'est pas un ticket ! Pour avoir accès au ticket, il faut effectuer une inscription sur le site de l'exposition et prouver votre identité. Rendez-vous sur ce site internet avec un téléphone : [le site internet](https://usrmng.accounts.expo2025.or.jp/idmng/users/screen/reg/usersAgreeTermsScreen?_gl=1*y1hxkf*_gcl_au*MTA3MjAwOTcwNC4xNzU4NTIxNzM0)
+**Étape 1** – Commencez par vous enregistrer sur le site officiel de l'exposition. Le voucher que vous avez reçu n'est pas un ticket. Pour avoir accès au ticket, il faut effectuer une inscription sur le site de l'exposition et prouver votre identité. Rendez-vous sur ce site internet avec un téléphone : [le site internet](https://usrmng.accounts.expo2025.or.jp/idmng/users/screen/reg/usersAgreeTermsScreen?_gl=1*y1hxkf*_gcl_au*MTA3MjAwOTcwNC4xNzU4NTIxNzM0)
 
 **Étape 2** – Procédez avec l'authentification biométrique : vous allez utiliser la caméra de votre smartphone.
 
@@ -92,4 +92,4 @@ Il faut savoir que la participation à la loterie ne garantit pas la visite du p
 
 **Étape 8** – Sélectionnez d'autres pavillons ou des créneaux que vous voudrez visiter. Vous avez jusqu'à 5 vœux. Pour la première loterie, entre 3 et 2 mois à l'avance, vous saurez les résultats deux mois avant votre participation à l'exposition.
 
-Bonne participation à l'exposition universelle !
+Bonne participation à l'exposition universelle.

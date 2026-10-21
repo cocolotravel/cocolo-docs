@@ -41,7 +41,7 @@ Cochez la case Japan Rail Pass lorsque vous faites une recherche d'horaire.
 
 ## Réserver des sièges
 
-Réserver des places assignées n'est pas obligatoire car il y a toujours au moins 3 wagons en places non-assignées. Cependant, avoir des places assignées garantit de pouvoir s’asseoir tout le long du trajet. La réservation des places est fortement conseillée car certains trains se remplissent vite : il vaut mieux ne prendre aucun risque !
+Réserver des places assignées n'est pas obligatoire car il y a toujours au moins 3 wagons en places non-assignées. Cependant, avoir des places assignées garantit de pouvoir s’asseoir tout le long du trajet. La réservation des places est fortement conseillée car certains trains se remplissent vite.
 
 Une fois en possession de votre Japan Rail pass, vous pourrez réserver les places assises dans les différents trains qui le permettent.
 

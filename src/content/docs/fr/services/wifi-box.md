@@ -72,7 +72,7 @@ Assurez-vous d'avoir la réception wifi de votre téléphone activée
    ![SSID et mot de passe indiqués au dos du boîtier Wi-Fi](https://res.cloudinary.com/dzltvayos/image/upload/v1739498717/img_3488_vmyj5d.jpg)
 3. Sur votre téléphone, dans la liste des réseaux wifi disponibles, cliquez sur le nom de votre boîtier puis entrez le mot de passe.
 
-Faites cela pour tous les appareils que vous souhaitez connecter !
+Faites cela pour tous les appareils que vous souhaitez connecter.
 
 ### Charger le boîtier
 

@@ -57,7 +57,7 @@ Assurez-vous d'avoir la réception Wi-Fi de votre téléphone activée
   <source src="https://res.cloudinary.com/dzltvayos/video/upload/v1778655033/VID-20260512-WA0003_ednblj.mp4" type="video/mp4">
 </video>
 
-Faites cela pour tous les appareils que vous souhaitez connecter !
+Faites cela pour tous les appareils que vous souhaitez connecter.
 
 ### Charger le boîtier
 

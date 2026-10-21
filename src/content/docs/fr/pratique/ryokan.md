@@ -4,7 +4,7 @@ description: ""
 ---
 ## Washitsu : la chambre japonaise
 
-Au Japon, on trouve souvent des ryôkans (hôtel japonais) qui montrent le mode de vie traditionnel des Japonais : sols vêtus de tatami, futons au lieu de lits, des tables basses, etc. Comment devrait-on alors se comporter dans un ryôkan ? Nous avons mis un guide en quelques étapes à votre disposition !
+Au Japon, on trouve souvent des ryôkans (hôtel japonais) qui montrent le mode de vie traditionnel des Japonais : sols vêtus de tatami, futons au lieu de lits, des tables basses, etc. Comment devrait-on alors se comporter dans un ryôkan ? Nous avons mis un guide en quelques étapes à votre disposition.
 
 ### Étape 1 : débarrassez-vous de vos chaussures au genkan (entrée)
 

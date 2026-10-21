@@ -14,13 +14,13 @@ Cliquez [ici](https://aritsugu.co.jp/) pour accéder à son site internet.
 
 ## La vaisselle
 
-Vous aimez l'art de la table et la décoration intérieure ? Vous souhaitez ramener des céramiques japonaises chez vous ou en offrir ? Voici notre sélection de boutiques à ne pas louper !
+Vous aimez l'art de la table et la décoration intérieure ? Vous souhaitez ramener des céramiques japonaises chez vous ou en offrir ? Voici notre sélection de boutiques.
 
 À **Tokyo**, située dans le quartier de Ginza, la boutique Ginza Takumi est spécialisée dans l'artisanat japonais depuis plus de 80 ans et propose à la vente des céramiques venant de tout le Japon.
 Adresse : 〒104-0061 Tokyo, Chuo City, Ginza, 8 Chome−4−2 たくみビル 1F.2F
 [Site internet](http://ginza-takumi.co.jp/)
 
-À **Kyoto**, la boutique **Toutensei Kawasaki** est une boutique de céramique, tenue de père en fils depuis 8 générations ! Elle est spécialisée dans les tasses et théières.
+À **Kyoto**, la boutique **Toutensei Kawasaki** est une boutique de céramique, tenue de père en fils depuis 8 générations. Elle est spécialisée dans les tasses et théières.
 
 Adresse : 5 Chome-463 Gojobashihigashi, Higashiyama Ward, Kyoto, 605-0846
 
@@ -58,7 +58,7 @@ Adresse : 2-11-9 Hanakawado,Taito-ku,Tokyo,111-0033,Japan
 
 Pour plus de renseignements, vous pouvez consulter [leur site internet](https://tokyokimonoshoes.com/).
 
-À **Kyoto**, rendez-vous chez la boutique Sousou, pour trouver pleins d'articles et accessoires originaux et colorés, qui mixent tradition et modernité !
+À **Kyoto**, rendez-vous chez la boutique Sousou, pour trouver pleins d'articles et accessoires originaux et colorés, qui mixent tradition et modernité.
 Adresse : 579-9 Nakanocho, Nakagyo Ward, Kyoto, 604-8042
 Vous trouverez ici [leur site internet](https://www.sousou.co.jp/).
 
@@ -82,7 +82,7 @@ Vous trouverez ici [leur site internet](https://www.sousou.co.jp/).
 
 ## Les boites à Bento
 
-La boite à Bento c'est l'accessoire qui va embellir votre pause repas du midi et vos pique-niques en famille ! Que vous souhaitiez un design plutôt moderne ou traditionnel, vous en trouverez une à votre goût chez Bento and Co, boutique située à Kyoto !
+La boite à Bento est l'accessoire idéal pour votre pause repas du midi et vos pique-niques en famille. Que vous souhaitiez un design plutôt moderne ou traditionnel, vous en trouverez une à votre goût chez Bento and Co, boutique située à Kyoto.
 
 Adresse : 117 Yaoyacho, Nakagyo-ku, Kyoto, Japan 604-8072
 

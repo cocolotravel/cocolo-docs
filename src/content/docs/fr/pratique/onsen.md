@@ -18,7 +18,7 @@ Voici comment en profiter :
 
 1. Préparez deux serviettes : une grande (laissez-la au vestiaire) et une petite (que vous apporterez avec vous).
 2. Entrez nu dans l’onsen — c’est la règle. Ne portez rien d’autre que votre petite serviette.
-3. Avant de vous immerger, lavez-vous soigneusement aux postes de douche où vous vous douchez comme d'habitude. Attention ! On ne se lave jamais le corps dans la piscine ! 
+3. Avant de vous immerger, lavez-vous soigneusement aux postes de douche où vous vous douchez comme d'habitude. On ne se lave jamais le corps dans la piscine.
 4. Dans le bain, ne faites pas flotter votre serviette et attachez vos cheveux pour éviter qu’ils ne trempent dans l’eau.
 5. À la sortie, rincez-vous de nouveau, séchez-vous rapidement avec la petite serviette, puis utilisez la grande dans le vestiaire.
 

@@ -33,7 +33,7 @@ Si vous préférez, vous pouvez échanger directement en France pour avoir l'esp
 
 Les taux de change sont cependant souvent préférables au Japon. Des bureaux et machines de change sont présents dans les aéroports et proposent un taux correct.
 
-À noter cependant que vous ne pourrez échanger de l'argent que dans les grandes villes : prévoyez ainsi suffisamment de yens lorsque vous voyagez à la campagne !
+À noter cependant que vous ne pourrez échanger de l'argent que dans les grandes villes : prévoyez ainsi suffisamment de yens lorsque vous voyagez à la campagne.
 
 ![Billets de banque et pièces japonaises](https://res.cloudinary.com/dzltvayos/image/upload/v1739498709/moneda_yen-860x496_kd7sta.jpg)
 

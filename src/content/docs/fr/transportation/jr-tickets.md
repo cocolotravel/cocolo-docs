@@ -7,7 +7,7 @@ sidebar:
 ---
 Le réseau JR est l'épine dorsale de votre voyage au Japon. Que vous preniez le Shinkansen entre deux grandes villes ou un train express pour rejoindre une destination plus isolée, vous aurez à manipuler des tickets dont le fonctionnement est différent de ce que vous connaissez en Europe. Ce guide vous explique exactement ce que vous devez savoir pour monter dans votre train, valider vos tickets et gérer les imprévus sans stress.
 
-## À retenir (lire en priorité !)
+## À retenir (lire en priorité)
 
 * **Deux types de tickets :** le Fare Ticket (乗車券), obligatoire pour tout trajet, et l'Express Ticket (特急券), supplément pour les trains rapides.
 * **Plusieurs tickets par trajet :** pour un voyage avec correspondance, vous pouvez avoir jusqu'à 3 tickets. Insérez-les toujours ensemble dans les portiques.

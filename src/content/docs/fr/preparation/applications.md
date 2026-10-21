@@ -19,9 +19,9 @@ Sur la capture d'écran ci-dessous, vous pouvez voir que Google Maps indique plu
 
 Google Traduction vous sera très utile durant votre voyage, pour traduire aussi bien des phrases en japonais qu'en anglais que vous pourriez ne pas comprendre.
 
-Il vous aide également à vous exprimer : vous pouvez taper en français une phrase, lui demander de la traduire en japonais, et via le bouton « microphone » lui faire lire la phrase à haute voix : plus besoin de vous soucier de la prononciation !
+Il vous aide également à vous exprimer : vous pouvez taper en français une phrase, lui demander de la traduire en japonais, et via le bouton « microphone » lui faire lire la phrase à haute voix : plus besoin de vous soucier de la prononciation.
 
-Une autre fonctionnalité de l'application qui est très utile est la possibilité de traduire instantanément du texte. Cela vous permet ainsi de mieux comprendre les plats au restaurant ou dans les supérettes. Cette fonctionnalité est par ailleurs primordiale pour toutes les personnes ayant des allergies ou des restrictions alimentaires !
+Une autre fonctionnalité de l'application qui est très utile est la possibilité de traduire instantanément du texte. Cela vous permet ainsi de mieux comprendre les plats au restaurant ou dans les supérettes. Cette fonctionnalité est par ailleurs utile pour toutes les personnes ayant des allergies ou des restrictions alimentaires.
 
 Prenons un exemple avec ce paquet de chips :
 

@@ -62,7 +62,7 @@ Shipper's address /住所 : vous indiquez l'adresse de votre hôtel actuel.
 
 Shipper's name /氏名 : votre prénom et nom.
 
-お届け : vous écrivez le mois (月) et le jour (日) où vous arrivez dans votre prochain hôtel. En japonais, on écrit le mois avant le jour, donc faites bien attention à remplir avec les dates correctes !
+お届け : vous écrivez le mois (月) et le jour (日) où vous arrivez dans votre prochain hôtel. En japonais, on écrit le mois avant le jour, donc faites bien attention à remplir avec les dates correctes.
 
 Contents /品名 : vous pouvez mettre "clothes".
 

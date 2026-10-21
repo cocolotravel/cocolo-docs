@@ -9,7 +9,7 @@ sidebar:
 
 Votre Welcome Suica est l'un des outils les plus utiles de votre séjour au Japon. Nous vous la fournissons dès le début de votre voyage : elle vous permettra de prendre les transports du quotidien et de payer dans de nombreux commerces, sans jamais avoir à acheter un billet individuel ou chercher de la monnaie.
 
-## À retenir (lire en priorité !)
+## À retenir (lire en priorité)
 
 - Votre Welcome Suica vous est fournie par nos soins — vous n'avez rien à acheter.
 - Touchez simplement la carte sur le lecteur à l'entrée et à la sortie des transports.

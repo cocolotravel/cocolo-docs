@@ -5,7 +5,7 @@ description: ""
 
 À Hiroshima, le meilleur moyen d'explorer la ville reste la marche à pied. Pour les distances plus longues, la ville dispose d'un réseau de tramway simple et pratique.
 
-## À retenir (lire en priorité !)
+## À retenir (lire en priorité)
 
 - Le tarif est fixe à l'intérieur de la ville : 220 yens pour les adultes, 110 yens pour les enfants jusqu'à 11 ans.
 - Montez par l'arrière, descendez par n'importe quelle porte.
