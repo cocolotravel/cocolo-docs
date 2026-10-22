@@ -1,6 +1,7 @@
 ---
 title: "Avant le départ"
 description: "Visa, formalités d'entrée, assurance voyage et santé — tout ce qu'il faut préparer avant de partir au Japon."
+cover: "https://res.cloudinary.com/dzltvayos/image/upload/v1746766640/saisons-printemps_bwyi2s.jpg"
 sidebar:
   order: 1
 ---

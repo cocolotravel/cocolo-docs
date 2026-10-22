@@ -1,6 +1,7 @@
 ---
 title: "Symboles du Japon et héritage mondial"
 description: ""
+cover: "https://res.cloudinary.com/dzltvayos/image/upload/v1746767923/sakura_alhxpv.jpg"
 ---
 ## Hinomaru (Le drapeau du Soleil levant)
 

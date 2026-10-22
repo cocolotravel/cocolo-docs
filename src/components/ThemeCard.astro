@@ -1,0 +1,68 @@
+---
+interface Props {
+  title: string;
+  href: string;
+  image: string;
+}
+const { title, href, image } = Astro.props;
+---
+
+<a class="theme-card" href={href}>
+  <img class="theme-card-thumb" src={image} alt="" loading="lazy" width="400" height="300" />
+  <div class="theme-card-body">
+    <span class="theme-card-title">{title}</span>
+    <div class="theme-card-desc"><slot /></div>
+  </div>
+</a>
+
+<style>
+  @layer starlight.components {
+    .theme-card {
+      display: flex;
+      flex-direction: column;
+      border: 1px solid var(--sl-color-gray-5);
+      border-radius: 0.5rem;
+      overflow: hidden;
+      box-shadow: var(--sl-shadow-sm);
+      text-decoration: none;
+      color: inherit;
+      background: var(--sl-color-bg);
+      transition: border-color 0.2s ease;
+    }
+
+    .theme-card-thumb {
+      width: 100%;
+      aspect-ratio: 4 / 3;
+      object-fit: cover;
+      background: var(--sl-color-gray-6);
+    }
+
+    .theme-card-body {
+      padding: 0.75rem 1rem 1rem;
+    }
+
+    .theme-card-title {
+      display: block;
+      font-family: var(--font-style-roslindale), 'RoslindaleDisplay', Georgia, serif;
+      font-size: var(--sl-text-lg);
+      font-weight: 600;
+      line-height: 1.3;
+      color: var(--sl-color-white);
+    }
+
+    .theme-card-desc {
+      margin-top: 0.35rem;
+      font-size: var(--sl-text-sm);
+      color: var(--sl-color-gray-2);
+      line-height: 1.6;
+    }
+
+    .theme-card:hover {
+      border-color: var(--sl-color-accent);
+    }
+
+    .theme-card:hover .theme-card-title {
+      color: var(--sl-color-text-accent);
+    }
+  }
+</style>

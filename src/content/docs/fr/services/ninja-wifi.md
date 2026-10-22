@@ -1,6 +1,7 @@
 ---
 title: Ninja Wi-Fi
 description: ""
+cover: "https://res.cloudinary.com/dzltvayos/image/upload/v1739498722/img_3481_bopz9m.jpg"
 ---
 
 Avec le boîtier Wi-Fi vous restez connecté à internet dans tout le Japon pour accéder aux cartes, aux horaires de transport et à d'autres informations importantes. Le niveau de connectivité est similaire à une connexion 4G.

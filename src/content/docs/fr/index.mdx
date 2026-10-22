@@ -1,0 +1,51 @@
+---
+title: "Bienvenue sur le guide Cocolo Travel"
+description: "Tout ce qu'il faut savoir pour préparer et réussir votre voyage au Japon : formalités, budget, transports, culture et bonnes adresses."
+template: splash
+hero:
+  tagline: "Le guide complet pour préparer et réussir votre voyage au Japon."
+  actions:
+    - text: Commencer
+      link: /fr/preparation/before-departure/
+      icon: right-arrow
+    - text: Voir les brochures
+      link: /fr/brochures/
+      icon: open-book
+      variant: minimal
+---
+
+import { CardGrid } from '@astrojs/starlight/components';
+import ThemeCard from '../../../components/ThemeCard.astro';
+
+{/* Cover URLs mirror each target page's own `cover` frontmatter field — MDX
+    doesn't support the top-level await needed to read them via getEntry(). */}
+export const themes = [
+  { href: 'preparation/before-departure', title: 'Préparation', description: "Formalités, budget, équipement et to-do avant le départ.", cover: 'https://res.cloudinary.com/dzltvayos/image/upload/v1746766640/saisons-printemps_bwyi2s.jpg' },
+  { href: 'transportation/jr-tickets', title: 'Transports', description: "JR Pass, Suica, Shinkansen et pass régionaux.", cover: 'https://res.cloudinary.com/dzltvayos/image/upload/v1739498605/suica_vwwhpw.jpg' },
+  { href: 'services/ninja-wifi', title: 'Services', description: "Wi-Fi portable, consigne à bagages et autres services utiles sur place.", cover: 'https://res.cloudinary.com/dzltvayos/image/upload/v1739498722/img_3481_bopz9m.jpg' },
+  { href: 'pratique/conseils-principaux-pour-voyages-au-japon', title: 'Pratique', description: "Restaurants, onsen, pharmacies, ryokan...", cover: 'https://res.cloudinary.com/dzltvayos/image/upload/v1747019779/washitsu-ryokan_obd2uk.jpg' },
+  { href: 'culture/symbols-of-japan', title: 'Culture', description: "Traditions, gastronomie, fêtes et symboles du Japon.", cover: 'https://res.cloudinary.com/dzltvayos/image/upload/v1746767923/sakura_alhxpv.jpg' },
+  { href: 'cities/tokyo', title: 'Guide des villes', description: "Tokyo, Kyoto, Osaka et bien d'autres destinations.", cover: 'https://res.cloudinary.com/dzltvayos/image/upload/v1746767923/sakura_alhxpv.jpg' },
+];
+
+## Par où commencer ?
+
+- **[Avant le départ](preparation/before-departure)** — visa, assurance et santé : les formalités à régler avant de partir.
+- **[Budget](preparation/budget)** — combien prévoir pour un voyage réussi au Japon.
+- **[Conseils pratiques](pratique/conseils-principaux-pour-voyages-au-japon)** — nos astuces pour éviter les pièges classiques.
+
+## Explorez le guide par thème
+
+<CardGrid>
+  {themes.map((theme) => (
+    <ThemeCard title={theme.title} href={theme.href} image={theme.cover}>
+      {theme.description}
+    </ThemeCard>
+  ))}
+</CardGrid>
+
+## Les incontournables
+
+- [Tokyo](cities/tokyo)
+- [Kyoto](cities/kyoto)
+- [Osaka](cities/osaka)

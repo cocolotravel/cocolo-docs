@@ -2,6 +2,7 @@
 title: Tickets de train JR
 description: Tout ce qu'il faut savoir sur le réseau ferroviaire Japan Rail (JR)
   et ses tickets
+cover: "https://res.cloudinary.com/dzltvayos/image/upload/v1739498605/suica_vwwhpw.jpg"
 sidebar:
   order: 1
 ---

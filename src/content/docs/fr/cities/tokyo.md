@@ -1,6 +1,9 @@
 ---
 title: "Tokyo"
 description: ""
+# Placeholder: no Tokyo photo exists in the repo yet — reusing the sakura
+# image from culture/symbols-of-japan.md until a real one is uploaded.
+cover: "https://res.cloudinary.com/dzltvayos/image/upload/v1746767923/sakura_alhxpv.jpg"
 ---
 
 Tokyo — littéralement « Capitale de l'est » — est le principal centre économique et financier du Japon. Avec plus de 13 millions d'habitants intra-muros et 42 millions dans l'agglomération, elle forme l'aire urbaine la plus peuplée au monde. Pourtant, malgré cette démesure, Tokyo est une ville qui se laisse apprivoiser facilement : propre, sûre, ordonnée, dotée d'un réseau de transports exemplaire.
