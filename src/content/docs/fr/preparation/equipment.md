@@ -1,6 +1,8 @@
 ---
 title: "Équipement"
 description: ""
+sidebar:
+  order: 3
 ---
 ## Les valises
 

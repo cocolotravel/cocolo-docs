@@ -1,6 +1,8 @@
 ---
 title: "Taxes à régler sur place"
 description: ""
+sidebar:
+  order: 7
 ---
 
 Certaines taxes ne sont pas incluses dans le prix de votre hébergement et doivent être réglées **directement sur place, à votre arrivée ou à votre départ de l'établissement**. Elles ne sont pas comprises dans votre voyage et restent à votre charge.

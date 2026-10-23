@@ -1,6 +1,8 @@
 ---
 title: "Vocabulaire"
 description: ""
+sidebar:
+  order: 8
 ---
 
 ## Les mots du quotidien

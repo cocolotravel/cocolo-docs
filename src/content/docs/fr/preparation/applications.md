@@ -1,6 +1,8 @@
 ---
 title: "Applications"
 description: ""
+sidebar:
+  order: 5
 ---
 Voici une liste des applications que nous vous conseillons d'avoir dans votre téléphone lors de votre voyage.
 

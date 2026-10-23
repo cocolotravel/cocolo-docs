@@ -1,6 +1,8 @@
 ---
 title: "Météo"
 description: ""
+sidebar:
+  order: 4
 ---
 Le Japon possède quatre saisons qui sont similaires à celles de la France. Les températures varient cependant fortement selon que vous vous trouvez au nord (la ville la plus au nord étant proche de la Russie) ou au sud, l'archipel s'étendant sur plus de 3 000 km entre Hokkaidô et les îles subtropicales du sud-ouest.
 

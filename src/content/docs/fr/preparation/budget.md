@@ -1,6 +1,8 @@
 ---
 title: "Le budget"
 description: "Budget voyage au Japon – prix, retraits et dépenses"
+sidebar:
+  order: 2
 ---
 
 Quel budget prévoir pour un voyage au Japon ? Entre la restauration, les activités, le shopping et les taxes locales, les dépenses peuvent vite surprendre. Cette page vous donne toutes les clés pour planifier votre budget en yens, que vous voyagiez en mode petit prix ou confort.
