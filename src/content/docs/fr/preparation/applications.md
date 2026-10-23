@@ -1,5 +1,5 @@
 ---
-title: "Applications"
+title: "Applications utiles"
 description: ""
 sidebar:
   order: 5

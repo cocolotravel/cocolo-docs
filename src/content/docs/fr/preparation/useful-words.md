@@ -1,5 +1,5 @@
 ---
-title: "Vocabulaire"
+title: "Vocabulaire de survie"
 description: ""
 sidebar:
   order: 8

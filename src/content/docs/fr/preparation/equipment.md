@@ -1,5 +1,5 @@
 ---
-title: "Équipement"
+title: "S'équiper"
 description: ""
 sidebar:
   order: 3

@@ -1,5 +1,5 @@
 ---
-title: "Météo"
+title: "Météo au Japon"
 description: ""
 sidebar:
   order: 4
