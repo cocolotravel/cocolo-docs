@@ -1,6 +1,7 @@
 ---
 title: "Navette Kyoto - Aéroport Kansai"
 description: ""
+draft: true
 sidebar:
   order: 10
 ---

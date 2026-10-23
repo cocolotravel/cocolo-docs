@@ -1,6 +1,7 @@
 ---
 title: "Navette Osaka - Aéroport Kansai"
 description: ""
+draft: true
 sidebar:
   order: 11
 ---

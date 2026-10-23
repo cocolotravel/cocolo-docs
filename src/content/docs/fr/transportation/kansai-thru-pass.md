@@ -1,6 +1,7 @@
 ---
 title: "Kansai Thru Pass"
 description: ""
+draft: true
 ---
 
 Le Kansai Thru Pass est un billet qui vous permet d'emprunter le métro, les trains et les bus dans toute la région du Kansai :

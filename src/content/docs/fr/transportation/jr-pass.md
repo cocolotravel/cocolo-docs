@@ -1,6 +1,7 @@
 ---
 title: "Japan Rail Pass"
 description: ""
+draft: true
 ---
 
 ## Récupérer et activer son JR pass
