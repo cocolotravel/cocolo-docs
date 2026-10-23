@@ -1,6 +1,8 @@
 ---
 title: "Magasins de luxe"
 description: ""
+sidebar:
+  order: 9
 ---
 Les Japonais apprécient les marques de luxe, y compris les marques phares françaises. La mode européenne et occidentale est en vogue chez les Japonais, qui ont souvent une image idéalisée du style vestimentaire des étrangers.
 

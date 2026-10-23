@@ -1,6 +1,8 @@
 ---
 title: "Laveries"
 description: ""
+sidebar:
+  order: 8
 ---
 
 ## Les laveries dans l'hôtel

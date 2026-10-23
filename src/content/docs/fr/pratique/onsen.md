@@ -1,6 +1,8 @@
 ---
 title: "Onsen : bain thermal"
 description: ""
+sidebar:
+  order: 4
 ---
 ![Bain onsen extérieur dans un ryokan japonais](https://res.cloudinary.com/dzltvayos/image/upload/v1747019789/onsen-01_mcept0.jpg)
 

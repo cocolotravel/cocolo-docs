@@ -1,6 +1,8 @@
 ---
 title: "Hébergements durables"
 description: ""
+sidebar:
+  order: 12
 ---
 
 ## Introduction

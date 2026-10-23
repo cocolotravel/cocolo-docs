@@ -2,6 +2,8 @@
 title: Conseils principaux pour votre voyage.
 draft: false
 cover: "https://res.cloudinary.com/dzltvayos/image/upload/v1747019779/washitsu-ryokan_obd2uk.jpg"
+sidebar:
+  order: 1
 ---
 
 

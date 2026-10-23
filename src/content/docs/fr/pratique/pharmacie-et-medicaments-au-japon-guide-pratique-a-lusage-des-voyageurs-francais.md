@@ -1,5 +1,7 @@
 ---
 title: Pharmacie et médicaments au Japon
+sidebar:
+  order: 11
 ---
 ![Rayon de médicaments dans une pharmacie japonaise](https://res.cloudinary.com/dzltvayos/image/upload/v1786430144/istockphoto-947766650-612x612_aregol.jpg)
 

@@ -1,6 +1,8 @@
 ---
 title: "Restaurants"
 description: ""
+sidebar:
+  order: 6
 ---
 
 Vous trouverez ici nos recommandations de restaurants dans les diverses villes du Japon où vous serez amené à voyager.

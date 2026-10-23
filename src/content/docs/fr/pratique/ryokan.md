@@ -1,6 +1,8 @@
 ---
 title: "Ryôkan : auberge japonaise"
 description: ""
+sidebar:
+  order: 5
 ---
 ## Washitsu : la chambre japonaise
 

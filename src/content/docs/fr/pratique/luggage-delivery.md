@@ -1,6 +1,8 @@
 ---
 title: "Envois de bagages"
 description: ""
+sidebar:
+  order: 2
 ---
 ## À retenir
 

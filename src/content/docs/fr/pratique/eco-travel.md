@@ -1,6 +1,8 @@
 ---
 title: "Voyager écolo"
 description: ""
+sidebar:
+  order: 13
 ---
 
 ## Voyager plus éco-friendly
