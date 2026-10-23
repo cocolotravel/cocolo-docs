@@ -1,5 +1,5 @@
 ---
-title: "Cadeaux"
+title: "Idées de cadeaux"
 description: ""
 sidebar:
   order: 10

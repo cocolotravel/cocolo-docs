@@ -1,5 +1,5 @@
 ---
-title: "Laveries"
+title: "Laveries: laver son linge"
 description: ""
 sidebar:
   order: 8
